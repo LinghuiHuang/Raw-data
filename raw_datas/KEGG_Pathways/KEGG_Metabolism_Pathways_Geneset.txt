@@ -1,0 +1,2993 @@
+pathways	symbol	type
+Glycolysis / Gluconeogenesis	HK3	Carbohydrate metabolism
+Glycolysis / Gluconeogenesis	HK1	Carbohydrate metabolism
+Glycolysis / Gluconeogenesis	HK2	Carbohydrate metabolism
+Glycolysis / Gluconeogenesis	HKDC1	Carbohydrate metabolism
+Glycolysis / Gluconeogenesis	GCK	Carbohydrate metabolism
+Glycolysis / Gluconeogenesis	GPI	Carbohydrate metabolism
+Glycolysis / Gluconeogenesis	PFKM	Carbohydrate metabolism
+Glycolysis / Gluconeogenesis	PFKP	Carbohydrate metabolism
+Glycolysis / Gluconeogenesis	PFKL	Carbohydrate metabolism
+Glycolysis / Gluconeogenesis	FBP1	Carbohydrate metabolism
+Glycolysis / Gluconeogenesis	FBP2	Carbohydrate metabolism
+Glycolysis / Gluconeogenesis	ALDOC	Carbohydrate metabolism
+Glycolysis / Gluconeogenesis	ALDOA	Carbohydrate metabolism
+Glycolysis / Gluconeogenesis	ALDOB	Carbohydrate metabolism
+Glycolysis / Gluconeogenesis	TPI1	Carbohydrate metabolism
+Glycolysis / Gluconeogenesis	GAPDH	Carbohydrate metabolism
+Glycolysis / Gluconeogenesis	GAPDHS	Carbohydrate metabolism
+Glycolysis / Gluconeogenesis	PGK2	Carbohydrate metabolism
+Glycolysis / Gluconeogenesis	PGK1	Carbohydrate metabolism
+Glycolysis / Gluconeogenesis	PGAM1	Carbohydrate metabolism
+Glycolysis / Gluconeogenesis	PGAM2	Carbohydrate metabolism
+Glycolysis / Gluconeogenesis	PGAM4	Carbohydrate metabolism
+Glycolysis / Gluconeogenesis	ENO3	Carbohydrate metabolism
+Glycolysis / Gluconeogenesis	ENO2	Carbohydrate metabolism
+Glycolysis / Gluconeogenesis	ENO1	Carbohydrate metabolism
+Glycolysis / Gluconeogenesis	ENO4	Carbohydrate metabolism
+Glycolysis / Gluconeogenesis	PKM	Carbohydrate metabolism
+Glycolysis / Gluconeogenesis	PKLR	Carbohydrate metabolism
+Glycolysis / Gluconeogenesis	PDHA2	Carbohydrate metabolism
+Glycolysis / Gluconeogenesis	PDHA1	Carbohydrate metabolism
+Glycolysis / Gluconeogenesis	PDHB	Carbohydrate metabolism
+Glycolysis / Gluconeogenesis	DLAT	Carbohydrate metabolism
+Glycolysis / Gluconeogenesis	DLD	Carbohydrate metabolism
+Glycolysis / Gluconeogenesis	LDHAL6A	Carbohydrate metabolism
+Glycolysis / Gluconeogenesis	LDHAL6B	Carbohydrate metabolism
+Glycolysis / Gluconeogenesis	LDHA	Carbohydrate metabolism
+Glycolysis / Gluconeogenesis	LDHB	Carbohydrate metabolism
+Glycolysis / Gluconeogenesis	LDHC	Carbohydrate metabolism
+Glycolysis / Gluconeogenesis	ADH1A	Carbohydrate metabolism
+Glycolysis / Gluconeogenesis	ADH1B	Carbohydrate metabolism
+Glycolysis / Gluconeogenesis	ADH1C	Carbohydrate metabolism
+Glycolysis / Gluconeogenesis	ADH7	Carbohydrate metabolism
+Glycolysis / Gluconeogenesis	ADH4	Carbohydrate metabolism
+Glycolysis / Gluconeogenesis	ADH5	Carbohydrate metabolism
+Glycolysis / Gluconeogenesis	ADH6	Carbohydrate metabolism
+Glycolysis / Gluconeogenesis	AKR1A1	Carbohydrate metabolism
+Glycolysis / Gluconeogenesis	ALDH2	Carbohydrate metabolism
+Glycolysis / Gluconeogenesis	ALDH3A2	Carbohydrate metabolism
+Glycolysis / Gluconeogenesis	ALDH1B1	Carbohydrate metabolism
+Glycolysis / Gluconeogenesis	ALDH7A1	Carbohydrate metabolism
+Glycolysis / Gluconeogenesis	ALDH9A1	Carbohydrate metabolism
+Glycolysis / Gluconeogenesis	ALDH3B1	Carbohydrate metabolism
+Glycolysis / Gluconeogenesis	ALDH3B2	Carbohydrate metabolism
+Glycolysis / Gluconeogenesis	ALDH3A1	Carbohydrate metabolism
+Glycolysis / Gluconeogenesis	ACSS1	Carbohydrate metabolism
+Glycolysis / Gluconeogenesis	ACSS2	Carbohydrate metabolism
+Glycolysis / Gluconeogenesis	GALM	Carbohydrate metabolism
+Glycolysis / Gluconeogenesis	PGM1	Carbohydrate metabolism
+Glycolysis / Gluconeogenesis	PGM2	Carbohydrate metabolism
+Glycolysis / Gluconeogenesis	G6PC1	Carbohydrate metabolism
+Glycolysis / Gluconeogenesis	G6PC2	Carbohydrate metabolism
+Glycolysis / Gluconeogenesis	G6PC3	Carbohydrate metabolism
+Glycolysis / Gluconeogenesis	ADPGK	Carbohydrate metabolism
+Glycolysis / Gluconeogenesis	BPGM	Carbohydrate metabolism
+Glycolysis / Gluconeogenesis	MINPP1	Carbohydrate metabolism
+Glycolysis / Gluconeogenesis	PCK1	Carbohydrate metabolism
+Glycolysis / Gluconeogenesis	PCK2	Carbohydrate metabolism
+Citrate cycle (TCA cycle)	CS	Carbohydrate metabolism
+Citrate cycle (TCA cycle)	ACLY	Carbohydrate metabolism
+Citrate cycle (TCA cycle)	ACO2	Carbohydrate metabolism
+Citrate cycle (TCA cycle)	ACO1	Carbohydrate metabolism
+Citrate cycle (TCA cycle)	IDH1	Carbohydrate metabolism
+Citrate cycle (TCA cycle)	IDH2	Carbohydrate metabolism
+Citrate cycle (TCA cycle)	IDH3B	Carbohydrate metabolism
+Citrate cycle (TCA cycle)	IDH3G	Carbohydrate metabolism
+Citrate cycle (TCA cycle)	IDH3A	Carbohydrate metabolism
+Citrate cycle (TCA cycle)	OGDHL	Carbohydrate metabolism
+Citrate cycle (TCA cycle)	OGDH	Carbohydrate metabolism
+Citrate cycle (TCA cycle)	DLST	Carbohydrate metabolism
+Citrate cycle (TCA cycle)	DLD	Carbohydrate metabolism
+Citrate cycle (TCA cycle)	SUCLG1	Carbohydrate metabolism
+Citrate cycle (TCA cycle)	SUCLG2	Carbohydrate metabolism
+Citrate cycle (TCA cycle)	SUCLA2	Carbohydrate metabolism
+Citrate cycle (TCA cycle)	SDHA	Carbohydrate metabolism
+Citrate cycle (TCA cycle)	SDHB	Carbohydrate metabolism
+Citrate cycle (TCA cycle)	SDHC	Carbohydrate metabolism
+Citrate cycle (TCA cycle)	SDHD	Carbohydrate metabolism
+Citrate cycle (TCA cycle)	FH	Carbohydrate metabolism
+Citrate cycle (TCA cycle)	MDH1	Carbohydrate metabolism
+Citrate cycle (TCA cycle)	MDH2	Carbohydrate metabolism
+Citrate cycle (TCA cycle)	PC	Carbohydrate metabolism
+Citrate cycle (TCA cycle)	PCK1	Carbohydrate metabolism
+Citrate cycle (TCA cycle)	PCK2	Carbohydrate metabolism
+Citrate cycle (TCA cycle)	PDHA2	Carbohydrate metabolism
+Citrate cycle (TCA cycle)	PDHA1	Carbohydrate metabolism
+Citrate cycle (TCA cycle)	PDHB	Carbohydrate metabolism
+Citrate cycle (TCA cycle)	DLAT	Carbohydrate metabolism
+Pentose phosphate pathway	GPI	Carbohydrate metabolism
+Pentose phosphate pathway	G6PD	Carbohydrate metabolism
+Pentose phosphate pathway	PGLS	Carbohydrate metabolism
+Pentose phosphate pathway	H6PD	Carbohydrate metabolism
+Pentose phosphate pathway	PGD	Carbohydrate metabolism
+Pentose phosphate pathway	RPE	Carbohydrate metabolism
+Pentose phosphate pathway	RPEL1	Carbohydrate metabolism
+Pentose phosphate pathway	TKT	Carbohydrate metabolism
+Pentose phosphate pathway	TKTL2	Carbohydrate metabolism
+Pentose phosphate pathway	TKTL1	Carbohydrate metabolism
+Pentose phosphate pathway	TALDO1	Carbohydrate metabolism
+Pentose phosphate pathway	RPIA	Carbohydrate metabolism
+Pentose phosphate pathway	DERA	Carbohydrate metabolism
+Pentose phosphate pathway	RBKS	Carbohydrate metabolism
+Pentose phosphate pathway	PGM1	Carbohydrate metabolism
+Pentose phosphate pathway	PGM2	Carbohydrate metabolism
+Pentose phosphate pathway	PRPS1L1	Carbohydrate metabolism
+Pentose phosphate pathway	PRPS2	Carbohydrate metabolism
+Pentose phosphate pathway	PRPS1	Carbohydrate metabolism
+Pentose phosphate pathway	RGN	Carbohydrate metabolism
+Pentose phosphate pathway	IDNK	Carbohydrate metabolism
+Pentose phosphate pathway	GLYCTK	Carbohydrate metabolism
+Pentose phosphate pathway	ALDOC	Carbohydrate metabolism
+Pentose phosphate pathway	ALDOA	Carbohydrate metabolism
+Pentose phosphate pathway	ALDOB	Carbohydrate metabolism
+Pentose phosphate pathway	FBP1	Carbohydrate metabolism
+Pentose phosphate pathway	FBP2	Carbohydrate metabolism
+Pentose phosphate pathway	PFKM	Carbohydrate metabolism
+Pentose phosphate pathway	PFKP	Carbohydrate metabolism
+Pentose phosphate pathway	PFKL	Carbohydrate metabolism
+Pentose and glucuronate interconversions	GUSB	Carbohydrate metabolism
+Pentose and glucuronate interconversions	KL	Carbohydrate metabolism
+Pentose and glucuronate interconversions	UGT2A1	Carbohydrate metabolism
+Pentose and glucuronate interconversions	UGT2A3	Carbohydrate metabolism
+Pentose and glucuronate interconversions	UGT2B17	Carbohydrate metabolism
+Pentose and glucuronate interconversions	UGT2B11	Carbohydrate metabolism
+Pentose and glucuronate interconversions	UGT2B28	Carbohydrate metabolism
+Pentose and glucuronate interconversions	UGT1A6	Carbohydrate metabolism
+Pentose and glucuronate interconversions	UGT1A4	Carbohydrate metabolism
+Pentose and glucuronate interconversions	UGT1A1	Carbohydrate metabolism
+Pentose and glucuronate interconversions	UGT1A3	Carbohydrate metabolism
+Pentose and glucuronate interconversions	UGT2B10	Carbohydrate metabolism
+Pentose and glucuronate interconversions	UGT1A9	Carbohydrate metabolism
+Pentose and glucuronate interconversions	UGT2B7	Carbohydrate metabolism
+Pentose and glucuronate interconversions	UGT1A10	Carbohydrate metabolism
+Pentose and glucuronate interconversions	UGT1A8	Carbohydrate metabolism
+Pentose and glucuronate interconversions	UGT1A5	Carbohydrate metabolism
+Pentose and glucuronate interconversions	UGT2B15	Carbohydrate metabolism
+Pentose and glucuronate interconversions	UGT1A7	Carbohydrate metabolism
+Pentose and glucuronate interconversions	UGT2B4	Carbohydrate metabolism
+Pentose and glucuronate interconversions	UGT2A2	Carbohydrate metabolism
+Pentose and glucuronate interconversions	UGDH	Carbohydrate metabolism
+Pentose and glucuronate interconversions	UGP2	Carbohydrate metabolism
+Pentose and glucuronate interconversions	AKR1A1	Carbohydrate metabolism
+Pentose and glucuronate interconversions	CRYL1	Carbohydrate metabolism
+Pentose and glucuronate interconversions	RPE	Carbohydrate metabolism
+Pentose and glucuronate interconversions	RPEL1	Carbohydrate metabolism
+Pentose and glucuronate interconversions	XYLB	Carbohydrate metabolism
+Pentose and glucuronate interconversions	AKR1B1	Carbohydrate metabolism
+Pentose and glucuronate interconversions	AKR1B10	Carbohydrate metabolism
+Pentose and glucuronate interconversions	AKR1B15	Carbohydrate metabolism
+Pentose and glucuronate interconversions	DCXR	Carbohydrate metabolism
+Pentose and glucuronate interconversions	SORD	Carbohydrate metabolism
+Pentose and glucuronate interconversions	DHDH	Carbohydrate metabolism
+Pentose and glucuronate interconversions	FGGY	Carbohydrate metabolism
+Pentose and glucuronate interconversions	CRPPA	Carbohydrate metabolism
+Fructose and mannose metabolism	MPI	Carbohydrate metabolism
+Fructose and mannose metabolism	PMM2	Carbohydrate metabolism
+Fructose and mannose metabolism	PMM1	Carbohydrate metabolism
+Fructose and mannose metabolism	GMPPB	Carbohydrate metabolism
+Fructose and mannose metabolism	GMPPA	Carbohydrate metabolism
+Fructose and mannose metabolism	GMDS	Carbohydrate metabolism
+Fructose and mannose metabolism	GFUS	Carbohydrate metabolism
+Fructose and mannose metabolism	FPGT	Carbohydrate metabolism
+Fructose and mannose metabolism	FCSK	Carbohydrate metabolism
+Fructose and mannose metabolism	ENOSF1	Carbohydrate metabolism
+Fructose and mannose metabolism	HK3	Carbohydrate metabolism
+Fructose and mannose metabolism	HK1	Carbohydrate metabolism
+Fructose and mannose metabolism	HK2	Carbohydrate metabolism
+Fructose and mannose metabolism	HKDC1	Carbohydrate metabolism
+Fructose and mannose metabolism	PFKM	Carbohydrate metabolism
+Fructose and mannose metabolism	PFKP	Carbohydrate metabolism
+Fructose and mannose metabolism	PFKL	Carbohydrate metabolism
+Fructose and mannose metabolism	FBP1	Carbohydrate metabolism
+Fructose and mannose metabolism	FBP2	Carbohydrate metabolism
+Fructose and mannose metabolism	PFKFB1	Carbohydrate metabolism
+Fructose and mannose metabolism	PFKFB2	Carbohydrate metabolism
+Fructose and mannose metabolism	PFKFB3	Carbohydrate metabolism
+Fructose and mannose metabolism	PFKFB4	Carbohydrate metabolism
+Fructose and mannose metabolism	TIGAR	Carbohydrate metabolism
+Fructose and mannose metabolism	KHK	Carbohydrate metabolism
+Fructose and mannose metabolism	SORD	Carbohydrate metabolism
+Fructose and mannose metabolism	AKR1B1	Carbohydrate metabolism
+Fructose and mannose metabolism	AKR1B10	Carbohydrate metabolism
+Fructose and mannose metabolism	AKR1B15	Carbohydrate metabolism
+Fructose and mannose metabolism	ALDOC	Carbohydrate metabolism
+Fructose and mannose metabolism	ALDOA	Carbohydrate metabolism
+Fructose and mannose metabolism	ALDOB	Carbohydrate metabolism
+Fructose and mannose metabolism	TPI1	Carbohydrate metabolism
+Fructose and mannose metabolism	TKFC	Carbohydrate metabolism
+Galactose metabolism	GALM	Carbohydrate metabolism
+Galactose metabolism	GALK1	Carbohydrate metabolism
+Galactose metabolism	GALT	Carbohydrate metabolism
+Galactose metabolism	GALE	Carbohydrate metabolism
+Galactose metabolism	UGP2	Carbohydrate metabolism
+Galactose metabolism	PGM1	Carbohydrate metabolism
+Galactose metabolism	PGM2	Carbohydrate metabolism
+Galactose metabolism	HK3	Carbohydrate metabolism
+Galactose metabolism	HK1	Carbohydrate metabolism
+Galactose metabolism	HK2	Carbohydrate metabolism
+Galactose metabolism	HKDC1	Carbohydrate metabolism
+Galactose metabolism	GCK	Carbohydrate metabolism
+Galactose metabolism	G6PC1	Carbohydrate metabolism
+Galactose metabolism	G6PC2	Carbohydrate metabolism
+Galactose metabolism	G6PC3	Carbohydrate metabolism
+Galactose metabolism	GLB1	Carbohydrate metabolism
+Galactose metabolism	LCT	Carbohydrate metabolism
+Galactose metabolism	LALBA	Carbohydrate metabolism
+Galactose metabolism	B4GALT1	Carbohydrate metabolism
+Galactose metabolism	B4GALT2	Carbohydrate metabolism
+Galactose metabolism	GLA	Carbohydrate metabolism
+Galactose metabolism	AKR1B1	Carbohydrate metabolism
+Galactose metabolism	AKR1B10	Carbohydrate metabolism
+Galactose metabolism	AKR1B15	Carbohydrate metabolism
+Galactose metabolism	PFKM	Carbohydrate metabolism
+Galactose metabolism	PFKP	Carbohydrate metabolism
+Galactose metabolism	PFKL	Carbohydrate metabolism
+Galactose metabolism	MGAM	Carbohydrate metabolism
+Galactose metabolism	MGAM2	Carbohydrate metabolism
+Galactose metabolism	GAA	Carbohydrate metabolism
+Galactose metabolism	GANC	Carbohydrate metabolism
+Galactose metabolism	SI	Carbohydrate metabolism
+Ascorbate and aldarate metabolism	UGDH	Carbohydrate metabolism
+Ascorbate and aldarate metabolism	UGT2A1	Carbohydrate metabolism
+Ascorbate and aldarate metabolism	UGT2A3	Carbohydrate metabolism
+Ascorbate and aldarate metabolism	UGT2B17	Carbohydrate metabolism
+Ascorbate and aldarate metabolism	UGT2B11	Carbohydrate metabolism
+Ascorbate and aldarate metabolism	UGT2B28	Carbohydrate metabolism
+Ascorbate and aldarate metabolism	UGT1A6	Carbohydrate metabolism
+Ascorbate and aldarate metabolism	UGT1A4	Carbohydrate metabolism
+Ascorbate and aldarate metabolism	UGT1A1	Carbohydrate metabolism
+Ascorbate and aldarate metabolism	UGT1A3	Carbohydrate metabolism
+Ascorbate and aldarate metabolism	UGT2B10	Carbohydrate metabolism
+Ascorbate and aldarate metabolism	UGT1A9	Carbohydrate metabolism
+Ascorbate and aldarate metabolism	UGT2B7	Carbohydrate metabolism
+Ascorbate and aldarate metabolism	UGT1A10	Carbohydrate metabolism
+Ascorbate and aldarate metabolism	UGT1A8	Carbohydrate metabolism
+Ascorbate and aldarate metabolism	UGT1A5	Carbohydrate metabolism
+Ascorbate and aldarate metabolism	UGT2B15	Carbohydrate metabolism
+Ascorbate and aldarate metabolism	UGT1A7	Carbohydrate metabolism
+Ascorbate and aldarate metabolism	UGT2B4	Carbohydrate metabolism
+Ascorbate and aldarate metabolism	UGT2A2	Carbohydrate metabolism
+Ascorbate and aldarate metabolism	GUSB	Carbohydrate metabolism
+Ascorbate and aldarate metabolism	KL	Carbohydrate metabolism
+Ascorbate and aldarate metabolism	MIOX	Carbohydrate metabolism
+Ascorbate and aldarate metabolism	AKR1A1	Carbohydrate metabolism
+Ascorbate and aldarate metabolism	RGN	Carbohydrate metabolism
+Ascorbate and aldarate metabolism	ALDH2	Carbohydrate metabolism
+Ascorbate and aldarate metabolism	ALDH3A2	Carbohydrate metabolism
+Ascorbate and aldarate metabolism	ALDH1B1	Carbohydrate metabolism
+Ascorbate and aldarate metabolism	ALDH7A1	Carbohydrate metabolism
+Ascorbate and aldarate metabolism	ALDH9A1	Carbohydrate metabolism
+Starch and sucrose metabolism	MGAM	Carbohydrate metabolism
+Starch and sucrose metabolism	MGAM2	Carbohydrate metabolism
+Starch and sucrose metabolism	GAA	Carbohydrate metabolism
+Starch and sucrose metabolism	GANC	Carbohydrate metabolism
+Starch and sucrose metabolism	SI	Carbohydrate metabolism
+Starch and sucrose metabolism	UGP2	Carbohydrate metabolism
+Starch and sucrose metabolism	ENPP1	Carbohydrate metabolism
+Starch and sucrose metabolism	ENPP3	Carbohydrate metabolism
+Starch and sucrose metabolism	GBA3	Carbohydrate metabolism
+Starch and sucrose metabolism	GYS2	Carbohydrate metabolism
+Starch and sucrose metabolism	GYS1	Carbohydrate metabolism
+Starch and sucrose metabolism	GYG1	Carbohydrate metabolism
+Starch and sucrose metabolism	GYG2	Carbohydrate metabolism
+Starch and sucrose metabolism	GBE1	Carbohydrate metabolism
+Starch and sucrose metabolism	PYGL	Carbohydrate metabolism
+Starch and sucrose metabolism	PYGM	Carbohydrate metabolism
+Starch and sucrose metabolism	PYGB	Carbohydrate metabolism
+Starch and sucrose metabolism	AGL	Carbohydrate metabolism
+Starch and sucrose metabolism	AMY1C	Carbohydrate metabolism
+Starch and sucrose metabolism	AMY2A	Carbohydrate metabolism
+Starch and sucrose metabolism	AMY1A	Carbohydrate metabolism
+Starch and sucrose metabolism	AMY2B	Carbohydrate metabolism
+Starch and sucrose metabolism	AMY1B	Carbohydrate metabolism
+Starch and sucrose metabolism	TREH	Carbohydrate metabolism
+Starch and sucrose metabolism	PGM1	Carbohydrate metabolism
+Starch and sucrose metabolism	PGM2	Carbohydrate metabolism
+Starch and sucrose metabolism	HK3	Carbohydrate metabolism
+Starch and sucrose metabolism	HK1	Carbohydrate metabolism
+Starch and sucrose metabolism	HK2	Carbohydrate metabolism
+Starch and sucrose metabolism	HKDC1	Carbohydrate metabolism
+Starch and sucrose metabolism	GCK	Carbohydrate metabolism
+Starch and sucrose metabolism	G6PC1	Carbohydrate metabolism
+Starch and sucrose metabolism	G6PC2	Carbohydrate metabolism
+Starch and sucrose metabolism	G6PC3	Carbohydrate metabolism
+Starch and sucrose metabolism	PGM2L1	Carbohydrate metabolism
+Starch and sucrose metabolism	GPI	Carbohydrate metabolism
+Amino sugar and nucleotide sugar metabolism	CHIA	Carbohydrate metabolism
+Amino sugar and nucleotide sugar metabolism	CHIT1	Carbohydrate metabolism
+Amino sugar and nucleotide sugar metabolism	HEXA	Carbohydrate metabolism
+Amino sugar and nucleotide sugar metabolism	HEXB	Carbohydrate metabolism
+Amino sugar and nucleotide sugar metabolism	NAGK	Carbohydrate metabolism
+Amino sugar and nucleotide sugar metabolism	AMDHD2	Carbohydrate metabolism
+Amino sugar and nucleotide sugar metabolism	GNPDA1	Carbohydrate metabolism
+Amino sugar and nucleotide sugar metabolism	GNPDA2	Carbohydrate metabolism
+Amino sugar and nucleotide sugar metabolism	HK3	Carbohydrate metabolism
+Amino sugar and nucleotide sugar metabolism	HK1	Carbohydrate metabolism
+Amino sugar and nucleotide sugar metabolism	HK2	Carbohydrate metabolism
+Amino sugar and nucleotide sugar metabolism	HKDC1	Carbohydrate metabolism
+Amino sugar and nucleotide sugar metabolism	GFPT2	Carbohydrate metabolism
+Amino sugar and nucleotide sugar metabolism	GFPT1	Carbohydrate metabolism
+Amino sugar and nucleotide sugar metabolism	GNPNAT1	Carbohydrate metabolism
+Amino sugar and nucleotide sugar metabolism	PGM3	Carbohydrate metabolism
+Amino sugar and nucleotide sugar metabolism	GALK2	Carbohydrate metabolism
+Amino sugar and nucleotide sugar metabolism	UAP1	Carbohydrate metabolism
+Amino sugar and nucleotide sugar metabolism	UAP1L1	Carbohydrate metabolism
+Amino sugar and nucleotide sugar metabolism	GNE	Carbohydrate metabolism
+Amino sugar and nucleotide sugar metabolism	RENBP	Carbohydrate metabolism
+Amino sugar and nucleotide sugar metabolism	NANS	Carbohydrate metabolism
+Amino sugar and nucleotide sugar metabolism	NANP	Carbohydrate metabolism
+Amino sugar and nucleotide sugar metabolism	NPL	Carbohydrate metabolism
+Amino sugar and nucleotide sugar metabolism	CMAS	Carbohydrate metabolism
+Amino sugar and nucleotide sugar metabolism	CYB5R1	Carbohydrate metabolism
+Amino sugar and nucleotide sugar metabolism	CYB5R3	Carbohydrate metabolism
+Amino sugar and nucleotide sugar metabolism	CYB5R2	Carbohydrate metabolism
+Amino sugar and nucleotide sugar metabolism	CYB5RL	Carbohydrate metabolism
+Amino sugar and nucleotide sugar metabolism	CYB5R4	Carbohydrate metabolism
+Amino sugar and nucleotide sugar metabolism	UXS1	Carbohydrate metabolism
+Amino sugar and nucleotide sugar metabolism	GCK	Carbohydrate metabolism
+Amino sugar and nucleotide sugar metabolism	PGM1	Carbohydrate metabolism
+Amino sugar and nucleotide sugar metabolism	PGM2	Carbohydrate metabolism
+Amino sugar and nucleotide sugar metabolism	UGP2	Carbohydrate metabolism
+Amino sugar and nucleotide sugar metabolism	UGDH	Carbohydrate metabolism
+Amino sugar and nucleotide sugar metabolism	GALK1	Carbohydrate metabolism
+Amino sugar and nucleotide sugar metabolism	GALT	Carbohydrate metabolism
+Amino sugar and nucleotide sugar metabolism	GALE	Carbohydrate metabolism
+Amino sugar and nucleotide sugar metabolism	GPI	Carbohydrate metabolism
+Amino sugar and nucleotide sugar metabolism	MPI	Carbohydrate metabolism
+Amino sugar and nucleotide sugar metabolism	PMM2	Carbohydrate metabolism
+Amino sugar and nucleotide sugar metabolism	PMM1	Carbohydrate metabolism
+Amino sugar and nucleotide sugar metabolism	GMPPB	Carbohydrate metabolism
+Amino sugar and nucleotide sugar metabolism	GMPPA	Carbohydrate metabolism
+Amino sugar and nucleotide sugar metabolism	GMDS	Carbohydrate metabolism
+Amino sugar and nucleotide sugar metabolism	GFUS	Carbohydrate metabolism
+Amino sugar and nucleotide sugar metabolism	FCSK	Carbohydrate metabolism
+Amino sugar and nucleotide sugar metabolism	FPGT	Carbohydrate metabolism
+Pyruvate metabolism	ACSS1	Carbohydrate metabolism
+Pyruvate metabolism	ACSS2	Carbohydrate metabolism
+Pyruvate metabolism	PDHA2	Carbohydrate metabolism
+Pyruvate metabolism	PDHA1	Carbohydrate metabolism
+Pyruvate metabolism	PDHB	Carbohydrate metabolism
+Pyruvate metabolism	DLAT	Carbohydrate metabolism
+Pyruvate metabolism	DLD	Carbohydrate metabolism
+Pyruvate metabolism	ADH1A	Carbohydrate metabolism
+Pyruvate metabolism	ADH1B	Carbohydrate metabolism
+Pyruvate metabolism	ADH1C	Carbohydrate metabolism
+Pyruvate metabolism	ADH7	Carbohydrate metabolism
+Pyruvate metabolism	ADH4	Carbohydrate metabolism
+Pyruvate metabolism	ADH6	Carbohydrate metabolism
+Pyruvate metabolism	ADH5	Carbohydrate metabolism
+Pyruvate metabolism	AKR1A1	Carbohydrate metabolism
+Pyruvate metabolism	PKM	Carbohydrate metabolism
+Pyruvate metabolism	PKLR	Carbohydrate metabolism
+Pyruvate metabolism	ACACA	Carbohydrate metabolism
+Pyruvate metabolism	ACACB	Carbohydrate metabolism
+Pyruvate metabolism	ACYP2	Carbohydrate metabolism
+Pyruvate metabolism	ACYP1	Carbohydrate metabolism
+Pyruvate metabolism	ALDH2	Carbohydrate metabolism
+Pyruvate metabolism	ALDH3A2	Carbohydrate metabolism
+Pyruvate metabolism	ALDH1B1	Carbohydrate metabolism
+Pyruvate metabolism	ALDH7A1	Carbohydrate metabolism
+Pyruvate metabolism	ALDH9A1	Carbohydrate metabolism
+Pyruvate metabolism	ACOT12	Carbohydrate metabolism
+Pyruvate metabolism	LDHAL6A	Carbohydrate metabolism
+Pyruvate metabolism	LDHAL6B	Carbohydrate metabolism
+Pyruvate metabolism	LDHA	Carbohydrate metabolism
+Pyruvate metabolism	LDHB	Carbohydrate metabolism
+Pyruvate metabolism	LDHC	Carbohydrate metabolism
+Pyruvate metabolism	LDHD	Carbohydrate metabolism
+Pyruvate metabolism	GLO1	Carbohydrate metabolism
+Pyruvate metabolism	HAGH	Carbohydrate metabolism
+Pyruvate metabolism	GRHPR	Carbohydrate metabolism
+Pyruvate metabolism	ME2	Carbohydrate metabolism
+Pyruvate metabolism	ME3	Carbohydrate metabolism
+Pyruvate metabolism	ME1	Carbohydrate metabolism
+Pyruvate metabolism	PC	Carbohydrate metabolism
+Pyruvate metabolism	MDH1	Carbohydrate metabolism
+Pyruvate metabolism	MDH2	Carbohydrate metabolism
+Pyruvate metabolism	FH	Carbohydrate metabolism
+Pyruvate metabolism	PCK1	Carbohydrate metabolism
+Pyruvate metabolism	PCK2	Carbohydrate metabolism
+Pyruvate metabolism	ACAT2	Carbohydrate metabolism
+Pyruvate metabolism	ACAT1	Carbohydrate metabolism
+Glyoxylate and dicarboxylate metabolism	ACSS1	Carbohydrate metabolism
+Glyoxylate and dicarboxylate metabolism	ACSS2	Carbohydrate metabolism
+Glyoxylate and dicarboxylate metabolism	MDH1	Carbohydrate metabolism
+Glyoxylate and dicarboxylate metabolism	MDH2	Carbohydrate metabolism
+Glyoxylate and dicarboxylate metabolism	CS	Carbohydrate metabolism
+Glyoxylate and dicarboxylate metabolism	ACO2	Carbohydrate metabolism
+Glyoxylate and dicarboxylate metabolism	ACO1	Carbohydrate metabolism
+Glyoxylate and dicarboxylate metabolism	ACAT2	Carbohydrate metabolism
+Glyoxylate and dicarboxylate metabolism	ACAT1	Carbohydrate metabolism
+Glyoxylate and dicarboxylate metabolism	MCEE	Carbohydrate metabolism
+Glyoxylate and dicarboxylate metabolism	PCCA	Carbohydrate metabolism
+Glyoxylate and dicarboxylate metabolism	PCCB	Carbohydrate metabolism
+Glyoxylate and dicarboxylate metabolism	MMUT	Carbohydrate metabolism
+Glyoxylate and dicarboxylate metabolism	HAO2	Carbohydrate metabolism
+Glyoxylate and dicarboxylate metabolism	HAO1	Carbohydrate metabolism
+Glyoxylate and dicarboxylate metabolism	CAT	Carbohydrate metabolism
+Glyoxylate and dicarboxylate metabolism	GRHPR	Carbohydrate metabolism
+Glyoxylate and dicarboxylate metabolism	PGP	Carbohydrate metabolism
+Glyoxylate and dicarboxylate metabolism	AGXT	Carbohydrate metabolism
+Glyoxylate and dicarboxylate metabolism	GLUL	Carbohydrate metabolism
+Glyoxylate and dicarboxylate metabolism	SHMT2	Carbohydrate metabolism
+Glyoxylate and dicarboxylate metabolism	SHMT1	Carbohydrate metabolism
+Glyoxylate and dicarboxylate metabolism	GLDC	Carbohydrate metabolism
+Glyoxylate and dicarboxylate metabolism	AMT	Carbohydrate metabolism
+Glyoxylate and dicarboxylate metabolism	DLD	Carbohydrate metabolism
+Glyoxylate and dicarboxylate metabolism	GCSH	Carbohydrate metabolism
+Glyoxylate and dicarboxylate metabolism	HYI	Carbohydrate metabolism
+Glyoxylate and dicarboxylate metabolism	GLYCTK	Carbohydrate metabolism
+Glyoxylate and dicarboxylate metabolism	HOGA1	Carbohydrate metabolism
+Glyoxylate and dicarboxylate metabolism	AFMID	Carbohydrate metabolism
+Propanoate metabolism	ACSS1	Carbohydrate metabolism
+Propanoate metabolism	ACSS2	Carbohydrate metabolism
+Propanoate metabolism	ACSS3	Carbohydrate metabolism
+Propanoate metabolism	BCKDHA	Carbohydrate metabolism
+Propanoate metabolism	BCKDHB	Carbohydrate metabolism
+Propanoate metabolism	DBT	Carbohydrate metabolism
+Propanoate metabolism	DLD	Carbohydrate metabolism
+Propanoate metabolism	ACADS	Carbohydrate metabolism
+Propanoate metabolism	ACOX3	Carbohydrate metabolism
+Propanoate metabolism	ACOX1	Carbohydrate metabolism
+Propanoate metabolism	HADHA	Carbohydrate metabolism
+Propanoate metabolism	EHHADH	Carbohydrate metabolism
+Propanoate metabolism	ECHS1	Carbohydrate metabolism
+Propanoate metabolism	HIBCH	Carbohydrate metabolism
+Propanoate metabolism	ACACA	Carbohydrate metabolism
+Propanoate metabolism	ACACB	Carbohydrate metabolism
+Propanoate metabolism	MLYCD	Carbohydrate metabolism
+Propanoate metabolism	ABAT	Carbohydrate metabolism
+Propanoate metabolism	PCCA	Carbohydrate metabolism
+Propanoate metabolism	PCCB	Carbohydrate metabolism
+Propanoate metabolism	ECHDC1	Carbohydrate metabolism
+Propanoate metabolism	MCEE	Carbohydrate metabolism
+Propanoate metabolism	MMUT	Carbohydrate metabolism
+Propanoate metabolism	SUCLG1	Carbohydrate metabolism
+Propanoate metabolism	SUCLG2	Carbohydrate metabolism
+Propanoate metabolism	SUCLA2	Carbohydrate metabolism
+Propanoate metabolism	ALDH6A1	Carbohydrate metabolism
+Propanoate metabolism	LDHAL6A	Carbohydrate metabolism
+Propanoate metabolism	LDHAL6B	Carbohydrate metabolism
+Propanoate metabolism	LDHA	Carbohydrate metabolism
+Propanoate metabolism	LDHB	Carbohydrate metabolism
+Propanoate metabolism	LDHC	Carbohydrate metabolism
+Butanoate metabolism	ACAT2	Carbohydrate metabolism
+Butanoate metabolism	ACAT1	Carbohydrate metabolism
+Butanoate metabolism	HADH	Carbohydrate metabolism
+Butanoate metabolism	HADHA	Carbohydrate metabolism
+Butanoate metabolism	EHHADH	Carbohydrate metabolism
+Butanoate metabolism	ECHS1	Carbohydrate metabolism
+Butanoate metabolism	ACADS	Carbohydrate metabolism
+Butanoate metabolism	ACSM1	Carbohydrate metabolism
+Butanoate metabolism	ACSM2A	Carbohydrate metabolism
+Butanoate metabolism	ACSM4	Carbohydrate metabolism
+Butanoate metabolism	ACSM5	Carbohydrate metabolism
+Butanoate metabolism	ACSM3	Carbohydrate metabolism
+Butanoate metabolism	ACSM2B	Carbohydrate metabolism
+Butanoate metabolism	ACSM6	Carbohydrate metabolism
+Butanoate metabolism	L2HGDH	Carbohydrate metabolism
+Butanoate metabolism	GAD1	Carbohydrate metabolism
+Butanoate metabolism	GAD2	Carbohydrate metabolism
+Butanoate metabolism	ABAT	Carbohydrate metabolism
+Butanoate metabolism	ALDH5A1	Carbohydrate metabolism
+Butanoate metabolism	HMGCS1	Carbohydrate metabolism
+Butanoate metabolism	HMGCS2	Carbohydrate metabolism
+Butanoate metabolism	HMGCL	Carbohydrate metabolism
+Butanoate metabolism	HMGCLL1	Carbohydrate metabolism
+Butanoate metabolism	OXCT1	Carbohydrate metabolism
+Butanoate metabolism	OXCT2	Carbohydrate metabolism
+Butanoate metabolism	AACS	Carbohydrate metabolism
+Butanoate metabolism	BDH1	Carbohydrate metabolism
+Inositol phosphate metabolism	PIK3C3	Carbohydrate metabolism
+Inositol phosphate metabolism	MTM1	Carbohydrate metabolism
+Inositol phosphate metabolism	MTMR1	Carbohydrate metabolism
+Inositol phosphate metabolism	MTMR2	Carbohydrate metabolism
+Inositol phosphate metabolism	MTMR3	Carbohydrate metabolism
+Inositol phosphate metabolism	MTMR4	Carbohydrate metabolism
+Inositol phosphate metabolism	MTMR8	Carbohydrate metabolism
+Inositol phosphate metabolism	MTMR6	Carbohydrate metabolism
+Inositol phosphate metabolism	MTMR7	Carbohydrate metabolism
+Inositol phosphate metabolism	MTMR14	Carbohydrate metabolism
+Inositol phosphate metabolism	PI4KA	Carbohydrate metabolism
+Inositol phosphate metabolism	PI4KB	Carbohydrate metabolism
+Inositol phosphate metabolism	PI4K2A	Carbohydrate metabolism
+Inositol phosphate metabolism	PI4K2B	Carbohydrate metabolism
+Inositol phosphate metabolism	SACM1L	Carbohydrate metabolism
+Inositol phosphate metabolism	INPP5F	Carbohydrate metabolism
+Inositol phosphate metabolism	PIP5K1C	Carbohydrate metabolism
+Inositol phosphate metabolism	PIP5K1A	Carbohydrate metabolism
+Inositol phosphate metabolism	PIP5K1B	Carbohydrate metabolism
+Inositol phosphate metabolism	PIP5KL1	Carbohydrate metabolism
+Inositol phosphate metabolism	OCRL	Carbohydrate metabolism
+Inositol phosphate metabolism	INPP5B	Carbohydrate metabolism
+Inositol phosphate metabolism	INPP5E	Carbohydrate metabolism
+Inositol phosphate metabolism	SYNJ1	Carbohydrate metabolism
+Inositol phosphate metabolism	SYNJ2	Carbohydrate metabolism
+Inositol phosphate metabolism	PIK3CA	Carbohydrate metabolism
+Inositol phosphate metabolism	PIK3CD	Carbohydrate metabolism
+Inositol phosphate metabolism	PIK3CB	Carbohydrate metabolism
+Inositol phosphate metabolism	PIK3CG	Carbohydrate metabolism
+Inositol phosphate metabolism	PTEN	Carbohydrate metabolism
+Inositol phosphate metabolism	INPP5D	Carbohydrate metabolism
+Inositol phosphate metabolism	INPPL1	Carbohydrate metabolism
+Inositol phosphate metabolism	PIK3C2G	Carbohydrate metabolism
+Inositol phosphate metabolism	PIK3C2A	Carbohydrate metabolism
+Inositol phosphate metabolism	PIK3C2B	Carbohydrate metabolism
+Inositol phosphate metabolism	INPP4A	Carbohydrate metabolism
+Inositol phosphate metabolism	INPP4B	Carbohydrate metabolism
+Inositol phosphate metabolism	PIKFYVE	Carbohydrate metabolism
+Inositol phosphate metabolism	FIG4	Carbohydrate metabolism
+Inositol phosphate metabolism	PIP4K2C	Carbohydrate metabolism
+Inositol phosphate metabolism	PIP4K2A	Carbohydrate metabolism
+Inositol phosphate metabolism	PIP4K2B	Carbohydrate metabolism
+Inositol phosphate metabolism	PLCB1	Carbohydrate metabolism
+Inositol phosphate metabolism	PLCB2	Carbohydrate metabolism
+Inositol phosphate metabolism	PLCB3	Carbohydrate metabolism
+Inositol phosphate metabolism	PLCB4	Carbohydrate metabolism
+Inositol phosphate metabolism	PLCD1	Carbohydrate metabolism
+Inositol phosphate metabolism	PLCD3	Carbohydrate metabolism
+Inositol phosphate metabolism	PLCD4	Carbohydrate metabolism
+Inositol phosphate metabolism	PLCE1	Carbohydrate metabolism
+Inositol phosphate metabolism	PLCG1	Carbohydrate metabolism
+Inositol phosphate metabolism	PLCG2	Carbohydrate metabolism
+Inositol phosphate metabolism	PLCZ1	Carbohydrate metabolism
+Inositol phosphate metabolism	PLCH1	Carbohydrate metabolism
+Inositol phosphate metabolism	PLCH2	Carbohydrate metabolism
+Inositol phosphate metabolism	IMPA2	Carbohydrate metabolism
+Inositol phosphate metabolism	IMPA1	Carbohydrate metabolism
+Inositol phosphate metabolism	CDIPT	Carbohydrate metabolism
+Inositol phosphate metabolism	ISYNA1	Carbohydrate metabolism
+Inositol phosphate metabolism	INPP1	Carbohydrate metabolism
+Inositol phosphate metabolism	INPP5A	Carbohydrate metabolism
+Inositol phosphate metabolism	INPP5K	Carbohydrate metabolism
+Inositol phosphate metabolism	INPP5J	Carbohydrate metabolism
+Inositol phosphate metabolism	MINPP1	Carbohydrate metabolism
+Inositol phosphate metabolism	ITPKB	Carbohydrate metabolism
+Inositol phosphate metabolism	ITPKA	Carbohydrate metabolism
+Inositol phosphate metabolism	ITPKC	Carbohydrate metabolism
+Inositol phosphate metabolism	ITPK1	Carbohydrate metabolism
+Inositol phosphate metabolism	IPMK	Carbohydrate metabolism
+Inositol phosphate metabolism	IPPK	Carbohydrate metabolism
+Inositol phosphate metabolism	MIOX	Carbohydrate metabolism
+Inositol phosphate metabolism	ALDH6A1	Carbohydrate metabolism
+Inositol phosphate metabolism	TPI1	Carbohydrate metabolism
+Oxidative phosphorylation	ND1	Energy metabolism
+Oxidative phosphorylation	ND2	Energy metabolism
+Oxidative phosphorylation	ND3	Energy metabolism
+Oxidative phosphorylation	ND4	Energy metabolism
+Oxidative phosphorylation	ND4L	Energy metabolism
+Oxidative phosphorylation	ND5	Energy metabolism
+Oxidative phosphorylation	ND6	Energy metabolism
+Oxidative phosphorylation	NDUFS1	Energy metabolism
+Oxidative phosphorylation	NDUFS2	Energy metabolism
+Oxidative phosphorylation	NDUFS3	Energy metabolism
+Oxidative phosphorylation	NDUFS4	Energy metabolism
+Oxidative phosphorylation	NDUFS5	Energy metabolism
+Oxidative phosphorylation	NDUFS6	Energy metabolism
+Oxidative phosphorylation	NDUFS7	Energy metabolism
+Oxidative phosphorylation	NDUFS8	Energy metabolism
+Oxidative phosphorylation	NDUFV1	Energy metabolism
+Oxidative phosphorylation	NDUFV2	Energy metabolism
+Oxidative phosphorylation	NDUFV3	Energy metabolism
+Oxidative phosphorylation	NDUFA1	Energy metabolism
+Oxidative phosphorylation	NDUFA2	Energy metabolism
+Oxidative phosphorylation	NDUFA3	Energy metabolism
+Oxidative phosphorylation	NDUFA4	Energy metabolism
+Oxidative phosphorylation	NDUFA4L2	Energy metabolism
+Oxidative phosphorylation	NDUFA5	Energy metabolism
+Oxidative phosphorylation	NDUFA6	Energy metabolism
+Oxidative phosphorylation	NDUFA7	Energy metabolism
+Oxidative phosphorylation	NDUFA8	Energy metabolism
+Oxidative phosphorylation	NDUFA9	Energy metabolism
+Oxidative phosphorylation	NDUFA10	Energy metabolism
+Oxidative phosphorylation	NDUFAB1	Energy metabolism
+Oxidative phosphorylation	NDUFA11	Energy metabolism
+Oxidative phosphorylation	NDUFA12	Energy metabolism
+Oxidative phosphorylation	NDUFA13	Energy metabolism
+Oxidative phosphorylation	NDUFB1	Energy metabolism
+Oxidative phosphorylation	NDUFB2	Energy metabolism
+Oxidative phosphorylation	NDUFB3	Energy metabolism
+Oxidative phosphorylation	NDUFB4	Energy metabolism
+Oxidative phosphorylation	NDUFB5	Energy metabolism
+Oxidative phosphorylation	NDUFB6	Energy metabolism
+Oxidative phosphorylation	NDUFB7	Energy metabolism
+Oxidative phosphorylation	NDUFB8	Energy metabolism
+Oxidative phosphorylation	NDUFB9	Energy metabolism
+Oxidative phosphorylation	NDUFB10	Energy metabolism
+Oxidative phosphorylation	NDUFB11	Energy metabolism
+Oxidative phosphorylation	NDUFC1	Energy metabolism
+Oxidative phosphorylation	NDUFC2	Energy metabolism
+Oxidative phosphorylation	NDUFC2-KCTD14	Energy metabolism
+Oxidative phosphorylation	SDHA	Energy metabolism
+Oxidative phosphorylation	SDHB	Energy metabolism
+Oxidative phosphorylation	SDHC	Energy metabolism
+Oxidative phosphorylation	SDHD	Energy metabolism
+Oxidative phosphorylation	UQCRFS1	Energy metabolism
+Oxidative phosphorylation	CYTB	Energy metabolism
+Oxidative phosphorylation	CYC1	Energy metabolism
+Oxidative phosphorylation	UQCRC1	Energy metabolism
+Oxidative phosphorylation	UQCRC2	Energy metabolism
+Oxidative phosphorylation	UQCRH	Energy metabolism
+Oxidative phosphorylation	UQCRHL	Energy metabolism
+Oxidative phosphorylation	UQCRB	Energy metabolism
+Oxidative phosphorylation	UQCRQ	Energy metabolism
+Oxidative phosphorylation	UQCR10	Energy metabolism
+Oxidative phosphorylation	UQCR11	Energy metabolism
+Oxidative phosphorylation	COX10	Energy metabolism
+Oxidative phosphorylation	COX3	Energy metabolism
+Oxidative phosphorylation	COX1	Energy metabolism
+Oxidative phosphorylation	COX2	Energy metabolism
+Oxidative phosphorylation	COX4I2	Energy metabolism
+Oxidative phosphorylation	COX4I1	Energy metabolism
+Oxidative phosphorylation	COX5A	Energy metabolism
+Oxidative phosphorylation	COX5B	Energy metabolism
+Oxidative phosphorylation	COX6A1	Energy metabolism
+Oxidative phosphorylation	COX6A2	Energy metabolism
+Oxidative phosphorylation	COX6B1	Energy metabolism
+Oxidative phosphorylation	COX6B2	Energy metabolism
+Oxidative phosphorylation	COX6C	Energy metabolism
+Oxidative phosphorylation	COX7A1	Energy metabolism
+Oxidative phosphorylation	COX7A2	Energy metabolism
+Oxidative phosphorylation	COX7A2L	Energy metabolism
+Oxidative phosphorylation	COX7B	Energy metabolism
+Oxidative phosphorylation	COX7B2	Energy metabolism
+Oxidative phosphorylation	COX7C	Energy metabolism
+Oxidative phosphorylation	COX8C	Energy metabolism
+Oxidative phosphorylation	COX8A	Energy metabolism
+Oxidative phosphorylation	COX11	Energy metabolism
+Oxidative phosphorylation	COX15	Energy metabolism
+Oxidative phosphorylation	COX17	Energy metabolism
+Oxidative phosphorylation	CYCS	Energy metabolism
+Oxidative phosphorylation	ATP5F1A	Energy metabolism
+Oxidative phosphorylation	ATP5F1B	Energy metabolism
+Oxidative phosphorylation	ATP5F1C	Energy metabolism
+Oxidative phosphorylation	ATP5F1D	Energy metabolism
+Oxidative phosphorylation	ATP5F1E	Energy metabolism
+Oxidative phosphorylation	ATP5PO	Energy metabolism
+Oxidative phosphorylation	ATP6	Energy metabolism
+Oxidative phosphorylation	ATP5PB	Energy metabolism
+Oxidative phosphorylation	ATP5MC1	Energy metabolism
+Oxidative phosphorylation	ATP5MC2	Energy metabolism
+Oxidative phosphorylation	ATP5MC3	Energy metabolism
+Oxidative phosphorylation	ATP5PD	Energy metabolism
+Oxidative phosphorylation	ATP5ME	Energy metabolism
+Oxidative phosphorylation	ATP5MF	Energy metabolism
+Oxidative phosphorylation	ATP5MG	Energy metabolism
+Oxidative phosphorylation	ATP5PF	Energy metabolism
+Oxidative phosphorylation	ATP8	Energy metabolism
+Oxidative phosphorylation	ATP6V1A	Energy metabolism
+Oxidative phosphorylation	ATP6V1B1	Energy metabolism
+Oxidative phosphorylation	ATP6V1B2	Energy metabolism
+Oxidative phosphorylation	ATP6V1C2	Energy metabolism
+Oxidative phosphorylation	ATP6V1C1	Energy metabolism
+Oxidative phosphorylation	ATP6V1D	Energy metabolism
+Oxidative phosphorylation	ATP6V1E2	Energy metabolism
+Oxidative phosphorylation	ATP6V1E1	Energy metabolism
+Oxidative phosphorylation	ATP6V1F	Energy metabolism
+Oxidative phosphorylation	ATP6V1G1	Energy metabolism
+Oxidative phosphorylation	ATP6V1G3	Energy metabolism
+Oxidative phosphorylation	ATP6V1G2	Energy metabolism
+Oxidative phosphorylation	ATP6V1H	Energy metabolism
+Oxidative phosphorylation	TCIRG1	Energy metabolism
+Oxidative phosphorylation	ATP6V0A2	Energy metabolism
+Oxidative phosphorylation	ATP6V0A4	Energy metabolism
+Oxidative phosphorylation	ATP6V0A1	Energy metabolism
+Oxidative phosphorylation	ATP6V0C	Energy metabolism
+Oxidative phosphorylation	ATP6V0B	Energy metabolism
+Oxidative phosphorylation	ATP6V0D1	Energy metabolism
+Oxidative phosphorylation	ATP6V0D2	Energy metabolism
+Oxidative phosphorylation	ATP6V0E1	Energy metabolism
+Oxidative phosphorylation	ATP6V0E2	Energy metabolism
+Oxidative phosphorylation	ATP6AP1	Energy metabolism
+Oxidative phosphorylation	ATP4A	Energy metabolism
+Oxidative phosphorylation	ATP4B	Energy metabolism
+Oxidative phosphorylation	ATP12A	Energy metabolism
+Oxidative phosphorylation	PPA2	Energy metabolism
+Oxidative phosphorylation	PPA1	Energy metabolism
+Oxidative phosphorylation	LHPP	Energy metabolism
+Nitrogen metabolism	GLUD2	Energy metabolism
+Nitrogen metabolism	GLUD1	Energy metabolism
+Nitrogen metabolism	GLUL	Energy metabolism
+Nitrogen metabolism	CPS1	Energy metabolism
+Nitrogen metabolism	CA13	Energy metabolism
+Nitrogen metabolism	CA1	Energy metabolism
+Nitrogen metabolism	CA6	Energy metabolism
+Nitrogen metabolism	CA7	Energy metabolism
+Nitrogen metabolism	CA12	Energy metabolism
+Nitrogen metabolism	CA5B	Energy metabolism
+Nitrogen metabolism	CA14	Energy metabolism
+Nitrogen metabolism	CA9	Energy metabolism
+Nitrogen metabolism	CA3	Energy metabolism
+Nitrogen metabolism	CA5A	Energy metabolism
+Nitrogen metabolism	CA8	Energy metabolism
+Nitrogen metabolism	CA2	Energy metabolism
+Nitrogen metabolism	CA4	Energy metabolism
+Sulfur metabolism	PAPSS2	Energy metabolism
+Sulfur metabolism	PAPSS1	Energy metabolism
+Sulfur metabolism	BPNT1	Energy metabolism
+Sulfur metabolism	BPNT2	Energy metabolism
+Sulfur metabolism	SUOX	Energy metabolism
+Sulfur metabolism	SQOR	Energy metabolism
+Sulfur metabolism	ETHE1	Energy metabolism
+Sulfur metabolism	MPST	Energy metabolism
+Sulfur metabolism	TST	Energy metabolism
+Sulfur metabolism	SELENBP1	Energy metabolism
+Fatty acid biosynthesis	ACACA	Lipid metabolism
+Fatty acid biosynthesis	ACACB	Lipid metabolism
+Fatty acid biosynthesis	ACSF3	Lipid metabolism
+Fatty acid biosynthesis	MCAT	Lipid metabolism
+Fatty acid biosynthesis	FASN	Lipid metabolism
+Fatty acid biosynthesis	OXSM	Lipid metabolism
+Fatty acid biosynthesis	CBR4	Lipid metabolism
+Fatty acid biosynthesis	HSD17B8	Lipid metabolism
+Fatty acid biosynthesis	HTD2	Lipid metabolism
+Fatty acid biosynthesis	MECR	Lipid metabolism
+Fatty acid biosynthesis	OLAH	Lipid metabolism
+Fatty acid biosynthesis	ACSL6	Lipid metabolism
+Fatty acid biosynthesis	ACSL4	Lipid metabolism
+Fatty acid biosynthesis	ACSL1	Lipid metabolism
+Fatty acid biosynthesis	ACSL5	Lipid metabolism
+Fatty acid biosynthesis	ACSL3	Lipid metabolism
+Fatty acid biosynthesis	ACSBG1	Lipid metabolism
+Fatty acid biosynthesis	ACSBG2	Lipid metabolism
+Fatty acid elongation	ACAA2	Lipid metabolism
+Fatty acid elongation	HADHB	Lipid metabolism
+Fatty acid elongation	HADH	Lipid metabolism
+Fatty acid elongation	HADHA	Lipid metabolism
+Fatty acid elongation	ECHS1	Lipid metabolism
+Fatty acid elongation	MECR	Lipid metabolism
+Fatty acid elongation	PPT1	Lipid metabolism
+Fatty acid elongation	PPT2	Lipid metabolism
+Fatty acid elongation	ELOVL1	Lipid metabolism
+Fatty acid elongation	ELOVL2	Lipid metabolism
+Fatty acid elongation	ELOVL3	Lipid metabolism
+Fatty acid elongation	ELOVL4	Lipid metabolism
+Fatty acid elongation	ELOVL5	Lipid metabolism
+Fatty acid elongation	ELOVL6	Lipid metabolism
+Fatty acid elongation	ELOVL7	Lipid metabolism
+Fatty acid elongation	HSD17B12	Lipid metabolism
+Fatty acid elongation	HACD2	Lipid metabolism
+Fatty acid elongation	HACD1	Lipid metabolism
+Fatty acid elongation	HACD4	Lipid metabolism
+Fatty acid elongation	HACD3	Lipid metabolism
+Fatty acid elongation	TECR	Lipid metabolism
+Fatty acid elongation	ACOT4	Lipid metabolism
+Fatty acid elongation	ACOT2	Lipid metabolism
+Fatty acid elongation	ACOT1	Lipid metabolism
+Fatty acid elongation	ACOT7	Lipid metabolism
+Fatty acid elongation	THEM4	Lipid metabolism
+Fatty acid elongation	THEM5	Lipid metabolism
+Fatty acid degradation	ACAT2	Lipid metabolism
+Fatty acid degradation	ACAT1	Lipid metabolism
+Fatty acid degradation	ACAA1	Lipid metabolism
+Fatty acid degradation	ACAA2	Lipid metabolism
+Fatty acid degradation	HADHB	Lipid metabolism
+Fatty acid degradation	HADH	Lipid metabolism
+Fatty acid degradation	HADHA	Lipid metabolism
+Fatty acid degradation	EHHADH	Lipid metabolism
+Fatty acid degradation	ECHS1	Lipid metabolism
+Fatty acid degradation	ACOX3	Lipid metabolism
+Fatty acid degradation	ACOX1	Lipid metabolism
+Fatty acid degradation	ACADS	Lipid metabolism
+Fatty acid degradation	ACADM	Lipid metabolism
+Fatty acid degradation	ACADL	Lipid metabolism
+Fatty acid degradation	ACADSB	Lipid metabolism
+Fatty acid degradation	ACADVL	Lipid metabolism
+Fatty acid degradation	GCDH	Lipid metabolism
+Fatty acid degradation	ACSL6	Lipid metabolism
+Fatty acid degradation	ACSL4	Lipid metabolism
+Fatty acid degradation	ACSL1	Lipid metabolism
+Fatty acid degradation	ACSL5	Lipid metabolism
+Fatty acid degradation	ACSL3	Lipid metabolism
+Fatty acid degradation	ACSBG1	Lipid metabolism
+Fatty acid degradation	ACSBG2	Lipid metabolism
+Fatty acid degradation	CPT1A	Lipid metabolism
+Fatty acid degradation	CPT1B	Lipid metabolism
+Fatty acid degradation	CPT1C	Lipid metabolism
+Fatty acid degradation	CPT2	Lipid metabolism
+Fatty acid degradation	ECI1	Lipid metabolism
+Fatty acid degradation	ECI2	Lipid metabolism
+Fatty acid degradation	CYP2U1	Lipid metabolism
+Fatty acid degradation	ADH1A	Lipid metabolism
+Fatty acid degradation	ADH1B	Lipid metabolism
+Fatty acid degradation	ADH1C	Lipid metabolism
+Fatty acid degradation	ADH7	Lipid metabolism
+Fatty acid degradation	ADH4	Lipid metabolism
+Fatty acid degradation	ADH5	Lipid metabolism
+Fatty acid degradation	ADH6	Lipid metabolism
+Fatty acid degradation	ALDH2	Lipid metabolism
+Fatty acid degradation	ALDH3A2	Lipid metabolism
+Fatty acid degradation	ALDH1B1	Lipid metabolism
+Fatty acid degradation	ALDH7A1	Lipid metabolism
+Fatty acid degradation	ALDH9A1	Lipid metabolism
+Steroid biosynthesis	FDFT1	Lipid metabolism
+Steroid biosynthesis	SQLE	Lipid metabolism
+Steroid biosynthesis	LSS	Lipid metabolism
+Steroid biosynthesis	CYP51A1	Lipid metabolism
+Steroid biosynthesis	TM7SF2	Lipid metabolism
+Steroid biosynthesis	LBR	Lipid metabolism
+Steroid biosynthesis	MSMO1	Lipid metabolism
+Steroid biosynthesis	NSDHL	Lipid metabolism
+Steroid biosynthesis	HSD17B7	Lipid metabolism
+Steroid biosynthesis	EBP	Lipid metabolism
+Steroid biosynthesis	DHCR24	Lipid metabolism
+Steroid biosynthesis	SC5D	Lipid metabolism
+Steroid biosynthesis	DHCR7	Lipid metabolism
+Steroid biosynthesis	LIPA	Lipid metabolism
+Steroid biosynthesis	CEL	Lipid metabolism
+Steroid biosynthesis	SOAT2	Lipid metabolism
+Steroid biosynthesis	SOAT1	Lipid metabolism
+Steroid biosynthesis	CYP2R1	Lipid metabolism
+Steroid biosynthesis	CYP27B1	Lipid metabolism
+Steroid biosynthesis	CYP24A1	Lipid metabolism
+Primary bile acid biosynthesis	CYP46A1	Lipid metabolism
+Primary bile acid biosynthesis	CYP39A1	Lipid metabolism
+Primary bile acid biosynthesis	HSD3B7	Lipid metabolism
+Primary bile acid biosynthesis	CH25H	Lipid metabolism
+Primary bile acid biosynthesis	CYP7B1	Lipid metabolism
+Primary bile acid biosynthesis	CYP7A1	Lipid metabolism
+Primary bile acid biosynthesis	CYP27A1	Lipid metabolism
+Primary bile acid biosynthesis	CYP8B1	Lipid metabolism
+Primary bile acid biosynthesis	AKR1D1	Lipid metabolism
+Primary bile acid biosynthesis	AKR1C4	Lipid metabolism
+Primary bile acid biosynthesis	SLC27A5	Lipid metabolism
+Primary bile acid biosynthesis	AMACR	Lipid metabolism
+Primary bile acid biosynthesis	ACOX2	Lipid metabolism
+Primary bile acid biosynthesis	HSD17B4	Lipid metabolism
+Primary bile acid biosynthesis	SCP2	Lipid metabolism
+Primary bile acid biosynthesis	ACOT8	Lipid metabolism
+Primary bile acid biosynthesis	BAAT	Lipid metabolism
+Steroid hormone biosynthesis	CYP11A1	Lipid metabolism
+Steroid hormone biosynthesis	CYP17A1	Lipid metabolism
+Steroid hormone biosynthesis	STS	Lipid metabolism
+Steroid hormone biosynthesis	SULT2B1	Lipid metabolism
+Steroid hormone biosynthesis	CYP21A2	Lipid metabolism
+Steroid hormone biosynthesis	HSD3B1	Lipid metabolism
+Steroid hormone biosynthesis	HSD3B2	Lipid metabolism
+Steroid hormone biosynthesis	SRD5A1	Lipid metabolism
+Steroid hormone biosynthesis	SRD5A2	Lipid metabolism
+Steroid hormone biosynthesis	SRD5A3	Lipid metabolism
+Steroid hormone biosynthesis	AKR1C2	Lipid metabolism
+Steroid hormone biosynthesis	AKR1C3	Lipid metabolism
+Steroid hormone biosynthesis	CYP11B1	Lipid metabolism
+Steroid hormone biosynthesis	CYP11B2	Lipid metabolism
+Steroid hormone biosynthesis	AKR1D1	Lipid metabolism
+Steroid hormone biosynthesis	AKR1C4	Lipid metabolism
+Steroid hormone biosynthesis	HSD11B1	Lipid metabolism
+Steroid hormone biosynthesis	HSD11B1L	Lipid metabolism
+Steroid hormone biosynthesis	HSD11B2	Lipid metabolism
+Steroid hormone biosynthesis	AKR1C1	Lipid metabolism
+Steroid hormone biosynthesis	CYP7B1	Lipid metabolism
+Steroid hormone biosynthesis	SULT1E1	Lipid metabolism
+Steroid hormone biosynthesis	HSD17B1	Lipid metabolism
+Steroid hormone biosynthesis	HSD17B2	Lipid metabolism
+Steroid hormone biosynthesis	HSD17B6	Lipid metabolism
+Steroid hormone biosynthesis	HSD17B7	Lipid metabolism
+Steroid hormone biosynthesis	HSD17B8	Lipid metabolism
+Steroid hormone biosynthesis	HSD17B12	Lipid metabolism
+Steroid hormone biosynthesis	DHRS11	Lipid metabolism
+Steroid hormone biosynthesis	CYP1A1	Lipid metabolism
+Steroid hormone biosynthesis	CYP1A2	Lipid metabolism
+Steroid hormone biosynthesis	CYP3A5	Lipid metabolism
+Steroid hormone biosynthesis	CYP3A7	Lipid metabolism
+Steroid hormone biosynthesis	CYP3A7-CYP3A51P	Lipid metabolism
+Steroid hormone biosynthesis	CYP2E1	Lipid metabolism
+Steroid hormone biosynthesis	CYP3A4	Lipid metabolism
+Steroid hormone biosynthesis	CYP1B1	Lipid metabolism
+Steroid hormone biosynthesis	CYP19A1	Lipid metabolism
+Steroid hormone biosynthesis	CYP7A1	Lipid metabolism
+Steroid hormone biosynthesis	HSD17B11	Lipid metabolism
+Steroid hormone biosynthesis	UGT2A1	Lipid metabolism
+Steroid hormone biosynthesis	UGT2A3	Lipid metabolism
+Steroid hormone biosynthesis	UGT2B17	Lipid metabolism
+Steroid hormone biosynthesis	UGT2B11	Lipid metabolism
+Steroid hormone biosynthesis	UGT2B28	Lipid metabolism
+Steroid hormone biosynthesis	UGT1A6	Lipid metabolism
+Steroid hormone biosynthesis	UGT1A4	Lipid metabolism
+Steroid hormone biosynthesis	UGT1A1	Lipid metabolism
+Steroid hormone biosynthesis	UGT1A3	Lipid metabolism
+Steroid hormone biosynthesis	UGT2B10	Lipid metabolism
+Steroid hormone biosynthesis	UGT1A9	Lipid metabolism
+Steroid hormone biosynthesis	UGT2B7	Lipid metabolism
+Steroid hormone biosynthesis	UGT1A10	Lipid metabolism
+Steroid hormone biosynthesis	UGT1A8	Lipid metabolism
+Steroid hormone biosynthesis	UGT1A5	Lipid metabolism
+Steroid hormone biosynthesis	UGT2B15	Lipid metabolism
+Steroid hormone biosynthesis	UGT1A7	Lipid metabolism
+Steroid hormone biosynthesis	UGT2B4	Lipid metabolism
+Steroid hormone biosynthesis	UGT2A2	Lipid metabolism
+Steroid hormone biosynthesis	COMT	Lipid metabolism
+Steroid hormone biosynthesis	LRTOMT	Lipid metabolism
+Steroid hormone biosynthesis	HSD17B3	Lipid metabolism
+Glycerolipid metabolism	GLYCTK	Lipid metabolism
+Glycerolipid metabolism	ALDH2	Lipid metabolism
+Glycerolipid metabolism	ALDH3A2	Lipid metabolism
+Glycerolipid metabolism	ALDH1B1	Lipid metabolism
+Glycerolipid metabolism	ALDH7A1	Lipid metabolism
+Glycerolipid metabolism	ALDH9A1	Lipid metabolism
+Glycerolipid metabolism	AKR1B1	Lipid metabolism
+Glycerolipid metabolism	AKR1B10	Lipid metabolism
+Glycerolipid metabolism	AKR1B15	Lipid metabolism
+Glycerolipid metabolism	AKR1A1	Lipid metabolism
+Glycerolipid metabolism	TKFC	Lipid metabolism
+Glycerolipid metabolism	GK2	Lipid metabolism
+Glycerolipid metabolism	GK	Lipid metabolism
+Glycerolipid metabolism	GPAM	Lipid metabolism
+Glycerolipid metabolism	GPAT2	Lipid metabolism
+Glycerolipid metabolism	GPAT4	Lipid metabolism
+Glycerolipid metabolism	GPAT3	Lipid metabolism
+Glycerolipid metabolism	AGPAT1	Lipid metabolism
+Glycerolipid metabolism	AGPAT2	Lipid metabolism
+Glycerolipid metabolism	AGPAT3	Lipid metabolism
+Glycerolipid metabolism	AGPAT4	Lipid metabolism
+Glycerolipid metabolism	AGPAT5	Lipid metabolism
+Glycerolipid metabolism	LCLAT1	Lipid metabolism
+Glycerolipid metabolism	MBOAT1	Lipid metabolism
+Glycerolipid metabolism	MBOAT2	Lipid metabolism
+Glycerolipid metabolism	PLPP1	Lipid metabolism
+Glycerolipid metabolism	PLPP3	Lipid metabolism
+Glycerolipid metabolism	PLPP2	Lipid metabolism
+Glycerolipid metabolism	LPIN1	Lipid metabolism
+Glycerolipid metabolism	LPIN3	Lipid metabolism
+Glycerolipid metabolism	LPIN2	Lipid metabolism
+Glycerolipid metabolism	PLPP5	Lipid metabolism
+Glycerolipid metabolism	PLPP4	Lipid metabolism
+Glycerolipid metabolism	DGKZ	Lipid metabolism
+Glycerolipid metabolism	DGKD	Lipid metabolism
+Glycerolipid metabolism	DGKI	Lipid metabolism
+Glycerolipid metabolism	DGKA	Lipid metabolism
+Glycerolipid metabolism	DGKE	Lipid metabolism
+Glycerolipid metabolism	DGKB	Lipid metabolism
+Glycerolipid metabolism	DGKH	Lipid metabolism
+Glycerolipid metabolism	DGKG	Lipid metabolism
+Glycerolipid metabolism	DGKQ	Lipid metabolism
+Glycerolipid metabolism	DGKK	Lipid metabolism
+Glycerolipid metabolism	DGAT1	Lipid metabolism
+Glycerolipid metabolism	DGAT2	Lipid metabolism
+Glycerolipid metabolism	MOGAT3	Lipid metabolism
+Glycerolipid metabolism	CEL	Lipid metabolism
+Glycerolipid metabolism	PNPLA2	Lipid metabolism
+Glycerolipid metabolism	PNPLA3	Lipid metabolism
+Glycerolipid metabolism	PNLIP	Lipid metabolism
+Glycerolipid metabolism	PNLIPRP1	Lipid metabolism
+Glycerolipid metabolism	PNLIPRP2	Lipid metabolism
+Glycerolipid metabolism	PNLIPRP3	Lipid metabolism
+Glycerolipid metabolism	LIPC	Lipid metabolism
+Glycerolipid metabolism	LIPF	Lipid metabolism
+Glycerolipid metabolism	LIPG	Lipid metabolism
+Glycerolipid metabolism	LPL	Lipid metabolism
+Glycerolipid metabolism	AGK	Lipid metabolism
+Glycerolipid metabolism	MGLL	Lipid metabolism
+Glycerolipid metabolism	ABHD16A	Lipid metabolism
+Glycerolipid metabolism	MOGAT1	Lipid metabolism
+Glycerolipid metabolism	MOGAT2	Lipid metabolism
+Glycerolipid metabolism	GLA	Lipid metabolism
+Glycerophospholipid metabolism	GPD1L	Lipid metabolism
+Glycerophospholipid metabolism	GPD1	Lipid metabolism
+Glycerophospholipid metabolism	GPD2	Lipid metabolism
+Glycerophospholipid metabolism	GPAM	Lipid metabolism
+Glycerophospholipid metabolism	GPAT2	Lipid metabolism
+Glycerophospholipid metabolism	GPAT4	Lipid metabolism
+Glycerophospholipid metabolism	GPAT3	Lipid metabolism
+Glycerophospholipid metabolism	AGPAT1	Lipid metabolism
+Glycerophospholipid metabolism	AGPAT2	Lipid metabolism
+Glycerophospholipid metabolism	AGPAT3	Lipid metabolism
+Glycerophospholipid metabolism	AGPAT4	Lipid metabolism
+Glycerophospholipid metabolism	AGPAT5	Lipid metabolism
+Glycerophospholipid metabolism	LCLAT1	Lipid metabolism
+Glycerophospholipid metabolism	MBOAT1	Lipid metabolism
+Glycerophospholipid metabolism	MBOAT2	Lipid metabolism
+Glycerophospholipid metabolism	GNPAT	Lipid metabolism
+Glycerophospholipid metabolism	ADPRM	Lipid metabolism
+Glycerophospholipid metabolism	PLPP1	Lipid metabolism
+Glycerophospholipid metabolism	PLPP3	Lipid metabolism
+Glycerophospholipid metabolism	PLPP2	Lipid metabolism
+Glycerophospholipid metabolism	LPIN1	Lipid metabolism
+Glycerophospholipid metabolism	LPIN3	Lipid metabolism
+Glycerophospholipid metabolism	LPIN2	Lipid metabolism
+Glycerophospholipid metabolism	PLPP5	Lipid metabolism
+Glycerophospholipid metabolism	PLPP4	Lipid metabolism
+Glycerophospholipid metabolism	DGKZ	Lipid metabolism
+Glycerophospholipid metabolism	DGKD	Lipid metabolism
+Glycerophospholipid metabolism	DGKI	Lipid metabolism
+Glycerophospholipid metabolism	DGKA	Lipid metabolism
+Glycerophospholipid metabolism	DGKE	Lipid metabolism
+Glycerophospholipid metabolism	DGKB	Lipid metabolism
+Glycerophospholipid metabolism	DGKH	Lipid metabolism
+Glycerophospholipid metabolism	DGKG	Lipid metabolism
+Glycerophospholipid metabolism	DGKQ	Lipid metabolism
+Glycerophospholipid metabolism	DGKK	Lipid metabolism
+Glycerophospholipid metabolism	CHPT1	Lipid metabolism
+Glycerophospholipid metabolism	CEPT1	Lipid metabolism
+Glycerophospholipid metabolism	PLD1	Lipid metabolism
+Glycerophospholipid metabolism	PLD2	Lipid metabolism
+Glycerophospholipid metabolism	PLD3	Lipid metabolism
+Glycerophospholipid metabolism	PLD4	Lipid metabolism
+Glycerophospholipid metabolism	LCAT	Lipid metabolism
+Glycerophospholipid metabolism	PLA2G10	Lipid metabolism
+Glycerophospholipid metabolism	PLA2G2D	Lipid metabolism
+Glycerophospholipid metabolism	PLA2G2E	Lipid metabolism
+Glycerophospholipid metabolism	PLA2G3	Lipid metabolism
+Glycerophospholipid metabolism	PLA2G2F	Lipid metabolism
+Glycerophospholipid metabolism	PLA2G12A	Lipid metabolism
+Glycerophospholipid metabolism	PLA2G12B	Lipid metabolism
+Glycerophospholipid metabolism	PLA2G1B	Lipid metabolism
+Glycerophospholipid metabolism	PLA2G5	Lipid metabolism
+Glycerophospholipid metabolism	PLA2G2A	Lipid metabolism
+Glycerophospholipid metabolism	PLA2G2C	Lipid metabolism
+Glycerophospholipid metabolism	PLA2G4E	Lipid metabolism
+Glycerophospholipid metabolism	PLA2G4A	Lipid metabolism
+Glycerophospholipid metabolism	JMJD7-PLA2G4B	Lipid metabolism
+Glycerophospholipid metabolism	PLA2G4B	Lipid metabolism
+Glycerophospholipid metabolism	PLA2G4C	Lipid metabolism
+Glycerophospholipid metabolism	PLA2G4D	Lipid metabolism
+Glycerophospholipid metabolism	PLA2G4F	Lipid metabolism
+Glycerophospholipid metabolism	PLA2G6	Lipid metabolism
+Glycerophospholipid metabolism	PLB1	Lipid metabolism
+Glycerophospholipid metabolism	PLAAT3	Lipid metabolism
+Glycerophospholipid metabolism	PLAAT2	Lipid metabolism
+Glycerophospholipid metabolism	LPCAT2	Lipid metabolism
+Glycerophospholipid metabolism	LPCAT1	Lipid metabolism
+Glycerophospholipid metabolism	LPCAT4	Lipid metabolism
+Glycerophospholipid metabolism	LPCAT3	Lipid metabolism
+Glycerophospholipid metabolism	LYPLA1	Lipid metabolism
+Glycerophospholipid metabolism	PLA2G15	Lipid metabolism
+Glycerophospholipid metabolism	LYPLA2	Lipid metabolism
+Glycerophospholipid metabolism	PNPLA6	Lipid metabolism
+Glycerophospholipid metabolism	PNPLA7	Lipid metabolism
+Glycerophospholipid metabolism	GPCPD1	Lipid metabolism
+Glycerophospholipid metabolism	CHAT	Lipid metabolism
+Glycerophospholipid metabolism	ACHE	Lipid metabolism
+Glycerophospholipid metabolism	CHKA	Lipid metabolism
+Glycerophospholipid metabolism	CHKB	Lipid metabolism
+Glycerophospholipid metabolism	PHOSPHO1	Lipid metabolism
+Glycerophospholipid metabolism	PCYT1B	Lipid metabolism
+Glycerophospholipid metabolism	PCYT1A	Lipid metabolism
+Glycerophospholipid metabolism	SELENOI	Lipid metabolism
+Glycerophospholipid metabolism	ETNK1	Lipid metabolism
+Glycerophospholipid metabolism	ETNK2	Lipid metabolism
+Glycerophospholipid metabolism	PCYT2	Lipid metabolism
+Glycerophospholipid metabolism	ETNPPL	Lipid metabolism
+Glycerophospholipid metabolism	PEMT	Lipid metabolism
+Glycerophospholipid metabolism	CDS1	Lipid metabolism
+Glycerophospholipid metabolism	CDS2	Lipid metabolism
+Glycerophospholipid metabolism	PLA1A	Lipid metabolism
+Glycerophospholipid metabolism	PTDSS1	Lipid metabolism
+Glycerophospholipid metabolism	PTDSS2	Lipid metabolism
+Glycerophospholipid metabolism	PISD	Lipid metabolism
+Glycerophospholipid metabolism	PGS1	Lipid metabolism
+Glycerophospholipid metabolism	CRLS1	Lipid metabolism
+Glycerophospholipid metabolism	TAFAZZIN	Lipid metabolism
+Glycerophospholipid metabolism	LPGAT1	Lipid metabolism
+Glycerophospholipid metabolism	CDIPT	Lipid metabolism
+Glycerophospholipid metabolism	MBOAT7	Lipid metabolism
+Ether lipid metabolism	AGPS	Lipid metabolism
+Ether lipid metabolism	PLPP1	Lipid metabolism
+Ether lipid metabolism	PLPP3	Lipid metabolism
+Ether lipid metabolism	PLPP2	Lipid metabolism
+Ether lipid metabolism	SELENOI	Lipid metabolism
+Ether lipid metabolism	CHPT1	Lipid metabolism
+Ether lipid metabolism	CEPT1	Lipid metabolism
+Ether lipid metabolism	PEDS1	Lipid metabolism
+Ether lipid metabolism	PEDS1-UBE2V1	Lipid metabolism
+Ether lipid metabolism	PLA2G10	Lipid metabolism
+Ether lipid metabolism	PLA2G2D	Lipid metabolism
+Ether lipid metabolism	PLA2G2E	Lipid metabolism
+Ether lipid metabolism	PLA2G3	Lipid metabolism
+Ether lipid metabolism	PLA2G2F	Lipid metabolism
+Ether lipid metabolism	PLA2G12A	Lipid metabolism
+Ether lipid metabolism	PLA2G12B	Lipid metabolism
+Ether lipid metabolism	PLA2G1B	Lipid metabolism
+Ether lipid metabolism	PLA2G5	Lipid metabolism
+Ether lipid metabolism	PLA2G2A	Lipid metabolism
+Ether lipid metabolism	PLA2G2C	Lipid metabolism
+Ether lipid metabolism	PLA2G4E	Lipid metabolism
+Ether lipid metabolism	PLA2G4A	Lipid metabolism
+Ether lipid metabolism	JMJD7-PLA2G4B	Lipid metabolism
+Ether lipid metabolism	PLA2G4B	Lipid metabolism
+Ether lipid metabolism	PLA2G4C	Lipid metabolism
+Ether lipid metabolism	PLA2G4D	Lipid metabolism
+Ether lipid metabolism	PLA2G4F	Lipid metabolism
+Ether lipid metabolism	PLA2G6	Lipid metabolism
+Ether lipid metabolism	PLB1	Lipid metabolism
+Ether lipid metabolism	PLAAT3	Lipid metabolism
+Ether lipid metabolism	PLAAT2	Lipid metabolism
+Ether lipid metabolism	LPCAT4	Lipid metabolism
+Ether lipid metabolism	ENPP6	Lipid metabolism
+Ether lipid metabolism	ENPP2	Lipid metabolism
+Ether lipid metabolism	GDPD3	Lipid metabolism
+Ether lipid metabolism	GDPD1	Lipid metabolism
+Ether lipid metabolism	TMEM86B	Lipid metabolism
+Ether lipid metabolism	PLD1	Lipid metabolism
+Ether lipid metabolism	PLD2	Lipid metabolism
+Ether lipid metabolism	PLD3	Lipid metabolism
+Ether lipid metabolism	PLD4	Lipid metabolism
+Ether lipid metabolism	UGT8	Lipid metabolism
+Ether lipid metabolism	GAL3ST1	Lipid metabolism
+Ether lipid metabolism	LPCAT2	Lipid metabolism
+Ether lipid metabolism	LPCAT1	Lipid metabolism
+Ether lipid metabolism	PAFAH1B1	Lipid metabolism
+Ether lipid metabolism	PAFAH1B2	Lipid metabolism
+Ether lipid metabolism	PAFAH1B3	Lipid metabolism
+Ether lipid metabolism	PLA2G7	Lipid metabolism
+Ether lipid metabolism	PAFAH2	Lipid metabolism
+Sphingolipid metabolism	SPTLC1	Lipid metabolism
+Sphingolipid metabolism	SPTLC2	Lipid metabolism
+Sphingolipid metabolism	SPTLC3	Lipid metabolism
+Sphingolipid metabolism	KDSR	Lipid metabolism
+Sphingolipid metabolism	CERS1	Lipid metabolism
+Sphingolipid metabolism	CERS2	Lipid metabolism
+Sphingolipid metabolism	CERS4	Lipid metabolism
+Sphingolipid metabolism	CERS3	Lipid metabolism
+Sphingolipid metabolism	CERS6	Lipid metabolism
+Sphingolipid metabolism	CERS5	Lipid metabolism
+Sphingolipid metabolism	ASAH1	Lipid metabolism
+Sphingolipid metabolism	ASAH2	Lipid metabolism
+Sphingolipid metabolism	ACER2	Lipid metabolism
+Sphingolipid metabolism	ACER1	Lipid metabolism
+Sphingolipid metabolism	ACER3	Lipid metabolism
+Sphingolipid metabolism	DEGS1	Lipid metabolism
+Sphingolipid metabolism	DEGS2	Lipid metabolism
+Sphingolipid metabolism	SGMS1	Lipid metabolism
+Sphingolipid metabolism	SGMS2	Lipid metabolism
+Sphingolipid metabolism	SMPD1	Lipid metabolism
+Sphingolipid metabolism	SMPD2	Lipid metabolism
+Sphingolipid metabolism	SMPD3	Lipid metabolism
+Sphingolipid metabolism	SMPD4	Lipid metabolism
+Sphingolipid metabolism	ENPP7	Lipid metabolism
+Sphingolipid metabolism	CERK	Lipid metabolism
+Sphingolipid metabolism	PLPP1	Lipid metabolism
+Sphingolipid metabolism	PLPP3	Lipid metabolism
+Sphingolipid metabolism	PLPP2	Lipid metabolism
+Sphingolipid metabolism	SGPP1	Lipid metabolism
+Sphingolipid metabolism	SGPP2	Lipid metabolism
+Sphingolipid metabolism	SPHK1	Lipid metabolism
+Sphingolipid metabolism	SPHK2	Lipid metabolism
+Sphingolipid metabolism	SGPL1	Lipid metabolism
+Sphingolipid metabolism	UGCG	Lipid metabolism
+Sphingolipid metabolism	GBA1	Lipid metabolism
+Sphingolipid metabolism	GBA2	Lipid metabolism
+Sphingolipid metabolism	B4GALT6	Lipid metabolism
+Sphingolipid metabolism	B4GALT5	Lipid metabolism
+Sphingolipid metabolism	GLB1	Lipid metabolism
+Sphingolipid metabolism	UGT8	Lipid metabolism
+Sphingolipid metabolism	GALC	Lipid metabolism
+Sphingolipid metabolism	GAL3ST1	Lipid metabolism
+Sphingolipid metabolism	ARSA	Lipid metabolism
+Sphingolipid metabolism	NEU1	Lipid metabolism
+Sphingolipid metabolism	NEU3	Lipid metabolism
+Sphingolipid metabolism	NEU4	Lipid metabolism
+Sphingolipid metabolism	NEU2	Lipid metabolism
+Sphingolipid metabolism	GLA	Lipid metabolism
+Sphingolipid metabolism	B4GALNT1	Lipid metabolism
+Sphingolipid metabolism	HEXA	Lipid metabolism
+Sphingolipid metabolism	HEXB	Lipid metabolism
+Sphingolipid metabolism	GM2A	Lipid metabolism
+Sphingolipid metabolism	PSAP	Lipid metabolism
+Sphingolipid metabolism	PSAPL1	Lipid metabolism
+Arachidonic acid metabolism	PLA2G10	Lipid metabolism
+Arachidonic acid metabolism	PLA2G2D	Lipid metabolism
+Arachidonic acid metabolism	PLA2G2E	Lipid metabolism
+Arachidonic acid metabolism	PLA2G3	Lipid metabolism
+Arachidonic acid metabolism	PLA2G2F	Lipid metabolism
+Arachidonic acid metabolism	PLA2G12A	Lipid metabolism
+Arachidonic acid metabolism	PLA2G12B	Lipid metabolism
+Arachidonic acid metabolism	PLA2G1B	Lipid metabolism
+Arachidonic acid metabolism	PLA2G5	Lipid metabolism
+Arachidonic acid metabolism	PLA2G2A	Lipid metabolism
+Arachidonic acid metabolism	PLA2G2C	Lipid metabolism
+Arachidonic acid metabolism	PLA2G4E	Lipid metabolism
+Arachidonic acid metabolism	PLA2G4A	Lipid metabolism
+Arachidonic acid metabolism	JMJD7-PLA2G4B	Lipid metabolism
+Arachidonic acid metabolism	PLA2G4B	Lipid metabolism
+Arachidonic acid metabolism	PLA2G4C	Lipid metabolism
+Arachidonic acid metabolism	PLA2G4D	Lipid metabolism
+Arachidonic acid metabolism	PLA2G4F	Lipid metabolism
+Arachidonic acid metabolism	PLA2G6	Lipid metabolism
+Arachidonic acid metabolism	PLB1	Lipid metabolism
+Arachidonic acid metabolism	PLAAT3	Lipid metabolism
+Arachidonic acid metabolism	PLAAT2	Lipid metabolism
+Arachidonic acid metabolism	PTGS1	Lipid metabolism
+Arachidonic acid metabolism	PTGS2	Lipid metabolism
+Arachidonic acid metabolism	PTGES	Lipid metabolism
+Arachidonic acid metabolism	PTGES2	Lipid metabolism
+Arachidonic acid metabolism	PTGES3	Lipid metabolism
+Arachidonic acid metabolism	CBR1	Lipid metabolism
+Arachidonic acid metabolism	CBR3	Lipid metabolism
+Arachidonic acid metabolism	PRXL2B	Lipid metabolism
+Arachidonic acid metabolism	HPGD	Lipid metabolism
+Arachidonic acid metabolism	TBXAS1	Lipid metabolism
+Arachidonic acid metabolism	PTGDS	Lipid metabolism
+Arachidonic acid metabolism	HPGDS	Lipid metabolism
+Arachidonic acid metabolism	AKR1C3	Lipid metabolism
+Arachidonic acid metabolism	PTGIS	Lipid metabolism
+Arachidonic acid metabolism	ALOX5	Lipid metabolism
+Arachidonic acid metabolism	LTA4H	Lipid metabolism
+Arachidonic acid metabolism	PTGR3	Lipid metabolism
+Arachidonic acid metabolism	PTGR2	Lipid metabolism
+Arachidonic acid metabolism	PTGR1	Lipid metabolism
+Arachidonic acid metabolism	CYP4F2	Lipid metabolism
+Arachidonic acid metabolism	CYP4F3	Lipid metabolism
+Arachidonic acid metabolism	LTC4S	Lipid metabolism
+Arachidonic acid metabolism	GGT1	Lipid metabolism
+Arachidonic acid metabolism	GGT5	Lipid metabolism
+Arachidonic acid metabolism	GPX4	Lipid metabolism
+Arachidonic acid metabolism	CYP2E1	Lipid metabolism
+Arachidonic acid metabolism	CYP2J2	Lipid metabolism
+Arachidonic acid metabolism	CYP2U1	Lipid metabolism
+Arachidonic acid metabolism	CYP2C19	Lipid metabolism
+Arachidonic acid metabolism	CYP4F8	Lipid metabolism
+Arachidonic acid metabolism	ALOX12	Lipid metabolism
+Arachidonic acid metabolism	ALOXE3	Lipid metabolism
+Arachidonic acid metabolism	ALOX12B	Lipid metabolism
+Arachidonic acid metabolism	ALOX15B	Lipid metabolism
+Arachidonic acid metabolism	CYP2B6	Lipid metabolism
+Arachidonic acid metabolism	CYP2C8	Lipid metabolism
+Arachidonic acid metabolism	CYP2C9	Lipid metabolism
+Arachidonic acid metabolism	EPHX2	Lipid metabolism
+Arachidonic acid metabolism	ALOX15	Lipid metabolism
+Linoleic acid metabolism	PLA2G10	Lipid metabolism
+Linoleic acid metabolism	PLA2G2D	Lipid metabolism
+Linoleic acid metabolism	PLA2G2E	Lipid metabolism
+Linoleic acid metabolism	PLA2G3	Lipid metabolism
+Linoleic acid metabolism	PLA2G2F	Lipid metabolism
+Linoleic acid metabolism	PLA2G12A	Lipid metabolism
+Linoleic acid metabolism	PLA2G12B	Lipid metabolism
+Linoleic acid metabolism	PLA2G1B	Lipid metabolism
+Linoleic acid metabolism	PLA2G5	Lipid metabolism
+Linoleic acid metabolism	PLA2G2A	Lipid metabolism
+Linoleic acid metabolism	PLA2G2C	Lipid metabolism
+Linoleic acid metabolism	PLA2G4E	Lipid metabolism
+Linoleic acid metabolism	PLA2G4A	Lipid metabolism
+Linoleic acid metabolism	JMJD7-PLA2G4B	Lipid metabolism
+Linoleic acid metabolism	PLA2G4B	Lipid metabolism
+Linoleic acid metabolism	PLA2G4C	Lipid metabolism
+Linoleic acid metabolism	PLA2G4D	Lipid metabolism
+Linoleic acid metabolism	PLA2G4F	Lipid metabolism
+Linoleic acid metabolism	PLA2G6	Lipid metabolism
+Linoleic acid metabolism	PLB1	Lipid metabolism
+Linoleic acid metabolism	PLAAT3	Lipid metabolism
+Linoleic acid metabolism	PLAAT2	Lipid metabolism
+Linoleic acid metabolism	ALOX15	Lipid metabolism
+Linoleic acid metabolism	CYP1A2	Lipid metabolism
+Linoleic acid metabolism	CYP2C8	Lipid metabolism
+Linoleic acid metabolism	CYP2C9	Lipid metabolism
+Linoleic acid metabolism	CYP2C19	Lipid metabolism
+Linoleic acid metabolism	CYP2J2	Lipid metabolism
+Linoleic acid metabolism	CYP2E1	Lipid metabolism
+Linoleic acid metabolism	CYP3A4	Lipid metabolism
+alpha-Linolenic acid metabolism	PLA2G10	Lipid metabolism
+alpha-Linolenic acid metabolism	PLA2G2D	Lipid metabolism
+alpha-Linolenic acid metabolism	PLA2G2E	Lipid metabolism
+alpha-Linolenic acid metabolism	PLA2G3	Lipid metabolism
+alpha-Linolenic acid metabolism	PLA2G2F	Lipid metabolism
+alpha-Linolenic acid metabolism	PLA2G12A	Lipid metabolism
+alpha-Linolenic acid metabolism	PLA2G12B	Lipid metabolism
+alpha-Linolenic acid metabolism	PLA2G1B	Lipid metabolism
+alpha-Linolenic acid metabolism	PLA2G5	Lipid metabolism
+alpha-Linolenic acid metabolism	PLA2G2A	Lipid metabolism
+alpha-Linolenic acid metabolism	PLA2G2C	Lipid metabolism
+alpha-Linolenic acid metabolism	PLA2G4E	Lipid metabolism
+alpha-Linolenic acid metabolism	PLA2G4A	Lipid metabolism
+alpha-Linolenic acid metabolism	JMJD7-PLA2G4B	Lipid metabolism
+alpha-Linolenic acid metabolism	PLA2G4B	Lipid metabolism
+alpha-Linolenic acid metabolism	PLA2G4C	Lipid metabolism
+alpha-Linolenic acid metabolism	PLA2G4D	Lipid metabolism
+alpha-Linolenic acid metabolism	PLA2G4F	Lipid metabolism
+alpha-Linolenic acid metabolism	PLA2G6	Lipid metabolism
+alpha-Linolenic acid metabolism	PLB1	Lipid metabolism
+alpha-Linolenic acid metabolism	PLAAT3	Lipid metabolism
+alpha-Linolenic acid metabolism	PLAAT2	Lipid metabolism
+alpha-Linolenic acid metabolism	FADS2	Lipid metabolism
+alpha-Linolenic acid metabolism	ACOX3	Lipid metabolism
+alpha-Linolenic acid metabolism	ACOX1	Lipid metabolism
+alpha-Linolenic acid metabolism	ACAA1	Lipid metabolism
+Biosynthesis of unsaturated fatty acids	ELOVL1	Lipid metabolism
+Biosynthesis of unsaturated fatty acids	ELOVL2	Lipid metabolism
+Biosynthesis of unsaturated fatty acids	ELOVL3	Lipid metabolism
+Biosynthesis of unsaturated fatty acids	ELOVL4	Lipid metabolism
+Biosynthesis of unsaturated fatty acids	ELOVL5	Lipid metabolism
+Biosynthesis of unsaturated fatty acids	ELOVL6	Lipid metabolism
+Biosynthesis of unsaturated fatty acids	ELOVL7	Lipid metabolism
+Biosynthesis of unsaturated fatty acids	HSD17B12	Lipid metabolism
+Biosynthesis of unsaturated fatty acids	HACD2	Lipid metabolism
+Biosynthesis of unsaturated fatty acids	HACD1	Lipid metabolism
+Biosynthesis of unsaturated fatty acids	HACD4	Lipid metabolism
+Biosynthesis of unsaturated fatty acids	HACD3	Lipid metabolism
+Biosynthesis of unsaturated fatty acids	TECR	Lipid metabolism
+Biosynthesis of unsaturated fatty acids	SCD	Lipid metabolism
+Biosynthesis of unsaturated fatty acids	SCD5	Lipid metabolism
+Biosynthesis of unsaturated fatty acids	FADS2	Lipid metabolism
+Biosynthesis of unsaturated fatty acids	FADS1	Lipid metabolism
+Biosynthesis of unsaturated fatty acids	ACOX3	Lipid metabolism
+Biosynthesis of unsaturated fatty acids	ACOX1	Lipid metabolism
+Biosynthesis of unsaturated fatty acids	HSD17B4	Lipid metabolism
+Biosynthesis of unsaturated fatty acids	ACAA1	Lipid metabolism
+Biosynthesis of unsaturated fatty acids	SCP2	Lipid metabolism
+Biosynthesis of unsaturated fatty acids	ACOT4	Lipid metabolism
+Biosynthesis of unsaturated fatty acids	ACOT2	Lipid metabolism
+Biosynthesis of unsaturated fatty acids	ACOT1	Lipid metabolism
+Biosynthesis of unsaturated fatty acids	ACOT7	Lipid metabolism
+Biosynthesis of unsaturated fatty acids	BAAT	Lipid metabolism
+Purine metabolism	NUDT9	Nucleotide metabolism
+Purine metabolism	ADPRM	Nucleotide metabolism
+Purine metabolism	NUDT5	Nucleotide metabolism
+Purine metabolism	PGM1	Nucleotide metabolism
+Purine metabolism	PGM2	Nucleotide metabolism
+Purine metabolism	PRPS1L1	Nucleotide metabolism
+Purine metabolism	PRPS2	Nucleotide metabolism
+Purine metabolism	PRPS1	Nucleotide metabolism
+Purine metabolism	PPAT	Nucleotide metabolism
+Purine metabolism	GART	Nucleotide metabolism
+Purine metabolism	PFAS	Nucleotide metabolism
+Purine metabolism	PAICS	Nucleotide metabolism
+Purine metabolism	ADSL	Nucleotide metabolism
+Purine metabolism	ATIC	Nucleotide metabolism
+Purine metabolism	APRT	Nucleotide metabolism
+Purine metabolism	NT5C2	Nucleotide metabolism
+Purine metabolism	NT5C1A	Nucleotide metabolism
+Purine metabolism	NT5C1B	Nucleotide metabolism
+Purine metabolism	NT5C	Nucleotide metabolism
+Purine metabolism	NT5M	Nucleotide metabolism
+Purine metabolism	NT5C1B-RDH14	Nucleotide metabolism
+Purine metabolism	NT5DC4	Nucleotide metabolism
+Purine metabolism	NT5E	Nucleotide metabolism
+Purine metabolism	PNP	Nucleotide metabolism
+Purine metabolism	LACC1	Nucleotide metabolism
+Purine metabolism	HPRT1	Nucleotide metabolism
+Purine metabolism	IMPDH1	Nucleotide metabolism
+Purine metabolism	IMPDH2	Nucleotide metabolism
+Purine metabolism	NME6	Nucleotide metabolism
+Purine metabolism	NME7	Nucleotide metabolism
+Purine metabolism	NME2	Nucleotide metabolism
+Purine metabolism	NME4	Nucleotide metabolism
+Purine metabolism	NME1	Nucleotide metabolism
+Purine metabolism	NME3	Nucleotide metabolism
+Purine metabolism	NME1-NME2	Nucleotide metabolism
+Purine metabolism	AK9	Nucleotide metabolism
+Purine metabolism	ENTPD3	Nucleotide metabolism
+Purine metabolism	ENTPD8	Nucleotide metabolism
+Purine metabolism	ENTPD1	Nucleotide metabolism
+Purine metabolism	CANT1	Nucleotide metabolism
+Purine metabolism	ENTPD4	Nucleotide metabolism
+Purine metabolism	ENTPD5	Nucleotide metabolism
+Purine metabolism	ENTPD6	Nucleotide metabolism
+Purine metabolism	NUDT16	Nucleotide metabolism
+Purine metabolism	ITPA	Nucleotide metabolism
+Purine metabolism	XDH	Nucleotide metabolism
+Purine metabolism	NUDT2	Nucleotide metabolism
+Purine metabolism	GMPS	Nucleotide metabolism
+Purine metabolism	GMPR	Nucleotide metabolism
+Purine metabolism	GMPR2	Nucleotide metabolism
+Purine metabolism	GDA	Nucleotide metabolism
+Purine metabolism	GUK1	Nucleotide metabolism
+Purine metabolism	RRM1	Nucleotide metabolism
+Purine metabolism	RRM2B	Nucleotide metabolism
+Purine metabolism	RRM2	Nucleotide metabolism
+Purine metabolism	HDDC2	Nucleotide metabolism
+Purine metabolism	DGUOK	Nucleotide metabolism
+Purine metabolism	DCK	Nucleotide metabolism
+Purine metabolism	HDDC3	Nucleotide metabolism
+Purine metabolism	PRUNE1	Nucleotide metabolism
+Purine metabolism	ADCY1	Nucleotide metabolism
+Purine metabolism	ADCY2	Nucleotide metabolism
+Purine metabolism	ADCY3	Nucleotide metabolism
+Purine metabolism	ADCY4	Nucleotide metabolism
+Purine metabolism	ADCY5	Nucleotide metabolism
+Purine metabolism	ADCY6	Nucleotide metabolism
+Purine metabolism	ADCY7	Nucleotide metabolism
+Purine metabolism	ADCY8	Nucleotide metabolism
+Purine metabolism	ADCY9	Nucleotide metabolism
+Purine metabolism	ADCY10	Nucleotide metabolism
+Purine metabolism	GUCY1A2	Nucleotide metabolism
+Purine metabolism	GUCY1A1	Nucleotide metabolism
+Purine metabolism	GUCY1B1	Nucleotide metabolism
+Purine metabolism	GUCY2C	Nucleotide metabolism
+Purine metabolism	GUCY2D	Nucleotide metabolism
+Purine metabolism	GUCY2F	Nucleotide metabolism
+Purine metabolism	NPR1	Nucleotide metabolism
+Purine metabolism	NPR2	Nucleotide metabolism
+Purine metabolism	PDE1A	Nucleotide metabolism
+Purine metabolism	PDE1B	Nucleotide metabolism
+Purine metabolism	PDE1C	Nucleotide metabolism
+Purine metabolism	PDE2A	Nucleotide metabolism
+Purine metabolism	PDE3A	Nucleotide metabolism
+Purine metabolism	PDE3B	Nucleotide metabolism
+Purine metabolism	PDE5A	Nucleotide metabolism
+Purine metabolism	PDE6A	Nucleotide metabolism
+Purine metabolism	PDE6B	Nucleotide metabolism
+Purine metabolism	PDE6C	Nucleotide metabolism
+Purine metabolism	PDE6D	Nucleotide metabolism
+Purine metabolism	PDE6G	Nucleotide metabolism
+Purine metabolism	PDE6H	Nucleotide metabolism
+Purine metabolism	PDE9A	Nucleotide metabolism
+Purine metabolism	PDE10A	Nucleotide metabolism
+Purine metabolism	PDE11A	Nucleotide metabolism
+Purine metabolism	ADSS1	Nucleotide metabolism
+Purine metabolism	ADSS2	Nucleotide metabolism
+Purine metabolism	AMPD2	Nucleotide metabolism
+Purine metabolism	AMPD3	Nucleotide metabolism
+Purine metabolism	AMPD1	Nucleotide metabolism
+Purine metabolism	ADK	Nucleotide metabolism
+Purine metabolism	ADA	Nucleotide metabolism
+Purine metabolism	ADA2	Nucleotide metabolism
+Purine metabolism	AK7	Nucleotide metabolism
+Purine metabolism	AK4	Nucleotide metabolism
+Purine metabolism	AK5	Nucleotide metabolism
+Purine metabolism	AK2	Nucleotide metabolism
+Purine metabolism	AK1	Nucleotide metabolism
+Purine metabolism	AK8	Nucleotide metabolism
+Purine metabolism	AK6	Nucleotide metabolism
+Purine metabolism	AK3	Nucleotide metabolism
+Purine metabolism	ENTPD2	Nucleotide metabolism
+Purine metabolism	NTPCR	Nucleotide metabolism
+Purine metabolism	ENPP1	Nucleotide metabolism
+Purine metabolism	ENPP3	Nucleotide metabolism
+Purine metabolism	PDE4A	Nucleotide metabolism
+Purine metabolism	PDE4B	Nucleotide metabolism
+Purine metabolism	PDE4C	Nucleotide metabolism
+Purine metabolism	PDE4D	Nucleotide metabolism
+Purine metabolism	PDE7A	Nucleotide metabolism
+Purine metabolism	PDE7B	Nucleotide metabolism
+Purine metabolism	PDE8B	Nucleotide metabolism
+Purine metabolism	PDE8A	Nucleotide metabolism
+Purine metabolism	FHIT	Nucleotide metabolism
+Purine metabolism	ENPP4	Nucleotide metabolism
+Purine metabolism	PAPSS2	Nucleotide metabolism
+Purine metabolism	PAPSS1	Nucleotide metabolism
+Purine metabolism	URAD	Nucleotide metabolism
+Purine metabolism	ALLC	Nucleotide metabolism
+Pyrimidine metabolism	CAD	Nucleotide metabolism
+Pyrimidine metabolism	DHODH	Nucleotide metabolism
+Pyrimidine metabolism	UMPS	Nucleotide metabolism
+Pyrimidine metabolism	CMPK1	Nucleotide metabolism
+Pyrimidine metabolism	CMPK2	Nucleotide metabolism
+Pyrimidine metabolism	NME6	Nucleotide metabolism
+Pyrimidine metabolism	NME7	Nucleotide metabolism
+Pyrimidine metabolism	NME2	Nucleotide metabolism
+Pyrimidine metabolism	NME4	Nucleotide metabolism
+Pyrimidine metabolism	NME1	Nucleotide metabolism
+Pyrimidine metabolism	NME3	Nucleotide metabolism
+Pyrimidine metabolism	NME1-NME2	Nucleotide metabolism
+Pyrimidine metabolism	AK9	Nucleotide metabolism
+Pyrimidine metabolism	ENTPD3	Nucleotide metabolism
+Pyrimidine metabolism	ENTPD8	Nucleotide metabolism
+Pyrimidine metabolism	ENTPD1	Nucleotide metabolism
+Pyrimidine metabolism	CANT1	Nucleotide metabolism
+Pyrimidine metabolism	ENTPD4	Nucleotide metabolism
+Pyrimidine metabolism	ENTPD5	Nucleotide metabolism
+Pyrimidine metabolism	ENTPD6	Nucleotide metabolism
+Pyrimidine metabolism	ENPP1	Nucleotide metabolism
+Pyrimidine metabolism	ENPP3	Nucleotide metabolism
+Pyrimidine metabolism	ASMTL	Nucleotide metabolism
+Pyrimidine metabolism	NUDT2	Nucleotide metabolism
+Pyrimidine metabolism	CTPS1	Nucleotide metabolism
+Pyrimidine metabolism	CTPS2	Nucleotide metabolism
+Pyrimidine metabolism	UCK1	Nucleotide metabolism
+Pyrimidine metabolism	UCK2	Nucleotide metabolism
+Pyrimidine metabolism	UCKL1	Nucleotide metabolism
+Pyrimidine metabolism	NT5C2	Nucleotide metabolism
+Pyrimidine metabolism	NT5C1A	Nucleotide metabolism
+Pyrimidine metabolism	NT5C1B	Nucleotide metabolism
+Pyrimidine metabolism	NT5C	Nucleotide metabolism
+Pyrimidine metabolism	NT5M	Nucleotide metabolism
+Pyrimidine metabolism	NT5C1B-RDH14	Nucleotide metabolism
+Pyrimidine metabolism	NT5DC4	Nucleotide metabolism
+Pyrimidine metabolism	NT5E	Nucleotide metabolism
+Pyrimidine metabolism	UPP2	Nucleotide metabolism
+Pyrimidine metabolism	UPP1	Nucleotide metabolism
+Pyrimidine metabolism	NT5C3A	Nucleotide metabolism
+Pyrimidine metabolism	NT5C3B	Nucleotide metabolism
+Pyrimidine metabolism	CDA	Nucleotide metabolism
+Pyrimidine metabolism	RRM1	Nucleotide metabolism
+Pyrimidine metabolism	RRM2B	Nucleotide metabolism
+Pyrimidine metabolism	RRM2	Nucleotide metabolism
+Pyrimidine metabolism	DCTPP1	Nucleotide metabolism
+Pyrimidine metabolism	HDDC2	Nucleotide metabolism
+Pyrimidine metabolism	DCK	Nucleotide metabolism
+Pyrimidine metabolism	DCTD	Nucleotide metabolism
+Pyrimidine metabolism	DTYMK	Nucleotide metabolism
+Pyrimidine metabolism	DUT	Nucleotide metabolism
+Pyrimidine metabolism	TYMP	Nucleotide metabolism
+Pyrimidine metabolism	TK2	Nucleotide metabolism
+Pyrimidine metabolism	TK1	Nucleotide metabolism
+Pyrimidine metabolism	TYMS	Nucleotide metabolism
+Pyrimidine metabolism	DPYD	Nucleotide metabolism
+Pyrimidine metabolism	DPYS	Nucleotide metabolism
+Pyrimidine metabolism	UPB1	Nucleotide metabolism
+Alanine, aspartate and glutamate metabolism	GOT1	Amino acid metabolism
+Alanine, aspartate and glutamate metabolism	GOT1L1	Amino acid metabolism
+Alanine, aspartate and glutamate metabolism	GOT2	Amino acid metabolism
+Alanine, aspartate and glutamate metabolism	IL4I1	Amino acid metabolism
+Alanine, aspartate and glutamate metabolism	DDO	Amino acid metabolism
+Alanine, aspartate and glutamate metabolism	ASRGL1	Amino acid metabolism
+Alanine, aspartate and glutamate metabolism	ASNS	Amino acid metabolism
+Alanine, aspartate and glutamate metabolism	NIT2	Amino acid metabolism
+Alanine, aspartate and glutamate metabolism	GPT2	Amino acid metabolism
+Alanine, aspartate and glutamate metabolism	GPT	Amino acid metabolism
+Alanine, aspartate and glutamate metabolism	AGXT	Amino acid metabolism
+Alanine, aspartate and glutamate metabolism	AGXT2	Amino acid metabolism
+Alanine, aspartate and glutamate metabolism	ASS1	Amino acid metabolism
+Alanine, aspartate and glutamate metabolism	ASL	Amino acid metabolism
+Alanine, aspartate and glutamate metabolism	ADSS1	Amino acid metabolism
+Alanine, aspartate and glutamate metabolism	ADSS2	Amino acid metabolism
+Alanine, aspartate and glutamate metabolism	ADSL	Amino acid metabolism
+Alanine, aspartate and glutamate metabolism	NAT8L	Amino acid metabolism
+Alanine, aspartate and glutamate metabolism	RIMKLB	Amino acid metabolism
+Alanine, aspartate and glutamate metabolism	RIMKLA	Amino acid metabolism
+Alanine, aspartate and glutamate metabolism	FOLH1	Amino acid metabolism
+Alanine, aspartate and glutamate metabolism	ASPA	Amino acid metabolism
+Alanine, aspartate and glutamate metabolism	GAD1	Amino acid metabolism
+Alanine, aspartate and glutamate metabolism	GAD2	Amino acid metabolism
+Alanine, aspartate and glutamate metabolism	ABAT	Amino acid metabolism
+Alanine, aspartate and glutamate metabolism	ALDH5A1	Amino acid metabolism
+Alanine, aspartate and glutamate metabolism	GLUD2	Amino acid metabolism
+Alanine, aspartate and glutamate metabolism	GLUD1	Amino acid metabolism
+Alanine, aspartate and glutamate metabolism	ALDH4A1	Amino acid metabolism
+Alanine, aspartate and glutamate metabolism	GLUL	Amino acid metabolism
+Alanine, aspartate and glutamate metabolism	CAD	Amino acid metabolism
+Alanine, aspartate and glutamate metabolism	GLS2	Amino acid metabolism
+Alanine, aspartate and glutamate metabolism	GLS	Amino acid metabolism
+Alanine, aspartate and glutamate metabolism	CPS1	Amino acid metabolism
+Alanine, aspartate and glutamate metabolism	GFPT2	Amino acid metabolism
+Alanine, aspartate and glutamate metabolism	GFPT1	Amino acid metabolism
+Alanine, aspartate and glutamate metabolism	PPAT	Amino acid metabolism
+Glycine, serine and threonine metabolism	SHMT2	Amino acid metabolism
+Glycine, serine and threonine metabolism	SHMT1	Amino acid metabolism
+Glycine, serine and threonine metabolism	AGXT	Amino acid metabolism
+Glycine, serine and threonine metabolism	GRHPR	Amino acid metabolism
+Glycine, serine and threonine metabolism	GLYCTK	Amino acid metabolism
+Glycine, serine and threonine metabolism	PGAM1	Amino acid metabolism
+Glycine, serine and threonine metabolism	PGAM2	Amino acid metabolism
+Glycine, serine and threonine metabolism	PGAM4	Amino acid metabolism
+Glycine, serine and threonine metabolism	BPGM	Amino acid metabolism
+Glycine, serine and threonine metabolism	PHGDH	Amino acid metabolism
+Glycine, serine and threonine metabolism	PSAT1	Amino acid metabolism
+Glycine, serine and threonine metabolism	PSPH	Amino acid metabolism
+Glycine, serine and threonine metabolism	GCAT	Amino acid metabolism
+Glycine, serine and threonine metabolism	ALAS1	Amino acid metabolism
+Glycine, serine and threonine metabolism	ALAS2	Amino acid metabolism
+Glycine, serine and threonine metabolism	MAOB	Amino acid metabolism
+Glycine, serine and threonine metabolism	MAOA	Amino acid metabolism
+Glycine, serine and threonine metabolism	AOC3	Amino acid metabolism
+Glycine, serine and threonine metabolism	AOC2	Amino acid metabolism
+Glycine, serine and threonine metabolism	GLDC	Amino acid metabolism
+Glycine, serine and threonine metabolism	AMT	Amino acid metabolism
+Glycine, serine and threonine metabolism	DLD	Amino acid metabolism
+Glycine, serine and threonine metabolism	GCSH	Amino acid metabolism
+Glycine, serine and threonine metabolism	DAO	Amino acid metabolism
+Glycine, serine and threonine metabolism	AGXT2	Amino acid metabolism
+Glycine, serine and threonine metabolism	GATM	Amino acid metabolism
+Glycine, serine and threonine metabolism	GAMT	Amino acid metabolism
+Glycine, serine and threonine metabolism	CHDH	Amino acid metabolism
+Glycine, serine and threonine metabolism	ALDH7A1	Amino acid metabolism
+Glycine, serine and threonine metabolism	BHMT	Amino acid metabolism
+Glycine, serine and threonine metabolism	DMGDH	Amino acid metabolism
+Glycine, serine and threonine metabolism	PIPOX	Amino acid metabolism
+Glycine, serine and threonine metabolism	SARDH	Amino acid metabolism
+Glycine, serine and threonine metabolism	GNMT	Amino acid metabolism
+Glycine, serine and threonine metabolism	CBS	Amino acid metabolism
+Glycine, serine and threonine metabolism	CBS	Amino acid metabolism
+Glycine, serine and threonine metabolism	CTH	Amino acid metabolism
+Glycine, serine and threonine metabolism	SDS	Amino acid metabolism
+Glycine, serine and threonine metabolism	SDSL	Amino acid metabolism
+Glycine, serine and threonine metabolism	SRR	Amino acid metabolism
+Cysteine and methionine metabolism	CTH	Amino acid metabolism
+Cysteine and methionine metabolism	KYAT3	Amino acid metabolism
+Cysteine and methionine metabolism	KYAT1	Amino acid metabolism
+Cysteine and methionine metabolism	CBS	Amino acid metabolism
+Cysteine and methionine metabolism	CBS	Amino acid metabolism
+Cysteine and methionine metabolism	BHMT	Amino acid metabolism
+Cysteine and methionine metabolism	BHMT2	Amino acid metabolism
+Cysteine and methionine metabolism	MTR	Amino acid metabolism
+Cysteine and methionine metabolism	MAT2B	Amino acid metabolism
+Cysteine and methionine metabolism	MAT1A	Amino acid metabolism
+Cysteine and methionine metabolism	MAT2A	Amino acid metabolism
+Cysteine and methionine metabolism	AMD1	Amino acid metabolism
+Cysteine and methionine metabolism	SRM	Amino acid metabolism
+Cysteine and methionine metabolism	SMS	Amino acid metabolism
+Cysteine and methionine metabolism	MTAP	Amino acid metabolism
+Cysteine and methionine metabolism	LACC1	Amino acid metabolism
+Cysteine and methionine metabolism	MRI1	Amino acid metabolism
+Cysteine and methionine metabolism	APIP	Amino acid metabolism
+Cysteine and methionine metabolism	ENOPH1	Amino acid metabolism
+Cysteine and methionine metabolism	ADI1	Amino acid metabolism
+Cysteine and methionine metabolism	TAT	Amino acid metabolism
+Cysteine and methionine metabolism	IL4I1	Amino acid metabolism
+Cysteine and methionine metabolism	GNMT	Amino acid metabolism
+Cysteine and methionine metabolism	DNMT1	Amino acid metabolism
+Cysteine and methionine metabolism	DNMT3A	Amino acid metabolism
+Cysteine and methionine metabolism	DNMT3B	Amino acid metabolism
+Cysteine and methionine metabolism	AHCYL2	Amino acid metabolism
+Cysteine and methionine metabolism	AHCYL1	Amino acid metabolism
+Cysteine and methionine metabolism	AHCY	Amino acid metabolism
+Cysteine and methionine metabolism	BCAT2	Amino acid metabolism
+Cysteine and methionine metabolism	BCAT1	Amino acid metabolism
+Cysteine and methionine metabolism	AGXT2	Amino acid metabolism
+Cysteine and methionine metabolism	GCLC	Amino acid metabolism
+Cysteine and methionine metabolism	GCLM	Amino acid metabolism
+Cysteine and methionine metabolism	GSS	Amino acid metabolism
+Cysteine and methionine metabolism	CDO1	Amino acid metabolism
+Cysteine and methionine metabolism	GOT1	Amino acid metabolism
+Cysteine and methionine metabolism	GOT1L1	Amino acid metabolism
+Cysteine and methionine metabolism	GOT2	Amino acid metabolism
+Cysteine and methionine metabolism	MPST	Amino acid metabolism
+Cysteine and methionine metabolism	TST	Amino acid metabolism
+Cysteine and methionine metabolism	LDHAL6A	Amino acid metabolism
+Cysteine and methionine metabolism	LDHAL6B	Amino acid metabolism
+Cysteine and methionine metabolism	LDHA	Amino acid metabolism
+Cysteine and methionine metabolism	LDHB	Amino acid metabolism
+Cysteine and methionine metabolism	LDHC	Amino acid metabolism
+Cysteine and methionine metabolism	MDH1	Amino acid metabolism
+Cysteine and methionine metabolism	MDH2	Amino acid metabolism
+Cysteine and methionine metabolism	SDS	Amino acid metabolism
+Cysteine and methionine metabolism	SDSL	Amino acid metabolism
+Cysteine and methionine metabolism	PHGDH	Amino acid metabolism
+Cysteine and methionine metabolism	PSAT1	Amino acid metabolism
+Valine, leucine and isoleucine degradation	BCAT2	Amino acid metabolism
+Valine, leucine and isoleucine degradation	BCAT1	Amino acid metabolism
+Valine, leucine and isoleucine degradation	IL4I1	Amino acid metabolism
+Valine, leucine and isoleucine degradation	BCKDHA	Amino acid metabolism
+Valine, leucine and isoleucine degradation	BCKDHB	Amino acid metabolism
+Valine, leucine and isoleucine degradation	DBT	Amino acid metabolism
+Valine, leucine and isoleucine degradation	DLD	Amino acid metabolism
+Valine, leucine and isoleucine degradation	ACADS	Amino acid metabolism
+Valine, leucine and isoleucine degradation	ACADM	Amino acid metabolism
+Valine, leucine and isoleucine degradation	IVD	Amino acid metabolism
+Valine, leucine and isoleucine degradation	ACADSB	Amino acid metabolism
+Valine, leucine and isoleucine degradation	ACAD8	Amino acid metabolism
+Valine, leucine and isoleucine degradation	HADHA	Amino acid metabolism
+Valine, leucine and isoleucine degradation	EHHADH	Amino acid metabolism
+Valine, leucine and isoleucine degradation	ECHS1	Amino acid metabolism
+Valine, leucine and isoleucine degradation	HADH	Amino acid metabolism
+Valine, leucine and isoleucine degradation	HSD17B10	Amino acid metabolism
+Valine, leucine and isoleucine degradation	ACAA1	Amino acid metabolism
+Valine, leucine and isoleucine degradation	ACAA2	Amino acid metabolism
+Valine, leucine and isoleucine degradation	HADHB	Amino acid metabolism
+Valine, leucine and isoleucine degradation	PCCA	Amino acid metabolism
+Valine, leucine and isoleucine degradation	PCCB	Amino acid metabolism
+Valine, leucine and isoleucine degradation	MCEE	Amino acid metabolism
+Valine, leucine and isoleucine degradation	MMUT	Amino acid metabolism
+Valine, leucine and isoleucine degradation	HIBCH	Amino acid metabolism
+Valine, leucine and isoleucine degradation	HIBADH	Amino acid metabolism
+Valine, leucine and isoleucine degradation	ALDH6A1	Amino acid metabolism
+Valine, leucine and isoleucine degradation	ALDH2	Amino acid metabolism
+Valine, leucine and isoleucine degradation	ALDH3A2	Amino acid metabolism
+Valine, leucine and isoleucine degradation	ALDH1B1	Amino acid metabolism
+Valine, leucine and isoleucine degradation	ALDH7A1	Amino acid metabolism
+Valine, leucine and isoleucine degradation	ALDH9A1	Amino acid metabolism
+Valine, leucine and isoleucine degradation	AOX1	Amino acid metabolism
+Valine, leucine and isoleucine degradation	ACSF3	Amino acid metabolism
+Valine, leucine and isoleucine degradation	ABAT	Amino acid metabolism
+Valine, leucine and isoleucine degradation	AGXT2	Amino acid metabolism
+Valine, leucine and isoleucine degradation	MCCC1	Amino acid metabolism
+Valine, leucine and isoleucine degradation	MCCC2	Amino acid metabolism
+Valine, leucine and isoleucine degradation	AUH	Amino acid metabolism
+Valine, leucine and isoleucine degradation	HMGCL	Amino acid metabolism
+Valine, leucine and isoleucine degradation	HMGCLL1	Amino acid metabolism
+Valine, leucine and isoleucine degradation	OXCT1	Amino acid metabolism
+Valine, leucine and isoleucine degradation	OXCT2	Amino acid metabolism
+Valine, leucine and isoleucine degradation	AACS	Amino acid metabolism
+Valine, leucine and isoleucine degradation	ACAT2	Amino acid metabolism
+Valine, leucine and isoleucine degradation	ACAT1	Amino acid metabolism
+Valine, leucine and isoleucine degradation	HMGCS1	Amino acid metabolism
+Valine, leucine and isoleucine degradation	HMGCS2	Amino acid metabolism
+Valine, leucine and isoleucine biosynthesis	SDS	Amino acid metabolism
+Valine, leucine and isoleucine biosynthesis	SDSL	Amino acid metabolism
+Valine, leucine and isoleucine biosynthesis	BCAT2	Amino acid metabolism
+Valine, leucine and isoleucine biosynthesis	BCAT1	Amino acid metabolism
+Lysine degradation	AASS	Amino acid metabolism
+Lysine degradation	ALDH7A1	Amino acid metabolism
+Lysine degradation	AADAT	Amino acid metabolism
+Lysine degradation	DHTKD1	Amino acid metabolism
+Lysine degradation	DLST	Amino acid metabolism
+Lysine degradation	DLD	Amino acid metabolism
+Lysine degradation	GCDH	Amino acid metabolism
+Lysine degradation	HADHA	Amino acid metabolism
+Lysine degradation	EHHADH	Amino acid metabolism
+Lysine degradation	ECHS1	Amino acid metabolism
+Lysine degradation	HADH	Amino acid metabolism
+Lysine degradation	ACAT2	Amino acid metabolism
+Lysine degradation	ACAT1	Amino acid metabolism
+Lysine degradation	HYKK	Amino acid metabolism
+Lysine degradation	PHYKPL	Amino acid metabolism
+Lysine degradation	PIPOX	Amino acid metabolism
+Lysine degradation	CAMKMT	Amino acid metabolism
+Lysine degradation	KMT2A	Amino acid metabolism
+Lysine degradation	KMT2D	Amino acid metabolism
+Lysine degradation	KMT2C	Amino acid metabolism
+Lysine degradation	KMT2B	Amino acid metabolism
+Lysine degradation	KMT2E	Amino acid metabolism
+Lysine degradation	SETD1B	Amino acid metabolism
+Lysine degradation	SETD1A	Amino acid metabolism
+Lysine degradation	SETD7	Amino acid metabolism
+Lysine degradation	PRDM9	Amino acid metabolism
+Lysine degradation	PRDM7	Amino acid metabolism
+Lysine degradation	ASH1L	Amino acid metabolism
+Lysine degradation	SMYD2	Amino acid metabolism
+Lysine degradation	SMYD3	Amino acid metabolism
+Lysine degradation	SMYD1	Amino acid metabolism
+Lysine degradation	SUV39H1	Amino acid metabolism
+Lysine degradation	SUV39H2	Amino acid metabolism
+Lysine degradation	EHMT2	Amino acid metabolism
+Lysine degradation	EHMT1	Amino acid metabolism
+Lysine degradation	SETDB1	Amino acid metabolism
+Lysine degradation	SETDB2	Amino acid metabolism
+Lysine degradation	PRDM2	Amino acid metabolism
+Lysine degradation	EZH1	Amino acid metabolism
+Lysine degradation	EZH2	Amino acid metabolism
+Lysine degradation	SETMAR	Amino acid metabolism
+Lysine degradation	NSD1	Amino acid metabolism
+Lysine degradation	NSD2	Amino acid metabolism
+Lysine degradation	NSD3	Amino acid metabolism
+Lysine degradation	SETD2	Amino acid metabolism
+Lysine degradation	DOT1L	Amino acid metabolism
+Lysine degradation	KMT5A	Amino acid metabolism
+Lysine degradation	PRDM6	Amino acid metabolism
+Lysine degradation	KMT5C	Amino acid metabolism
+Lysine degradation	KMT5B	Amino acid metabolism
+Lysine degradation	MECOM	Amino acid metabolism
+Lysine degradation	PRDM16	Amino acid metabolism
+Lysine degradation	TMLHE	Amino acid metabolism
+Lysine degradation	ALDH2	Amino acid metabolism
+Lysine degradation	ALDH3A2	Amino acid metabolism
+Lysine degradation	ALDH1B1	Amino acid metabolism
+Lysine degradation	ALDH9A1	Amino acid metabolism
+Lysine degradation	BBOX1	Amino acid metabolism
+Lysine degradation	PLOD1	Amino acid metabolism
+Lysine degradation	PLOD2	Amino acid metabolism
+Lysine degradation	PLOD3	Amino acid metabolism
+Lysine degradation	COLGALT1	Amino acid metabolism
+Lysine degradation	COLGALT2	Amino acid metabolism
+Arginine biosynthesis	OTC	Amino acid metabolism
+Arginine biosynthesis	ASS1	Amino acid metabolism
+Arginine biosynthesis	ASL	Amino acid metabolism
+Arginine biosynthesis	ARG2	Amino acid metabolism
+Arginine biosynthesis	ARG1	Amino acid metabolism
+Arginine biosynthesis	NOS1	Amino acid metabolism
+Arginine biosynthesis	NOS2	Amino acid metabolism
+Arginine biosynthesis	NOS3	Amino acid metabolism
+Arginine biosynthesis	GLS2	Amino acid metabolism
+Arginine biosynthesis	GLS	Amino acid metabolism
+Arginine biosynthesis	GLUL	Amino acid metabolism
+Arginine biosynthesis	GLUD2	Amino acid metabolism
+Arginine biosynthesis	GLUD1	Amino acid metabolism
+Arginine biosynthesis	CPS1	Amino acid metabolism
+Arginine biosynthesis	GOT1	Amino acid metabolism
+Arginine biosynthesis	GOT1L1	Amino acid metabolism
+Arginine biosynthesis	GOT2	Amino acid metabolism
+Arginine biosynthesis	GPT2	Amino acid metabolism
+Arginine biosynthesis	GPT	Amino acid metabolism
+Arginine biosynthesis	NAGS	Amino acid metabolism
+Arginine biosynthesis	ACY1	Amino acid metabolism
+Arginine biosynthesis	ABHD14A-ACY1	Amino acid metabolism
+Arginine and proline metabolism	GATM	Amino acid metabolism
+Arginine and proline metabolism	GAMT	Amino acid metabolism
+Arginine and proline metabolism	CKM	Amino acid metabolism
+Arginine and proline metabolism	CKMT1A	Amino acid metabolism
+Arginine and proline metabolism	CKMT2	Amino acid metabolism
+Arginine and proline metabolism	CKB	Amino acid metabolism
+Arginine and proline metabolism	CKMT1B	Amino acid metabolism
+Arginine and proline metabolism	AZIN2	Amino acid metabolism
+Arginine and proline metabolism	AGMAT	Amino acid metabolism
+Arginine and proline metabolism	ODC1	Amino acid metabolism
+Arginine and proline metabolism	SRM	Amino acid metabolism
+Arginine and proline metabolism	SMS	Amino acid metabolism
+Arginine and proline metabolism	AMD1	Amino acid metabolism
+Arginine and proline metabolism	AOC1	Amino acid metabolism
+Arginine and proline metabolism	SMOX	Amino acid metabolism
+Arginine and proline metabolism	ALDH2	Amino acid metabolism
+Arginine and proline metabolism	ALDH3A2	Amino acid metabolism
+Arginine and proline metabolism	ALDH1B1	Amino acid metabolism
+Arginine and proline metabolism	ALDH7A1	Amino acid metabolism
+Arginine and proline metabolism	ALDH9A1	Amino acid metabolism
+Arginine and proline metabolism	CNDP1	Amino acid metabolism
+Arginine and proline metabolism	CNDP2	Amino acid metabolism
+Arginine and proline metabolism	CARNS1	Amino acid metabolism
+Arginine and proline metabolism	SAT2	Amino acid metabolism
+Arginine and proline metabolism	SAT1	Amino acid metabolism
+Arginine and proline metabolism	MAOB	Amino acid metabolism
+Arginine and proline metabolism	MAOA	Amino acid metabolism
+Arginine and proline metabolism	NOS1	Amino acid metabolism
+Arginine and proline metabolism	NOS2	Amino acid metabolism
+Arginine and proline metabolism	NOS3	Amino acid metabolism
+Arginine and proline metabolism	ARG2	Amino acid metabolism
+Arginine and proline metabolism	ARG1	Amino acid metabolism
+Arginine and proline metabolism	OAT	Amino acid metabolism
+Arginine and proline metabolism	PYCR3	Amino acid metabolism
+Arginine and proline metabolism	PYCR2	Amino acid metabolism
+Arginine and proline metabolism	PYCR1	Amino acid metabolism
+Arginine and proline metabolism	PRODH	Amino acid metabolism
+Arginine and proline metabolism	ALDH4A1	Amino acid metabolism
+Arginine and proline metabolism	ALDH18A1	Amino acid metabolism
+Arginine and proline metabolism	LAP3	Amino acid metabolism
+Arginine and proline metabolism	P4HA2	Amino acid metabolism
+Arginine and proline metabolism	P4HA3	Amino acid metabolism
+Arginine and proline metabolism	P4HA1	Amino acid metabolism
+Arginine and proline metabolism	PRODH2	Amino acid metabolism
+Arginine and proline metabolism	GOT1	Amino acid metabolism
+Arginine and proline metabolism	GOT1L1	Amino acid metabolism
+Arginine and proline metabolism	GOT2	Amino acid metabolism
+Arginine and proline metabolism	HOGA1	Amino acid metabolism
+Arginine and proline metabolism	DAO	Amino acid metabolism
+Arginine and proline metabolism	L3HYPDH	Amino acid metabolism
+Histidine metabolism	HAL	Amino acid metabolism
+Histidine metabolism	UROC1	Amino acid metabolism
+Histidine metabolism	AMDHD1	Amino acid metabolism
+Histidine metabolism	FTCD	Amino acid metabolism
+Histidine metabolism	HDC	Amino acid metabolism
+Histidine metabolism	AOC1	Amino acid metabolism
+Histidine metabolism	ALDH2	Amino acid metabolism
+Histidine metabolism	ALDH3A2	Amino acid metabolism
+Histidine metabolism	ALDH1B1	Amino acid metabolism
+Histidine metabolism	ALDH7A1	Amino acid metabolism
+Histidine metabolism	ALDH9A1	Amino acid metabolism
+Histidine metabolism	ASPA	Amino acid metabolism
+Histidine metabolism	HNMT	Amino acid metabolism
+Histidine metabolism	MAOB	Amino acid metabolism
+Histidine metabolism	MAOA	Amino acid metabolism
+Histidine metabolism	ALDH3B1	Amino acid metabolism
+Histidine metabolism	ALDH3B2	Amino acid metabolism
+Histidine metabolism	ALDH3A1	Amino acid metabolism
+Histidine metabolism	CARNS1	Amino acid metabolism
+Histidine metabolism	CARNMT1	Amino acid metabolism
+Histidine metabolism	CNDP2	Amino acid metabolism
+Histidine metabolism	CNDP1	Amino acid metabolism
+Tyrosine metabolism	GOT1	Amino acid metabolism
+Tyrosine metabolism	GOT1L1	Amino acid metabolism
+Tyrosine metabolism	GOT2	Amino acid metabolism
+Tyrosine metabolism	TAT	Amino acid metabolism
+Tyrosine metabolism	IL4I1	Amino acid metabolism
+Tyrosine metabolism	HPD	Amino acid metabolism
+Tyrosine metabolism	HGD	Amino acid metabolism
+Tyrosine metabolism	GSTZ1	Amino acid metabolism
+Tyrosine metabolism	FAH	Amino acid metabolism
+Tyrosine metabolism	TYR	Amino acid metabolism
+Tyrosine metabolism	TH	Amino acid metabolism
+Tyrosine metabolism	DCT	Amino acid metabolism
+Tyrosine metabolism	TYRP1	Amino acid metabolism
+Tyrosine metabolism	DDC	Amino acid metabolism
+Tyrosine metabolism	DBH	Amino acid metabolism
+Tyrosine metabolism	PNMT	Amino acid metabolism
+Tyrosine metabolism	COMT	Amino acid metabolism
+Tyrosine metabolism	LRTOMT	Amino acid metabolism
+Tyrosine metabolism	MAOB	Amino acid metabolism
+Tyrosine metabolism	MAOA	Amino acid metabolism
+Tyrosine metabolism	AOC3	Amino acid metabolism
+Tyrosine metabolism	AOC2	Amino acid metabolism
+Tyrosine metabolism	ALDH3B1	Amino acid metabolism
+Tyrosine metabolism	ALDH3B2	Amino acid metabolism
+Tyrosine metabolism	ALDH3A1	Amino acid metabolism
+Tyrosine metabolism	ADH1A	Amino acid metabolism
+Tyrosine metabolism	ADH1B	Amino acid metabolism
+Tyrosine metabolism	ADH1C	Amino acid metabolism
+Tyrosine metabolism	ADH7	Amino acid metabolism
+Tyrosine metabolism	ADH4	Amino acid metabolism
+Tyrosine metabolism	ADH5	Amino acid metabolism
+Tyrosine metabolism	ADH6	Amino acid metabolism
+Tyrosine metabolism	TPO	Amino acid metabolism
+Tyrosine metabolism	AOX1	Amino acid metabolism
+Tyrosine metabolism	FAHD1	Amino acid metabolism
+Tyrosine metabolism	MIF	Amino acid metabolism
+Phenylalanine metabolism	PAH	Amino acid metabolism
+Phenylalanine metabolism	DDC	Amino acid metabolism
+Phenylalanine metabolism	AOC3	Amino acid metabolism
+Phenylalanine metabolism	AOC2	Amino acid metabolism
+Phenylalanine metabolism	MAOB	Amino acid metabolism
+Phenylalanine metabolism	MAOA	Amino acid metabolism
+Phenylalanine metabolism	ALDH3B1	Amino acid metabolism
+Phenylalanine metabolism	ALDH3B2	Amino acid metabolism
+Phenylalanine metabolism	ALDH3A1	Amino acid metabolism
+Phenylalanine metabolism	GOT1	Amino acid metabolism
+Phenylalanine metabolism	GOT1L1	Amino acid metabolism
+Phenylalanine metabolism	GOT2	Amino acid metabolism
+Phenylalanine metabolism	TAT	Amino acid metabolism
+Phenylalanine metabolism	IL4I1	Amino acid metabolism
+Phenylalanine metabolism	HPD	Amino acid metabolism
+Phenylalanine metabolism	MIF	Amino acid metabolism
+Tryptophan metabolism	TDO2	Amino acid metabolism
+Tryptophan metabolism	IDO1	Amino acid metabolism
+Tryptophan metabolism	IDO2	Amino acid metabolism
+Tryptophan metabolism	AFMID	Amino acid metabolism
+Tryptophan metabolism	KMO	Amino acid metabolism
+Tryptophan metabolism	KYNU	Amino acid metabolism
+Tryptophan metabolism	HAAO	Amino acid metabolism
+Tryptophan metabolism	ACMSD	Amino acid metabolism
+Tryptophan metabolism	ALDH8A1	Amino acid metabolism
+Tryptophan metabolism	DHTKD1	Amino acid metabolism
+Tryptophan metabolism	DLST	Amino acid metabolism
+Tryptophan metabolism	DLD	Amino acid metabolism
+Tryptophan metabolism	GCDH	Amino acid metabolism
+Tryptophan metabolism	HADHA	Amino acid metabolism
+Tryptophan metabolism	EHHADH	Amino acid metabolism
+Tryptophan metabolism	ECHS1	Amino acid metabolism
+Tryptophan metabolism	HADH	Amino acid metabolism
+Tryptophan metabolism	ACAT2	Amino acid metabolism
+Tryptophan metabolism	ACAT1	Amino acid metabolism
+Tryptophan metabolism	KYAT3	Amino acid metabolism
+Tryptophan metabolism	KYAT1	Amino acid metabolism
+Tryptophan metabolism	AADAT	Amino acid metabolism
+Tryptophan metabolism	TPH2	Amino acid metabolism
+Tryptophan metabolism	TPH1	Amino acid metabolism
+Tryptophan metabolism	DDC	Amino acid metabolism
+Tryptophan metabolism	MAOB	Amino acid metabolism
+Tryptophan metabolism	MAOA	Amino acid metabolism
+Tryptophan metabolism	ALDH2	Amino acid metabolism
+Tryptophan metabolism	ALDH3A2	Amino acid metabolism
+Tryptophan metabolism	ALDH1B1	Amino acid metabolism
+Tryptophan metabolism	ALDH7A1	Amino acid metabolism
+Tryptophan metabolism	ALDH9A1	Amino acid metabolism
+Tryptophan metabolism	AOX1	Amino acid metabolism
+Tryptophan metabolism	ASMT	Amino acid metabolism
+Tryptophan metabolism	AANAT	Amino acid metabolism
+Tryptophan metabolism	CYP1A1	Amino acid metabolism
+Tryptophan metabolism	CYP1A2	Amino acid metabolism
+Tryptophan metabolism	CYP1B1	Amino acid metabolism
+Tryptophan metabolism	INMT	Amino acid metabolism
+Tryptophan metabolism	IL4I1	Amino acid metabolism
+Tryptophan metabolism	AOC1	Amino acid metabolism
+Tryptophan metabolism	CAT	Amino acid metabolism
+Phenylalanine, tyrosine and tryptophan biosynthesis	GOT1	Amino acid metabolism
+Phenylalanine, tyrosine and tryptophan biosynthesis	GOT1L1	Amino acid metabolism
+Phenylalanine, tyrosine and tryptophan biosynthesis	GOT2	Amino acid metabolism
+Phenylalanine, tyrosine and tryptophan biosynthesis	TAT	Amino acid metabolism
+Phenylalanine, tyrosine and tryptophan biosynthesis	IL4I1	Amino acid metabolism
+Phenylalanine, tyrosine and tryptophan biosynthesis	PAH	Amino acid metabolism
+beta-Alanine metabolism	GADL1	Metabolism of other amino acids
+beta-Alanine metabolism	CSAD	Metabolism of other amino acids
+beta-Alanine metabolism	GAD1	Metabolism of other amino acids
+beta-Alanine metabolism	GAD2	Metabolism of other amino acids
+beta-Alanine metabolism	CNDP1	Metabolism of other amino acids
+beta-Alanine metabolism	CARNS1	Metabolism of other amino acids
+beta-Alanine metabolism	CNDP2	Metabolism of other amino acids
+beta-Alanine metabolism	ABAT	Metabolism of other amino acids
+beta-Alanine metabolism	SMOX	Metabolism of other amino acids
+beta-Alanine metabolism	AOC3	Metabolism of other amino acids
+beta-Alanine metabolism	AOC2	Metabolism of other amino acids
+beta-Alanine metabolism	ALDH2	Metabolism of other amino acids
+beta-Alanine metabolism	ALDH3A2	Metabolism of other amino acids
+beta-Alanine metabolism	ALDH1B1	Metabolism of other amino acids
+beta-Alanine metabolism	ALDH7A1	Metabolism of other amino acids
+beta-Alanine metabolism	ALDH9A1	Metabolism of other amino acids
+beta-Alanine metabolism	ALDH3B1	Metabolism of other amino acids
+beta-Alanine metabolism	ALDH3B2	Metabolism of other amino acids
+beta-Alanine metabolism	ALDH3A1	Metabolism of other amino acids
+beta-Alanine metabolism	DPYD	Metabolism of other amino acids
+beta-Alanine metabolism	DPYS	Metabolism of other amino acids
+beta-Alanine metabolism	UPB1	Metabolism of other amino acids
+beta-Alanine metabolism	HIBCH	Metabolism of other amino acids
+beta-Alanine metabolism	HADHA	Metabolism of other amino acids
+beta-Alanine metabolism	EHHADH	Metabolism of other amino acids
+beta-Alanine metabolism	ECHS1	Metabolism of other amino acids
+beta-Alanine metabolism	ACADS	Metabolism of other amino acids
+beta-Alanine metabolism	ACOX3	Metabolism of other amino acids
+beta-Alanine metabolism	ACOX1	Metabolism of other amino acids
+beta-Alanine metabolism	MLYCD	Metabolism of other amino acids
+beta-Alanine metabolism	ALDH6A1	Metabolism of other amino acids
+Taurine and hypotaurine metabolism	CDO1	Metabolism of other amino acids
+Taurine and hypotaurine metabolism	GAD1	Metabolism of other amino acids
+Taurine and hypotaurine metabolism	GAD2	Metabolism of other amino acids
+Taurine and hypotaurine metabolism	GADL1	Metabolism of other amino acids
+Taurine and hypotaurine metabolism	CSAD	Metabolism of other amino acids
+Taurine and hypotaurine metabolism	ADO	Metabolism of other amino acids
+Taurine and hypotaurine metabolism	FMO1	Metabolism of other amino acids
+Taurine and hypotaurine metabolism	FMO2	Metabolism of other amino acids
+Taurine and hypotaurine metabolism	FMO5	Metabolism of other amino acids
+Taurine and hypotaurine metabolism	FMO3	Metabolism of other amino acids
+Taurine and hypotaurine metabolism	FMO4	Metabolism of other amino acids
+Taurine and hypotaurine metabolism	GGT7	Metabolism of other amino acids
+Taurine and hypotaurine metabolism	GGT6	Metabolism of other amino acids
+Taurine and hypotaurine metabolism	GGT1	Metabolism of other amino acids
+Taurine and hypotaurine metabolism	GGT5	Metabolism of other amino acids
+Taurine and hypotaurine metabolism	BAAT	Metabolism of other amino acids
+Phosphonate and phosphinate metabolism	PCYT2	Metabolism of other amino acids
+Phosphonate and phosphinate metabolism	SELENOI	Metabolism of other amino acids
+Phosphonate and phosphinate metabolism	CEPT1	Metabolism of other amino acids
+Phosphonate and phosphinate metabolism	PCYT1B	Metabolism of other amino acids
+Phosphonate and phosphinate metabolism	PCYT1A	Metabolism of other amino acids
+Phosphonate and phosphinate metabolism	CHPT1	Metabolism of other amino acids
+Selenocompound metabolism	KYAT3	Metabolism of other amino acids
+Selenocompound metabolism	KYAT1	Metabolism of other amino acids
+Selenocompound metabolism	MTR	Metabolism of other amino acids
+Selenocompound metabolism	CTH	Metabolism of other amino acids
+Selenocompound metabolism	SCLY	Metabolism of other amino acids
+Selenocompound metabolism	TXNRD1	Metabolism of other amino acids
+Selenocompound metabolism	TXNRD3	Metabolism of other amino acids
+Selenocompound metabolism	TXNRD2	Metabolism of other amino acids
+Selenocompound metabolism	INMT	Metabolism of other amino acids
+Selenocompound metabolism	PAPSS2	Metabolism of other amino acids
+Selenocompound metabolism	PAPSS1	Metabolism of other amino acids
+Selenocompound metabolism	SEPHS2	Metabolism of other amino acids
+Selenocompound metabolism	SEPHS1	Metabolism of other amino acids
+Selenocompound metabolism	PSTK	Metabolism of other amino acids
+Selenocompound metabolism	SEPSECS	Metabolism of other amino acids
+Selenocompound metabolism	MARS1	Metabolism of other amino acids
+Selenocompound metabolism	MARS2	Metabolism of other amino acids
+D-Amino acid metabolism	GLS2	Metabolism of other amino acids
+D-Amino acid metabolism	GLS	Metabolism of other amino acids
+D-Amino acid metabolism	DGLUCY	Metabolism of other amino acids
+D-Amino acid metabolism	DDO	Metabolism of other amino acids
+D-Amino acid metabolism	SRR	Metabolism of other amino acids
+D-Amino acid metabolism	DAO	Metabolism of other amino acids
+Glutathione metabolism	GGT7	Metabolism of other amino acids
+Glutathione metabolism	GGT6	Metabolism of other amino acids
+Glutathione metabolism	GGT1	Metabolism of other amino acids
+Glutathione metabolism	GGT5	Metabolism of other amino acids
+Glutathione metabolism	GGCT	Metabolism of other amino acids
+Glutathione metabolism	CHAC1	Metabolism of other amino acids
+Glutathione metabolism	CHAC2	Metabolism of other amino acids
+Glutathione metabolism	OPLAH	Metabolism of other amino acids
+Glutathione metabolism	GCLC	Metabolism of other amino acids
+Glutathione metabolism	GCLM	Metabolism of other amino acids
+Glutathione metabolism	GSS	Metabolism of other amino acids
+Glutathione metabolism	LAP3	Metabolism of other amino acids
+Glutathione metabolism	ANPEP	Metabolism of other amino acids
+Glutathione metabolism	GSTA5	Metabolism of other amino acids
+Glutathione metabolism	GSTA2	Metabolism of other amino acids
+Glutathione metabolism	GSTA4	Metabolism of other amino acids
+Glutathione metabolism	GSTO2	Metabolism of other amino acids
+Glutathione metabolism	GSTM4	Metabolism of other amino acids
+Glutathione metabolism	GSTT2	Metabolism of other amino acids
+Glutathione metabolism	GSTT1	Metabolism of other amino acids
+Glutathione metabolism	GSTM3	Metabolism of other amino acids
+Glutathione metabolism	MGST1	Metabolism of other amino acids
+Glutathione metabolism	MGST3	Metabolism of other amino acids
+Glutathione metabolism	GSTM1	Metabolism of other amino acids
+Glutathione metabolism	GSTM5	Metabolism of other amino acids
+Glutathione metabolism	MGST2	Metabolism of other amino acids
+Glutathione metabolism	GSTA1	Metabolism of other amino acids
+Glutathione metabolism	GSTM2	Metabolism of other amino acids
+Glutathione metabolism	GSTA3	Metabolism of other amino acids
+Glutathione metabolism	GSTO1	Metabolism of other amino acids
+Glutathione metabolism	GSTT2B	Metabolism of other amino acids
+Glutathione metabolism	GSTP1	Metabolism of other amino acids
+Glutathione metabolism	GSTK1	Metabolism of other amino acids
+Glutathione metabolism	HPGDS	Metabolism of other amino acids
+Glutathione metabolism	LANCL1	Metabolism of other amino acids
+Glutathione metabolism	NAT8	Metabolism of other amino acids
+Glutathione metabolism	GSR	Metabolism of other amino acids
+Glutathione metabolism	IDH1	Metabolism of other amino acids
+Glutathione metabolism	IDH2	Metabolism of other amino acids
+Glutathione metabolism	PGD	Metabolism of other amino acids
+Glutathione metabolism	G6PD	Metabolism of other amino acids
+Glutathione metabolism	TXNDC12	Metabolism of other amino acids
+Glutathione metabolism	GPX4	Metabolism of other amino acids
+Glutathione metabolism	GPX6	Metabolism of other amino acids
+Glutathione metabolism	GPX7	Metabolism of other amino acids
+Glutathione metabolism	GPX2	Metabolism of other amino acids
+Glutathione metabolism	GPX3	Metabolism of other amino acids
+Glutathione metabolism	GPX1	Metabolism of other amino acids
+Glutathione metabolism	GPX5	Metabolism of other amino acids
+Glutathione metabolism	GPX8	Metabolism of other amino acids
+Glutathione metabolism	PRDX6	Metabolism of other amino acids
+Glutathione metabolism	ODC1	Metabolism of other amino acids
+Glutathione metabolism	SRM	Metabolism of other amino acids
+Glutathione metabolism	SMS	Metabolism of other amino acids
+Glutathione metabolism	RRM1	Metabolism of other amino acids
+Glutathione metabolism	RRM2B	Metabolism of other amino acids
+Glutathione metabolism	RRM2	Metabolism of other amino acids
+N-Glycan biosynthesis	SRD5A3	Glycan biosynthesis and metabolism
+N-Glycan biosynthesis	DOLK	Glycan biosynthesis and metabolism
+N-Glycan biosynthesis	DPAGT1	Glycan biosynthesis and metabolism
+N-Glycan biosynthesis	ALG5	Glycan biosynthesis and metabolism
+N-Glycan biosynthesis	ALG13	Glycan biosynthesis and metabolism
+N-Glycan biosynthesis	ALG14	Glycan biosynthesis and metabolism
+N-Glycan biosynthesis	DPM1	Glycan biosynthesis and metabolism
+N-Glycan biosynthesis	DPM2	Glycan biosynthesis and metabolism
+N-Glycan biosynthesis	DPM3	Glycan biosynthesis and metabolism
+N-Glycan biosynthesis	ALG1	Glycan biosynthesis and metabolism
+N-Glycan biosynthesis	ALG2	Glycan biosynthesis and metabolism
+N-Glycan biosynthesis	ALG11	Glycan biosynthesis and metabolism
+N-Glycan biosynthesis	ALG3	Glycan biosynthesis and metabolism
+N-Glycan biosynthesis	ALG9	Glycan biosynthesis and metabolism
+N-Glycan biosynthesis	ALG12	Glycan biosynthesis and metabolism
+N-Glycan biosynthesis	ALG6	Glycan biosynthesis and metabolism
+N-Glycan biosynthesis	ALG8	Glycan biosynthesis and metabolism
+N-Glycan biosynthesis	ALG10	Glycan biosynthesis and metabolism
+N-Glycan biosynthesis	ALG10B	Glycan biosynthesis and metabolism
+N-Glycan biosynthesis	STT3A	Glycan biosynthesis and metabolism
+N-Glycan biosynthesis	STT3B	Glycan biosynthesis and metabolism
+N-Glycan biosynthesis	RPN1	Glycan biosynthesis and metabolism
+N-Glycan biosynthesis	RPN2	Glycan biosynthesis and metabolism
+N-Glycan biosynthesis	DAD1	Glycan biosynthesis and metabolism
+N-Glycan biosynthesis	DDOST	Glycan biosynthesis and metabolism
+N-Glycan biosynthesis	MAGT1	Glycan biosynthesis and metabolism
+N-Glycan biosynthesis	TUSC3	Glycan biosynthesis and metabolism
+N-Glycan biosynthesis	OSTC	Glycan biosynthesis and metabolism
+N-Glycan biosynthesis	TMEM258	Glycan biosynthesis and metabolism
+N-Glycan biosynthesis	DOLPP1	Glycan biosynthesis and metabolism
+N-Glycan biosynthesis	MOGS	Glycan biosynthesis and metabolism
+N-Glycan biosynthesis	GANAB	Glycan biosynthesis and metabolism
+N-Glycan biosynthesis	MAN1B1	Glycan biosynthesis and metabolism
+N-Glycan biosynthesis	MAN1A2	Glycan biosynthesis and metabolism
+N-Glycan biosynthesis	MAN1C1	Glycan biosynthesis and metabolism
+N-Glycan biosynthesis	MAN1A1	Glycan biosynthesis and metabolism
+N-Glycan biosynthesis	MGAT1	Glycan biosynthesis and metabolism
+N-Glycan biosynthesis	MAN2A1	Glycan biosynthesis and metabolism
+N-Glycan biosynthesis	MAN2A2	Glycan biosynthesis and metabolism
+N-Glycan biosynthesis	MGAT2	Glycan biosynthesis and metabolism
+N-Glycan biosynthesis	FUT8	Glycan biosynthesis and metabolism
+N-Glycan biosynthesis	B4GALT1	Glycan biosynthesis and metabolism
+N-Glycan biosynthesis	B4GALT2	Glycan biosynthesis and metabolism
+N-Glycan biosynthesis	B4GALT3	Glycan biosynthesis and metabolism
+N-Glycan biosynthesis	ST6GAL1	Glycan biosynthesis and metabolism
+N-Glycan biosynthesis	ST6GAL2	Glycan biosynthesis and metabolism
+N-Glycan biosynthesis	MGAT3	Glycan biosynthesis and metabolism
+N-Glycan biosynthesis	MGAT4A	Glycan biosynthesis and metabolism
+N-Glycan biosynthesis	MGAT4B	Glycan biosynthesis and metabolism
+N-Glycan biosynthesis	MGAT4D	Glycan biosynthesis and metabolism
+N-Glycan biosynthesis	MGAT5	Glycan biosynthesis and metabolism
+N-Glycan biosynthesis	MGAT5B	Glycan biosynthesis and metabolism
+N-Glycan biosynthesis	MGAT4C	Glycan biosynthesis and metabolism
+Various types of N-glycan biosynthesis	ALG13	Glycan biosynthesis and metabolism
+Various types of N-glycan biosynthesis	ALG14	Glycan biosynthesis and metabolism
+Various types of N-glycan biosynthesis	ALG1	Glycan biosynthesis and metabolism
+Various types of N-glycan biosynthesis	ALG2	Glycan biosynthesis and metabolism
+Various types of N-glycan biosynthesis	ALG11	Glycan biosynthesis and metabolism
+Various types of N-glycan biosynthesis	ALG3	Glycan biosynthesis and metabolism
+Various types of N-glycan biosynthesis	ALG9	Glycan biosynthesis and metabolism
+Various types of N-glycan biosynthesis	ALG12	Glycan biosynthesis and metabolism
+Various types of N-glycan biosynthesis	STT3A	Glycan biosynthesis and metabolism
+Various types of N-glycan biosynthesis	STT3B	Glycan biosynthesis and metabolism
+Various types of N-glycan biosynthesis	RPN1	Glycan biosynthesis and metabolism
+Various types of N-glycan biosynthesis	RPN2	Glycan biosynthesis and metabolism
+Various types of N-glycan biosynthesis	DAD1	Glycan biosynthesis and metabolism
+Various types of N-glycan biosynthesis	DDOST	Glycan biosynthesis and metabolism
+Various types of N-glycan biosynthesis	MAGT1	Glycan biosynthesis and metabolism
+Various types of N-glycan biosynthesis	TUSC3	Glycan biosynthesis and metabolism
+Various types of N-glycan biosynthesis	OSTC	Glycan biosynthesis and metabolism
+Various types of N-glycan biosynthesis	TMEM258	Glycan biosynthesis and metabolism
+Various types of N-glycan biosynthesis	MAN1B1	Glycan biosynthesis and metabolism
+Various types of N-glycan biosynthesis	MAN1A2	Glycan biosynthesis and metabolism
+Various types of N-glycan biosynthesis	MAN1C1	Glycan biosynthesis and metabolism
+Various types of N-glycan biosynthesis	MAN1A1	Glycan biosynthesis and metabolism
+Various types of N-glycan biosynthesis	MGAT1	Glycan biosynthesis and metabolism
+Various types of N-glycan biosynthesis	MAN2A1	Glycan biosynthesis and metabolism
+Various types of N-glycan biosynthesis	MAN2A2	Glycan biosynthesis and metabolism
+Various types of N-glycan biosynthesis	MGAT2	Glycan biosynthesis and metabolism
+Various types of N-glycan biosynthesis	HEXA	Glycan biosynthesis and metabolism
+Various types of N-glycan biosynthesis	HEXB	Glycan biosynthesis and metabolism
+Various types of N-glycan biosynthesis	FUT8	Glycan biosynthesis and metabolism
+Various types of N-glycan biosynthesis	HEXD	Glycan biosynthesis and metabolism
+Various types of N-glycan biosynthesis	MGAT4C	Glycan biosynthesis and metabolism
+Various types of N-glycan biosynthesis	MGAT4A	Glycan biosynthesis and metabolism
+Various types of N-glycan biosynthesis	MGAT4B	Glycan biosynthesis and metabolism
+Various types of N-glycan biosynthesis	MGAT4D	Glycan biosynthesis and metabolism
+Various types of N-glycan biosynthesis	B4GALT1	Glycan biosynthesis and metabolism
+Various types of N-glycan biosynthesis	B4GALT2	Glycan biosynthesis and metabolism
+Various types of N-glycan biosynthesis	B4GALT3	Glycan biosynthesis and metabolism
+Various types of N-glycan biosynthesis	ST3GAL3	Glycan biosynthesis and metabolism
+Various types of N-glycan biosynthesis	B4GALNT3	Glycan biosynthesis and metabolism
+Various types of N-glycan biosynthesis	B4GALNT4	Glycan biosynthesis and metabolism
+Various types of N-glycan biosynthesis	CHST8	Glycan biosynthesis and metabolism
+Various types of N-glycan biosynthesis	CHST9	Glycan biosynthesis and metabolism
+Mucin type O-glycan biosynthesis	GALNTL6	Glycan biosynthesis and metabolism
+Mucin type O-glycan biosynthesis	GALNT5	Glycan biosynthesis and metabolism
+Mucin type O-glycan biosynthesis	GALNT17	Glycan biosynthesis and metabolism
+Mucin type O-glycan biosynthesis	GALNT11	Glycan biosynthesis and metabolism
+Mucin type O-glycan biosynthesis	GALNT12	Glycan biosynthesis and metabolism
+Mucin type O-glycan biosynthesis	GALNT13	Glycan biosynthesis and metabolism
+Mucin type O-glycan biosynthesis	GALNT14	Glycan biosynthesis and metabolism
+Mucin type O-glycan biosynthesis	GALNT16	Glycan biosynthesis and metabolism
+Mucin type O-glycan biosynthesis	GALNT15	Glycan biosynthesis and metabolism
+Mucin type O-glycan biosynthesis	GALNT18	Glycan biosynthesis and metabolism
+Mucin type O-glycan biosynthesis	GALNTL5	Glycan biosynthesis and metabolism
+Mucin type O-glycan biosynthesis	GALNT10	Glycan biosynthesis and metabolism
+Mucin type O-glycan biosynthesis	GALNT2	Glycan biosynthesis and metabolism
+Mucin type O-glycan biosynthesis	GALNT3	Glycan biosynthesis and metabolism
+Mucin type O-glycan biosynthesis	GALNT1	Glycan biosynthesis and metabolism
+Mucin type O-glycan biosynthesis	GALNT6	Glycan biosynthesis and metabolism
+Mucin type O-glycan biosynthesis	GALNT4	Glycan biosynthesis and metabolism
+Mucin type O-glycan biosynthesis	GALNT9	Glycan biosynthesis and metabolism
+Mucin type O-glycan biosynthesis	GALNT7	Glycan biosynthesis and metabolism
+Mucin type O-glycan biosynthesis	GALNT8	Glycan biosynthesis and metabolism
+Mucin type O-glycan biosynthesis	POC1B-GALNT4	Glycan biosynthesis and metabolism
+Mucin type O-glycan biosynthesis	C1GALT1	Glycan biosynthesis and metabolism
+Mucin type O-glycan biosynthesis	C1GALT1C1	Glycan biosynthesis and metabolism
+Mucin type O-glycan biosynthesis	C1GALT1C1L	Glycan biosynthesis and metabolism
+Mucin type O-glycan biosynthesis	GCNT1	Glycan biosynthesis and metabolism
+Mucin type O-glycan biosynthesis	GCNT3	Glycan biosynthesis and metabolism
+Mucin type O-glycan biosynthesis	GCNT4	Glycan biosynthesis and metabolism
+Mucin type O-glycan biosynthesis	ST3GAL1	Glycan biosynthesis and metabolism
+Mucin type O-glycan biosynthesis	ST3GAL2	Glycan biosynthesis and metabolism
+Mucin type O-glycan biosynthesis	ST6GALNAC1	Glycan biosynthesis and metabolism
+Mucin type O-glycan biosynthesis	ST6GALNAC2	Glycan biosynthesis and metabolism
+Mucin type O-glycan biosynthesis	ST6GALNAC3	Glycan biosynthesis and metabolism
+Mucin type O-glycan biosynthesis	ST6GALNAC4	Glycan biosynthesis and metabolism
+Mucin type O-glycan biosynthesis	B3GNT3	Glycan biosynthesis and metabolism
+Mucin type O-glycan biosynthesis	B3GNT6	Glycan biosynthesis and metabolism
+Mucin type O-glycan biosynthesis	B4GALT5	Glycan biosynthesis and metabolism
+Mannose type O-glycan biosynthesis	POMT1	Glycan biosynthesis and metabolism
+Mannose type O-glycan biosynthesis	POMT2	Glycan biosynthesis and metabolism
+Mannose type O-glycan biosynthesis	POMGNT1	Glycan biosynthesis and metabolism
+Mannose type O-glycan biosynthesis	B4GALT1	Glycan biosynthesis and metabolism
+Mannose type O-glycan biosynthesis	B4GALT2	Glycan biosynthesis and metabolism
+Mannose type O-glycan biosynthesis	B4GALT3	Glycan biosynthesis and metabolism
+Mannose type O-glycan biosynthesis	ST3GAL3	Glycan biosynthesis and metabolism
+Mannose type O-glycan biosynthesis	B3GAT1	Glycan biosynthesis and metabolism
+Mannose type O-glycan biosynthesis	B3GAT2	Glycan biosynthesis and metabolism
+Mannose type O-glycan biosynthesis	CHST10	Glycan biosynthesis and metabolism
+Mannose type O-glycan biosynthesis	FUT9	Glycan biosynthesis and metabolism
+Mannose type O-glycan biosynthesis	FUT4	Glycan biosynthesis and metabolism
+Mannose type O-glycan biosynthesis	MGAT5B	Glycan biosynthesis and metabolism
+Mannose type O-glycan biosynthesis	POMGNT2	Glycan biosynthesis and metabolism
+Mannose type O-glycan biosynthesis	B3GALNT2	Glycan biosynthesis and metabolism
+Mannose type O-glycan biosynthesis	POMK	Glycan biosynthesis and metabolism
+Mannose type O-glycan biosynthesis	CRPPA	Glycan biosynthesis and metabolism
+Mannose type O-glycan biosynthesis	FKTN	Glycan biosynthesis and metabolism
+Mannose type O-glycan biosynthesis	FKRP	Glycan biosynthesis and metabolism
+Mannose type O-glycan biosynthesis	RXYLT1	Glycan biosynthesis and metabolism
+Mannose type O-glycan biosynthesis	B4GAT1	Glycan biosynthesis and metabolism
+Mannose type O-glycan biosynthesis	LARGE1	Glycan biosynthesis and metabolism
+Mannose type O-glycan biosynthesis	LARGE2	Glycan biosynthesis and metabolism
+Other types of O-glycan biosynthesis	OGT	Glycan biosynthesis and metabolism
+Other types of O-glycan biosynthesis	EOGT	Glycan biosynthesis and metabolism
+Other types of O-glycan biosynthesis	POFUT1	Glycan biosynthesis and metabolism
+Other types of O-glycan biosynthesis	POFUT2	Glycan biosynthesis and metabolism
+Other types of O-glycan biosynthesis	MFNG	Glycan biosynthesis and metabolism
+Other types of O-glycan biosynthesis	LFNG	Glycan biosynthesis and metabolism
+Other types of O-glycan biosynthesis	RFNG	Glycan biosynthesis and metabolism
+Other types of O-glycan biosynthesis	B4GALT1	Glycan biosynthesis and metabolism
+Other types of O-glycan biosynthesis	B4GALT2	Glycan biosynthesis and metabolism
+Other types of O-glycan biosynthesis	B4GALT3	Glycan biosynthesis and metabolism
+Other types of O-glycan biosynthesis	ST6GAL1	Glycan biosynthesis and metabolism
+Other types of O-glycan biosynthesis	ST6GAL2	Glycan biosynthesis and metabolism
+Other types of O-glycan biosynthesis	ST3GAL3	Glycan biosynthesis and metabolism
+Other types of O-glycan biosynthesis	B3GLCT	Glycan biosynthesis and metabolism
+Other types of O-glycan biosynthesis	POGLUT1	Glycan biosynthesis and metabolism
+Other types of O-glycan biosynthesis	GXYLT1	Glycan biosynthesis and metabolism
+Other types of O-glycan biosynthesis	GXYLT2	Glycan biosynthesis and metabolism
+Other types of O-glycan biosynthesis	XXYLT1	Glycan biosynthesis and metabolism
+Other types of O-glycan biosynthesis	COLGALT1	Glycan biosynthesis and metabolism
+Other types of O-glycan biosynthesis	COLGALT2	Glycan biosynthesis and metabolism
+Other types of O-glycan biosynthesis	PLOD3	Glycan biosynthesis and metabolism
+Other types of O-glycan biosynthesis	POMT1	Glycan biosynthesis and metabolism
+Other types of O-glycan biosynthesis	POMT2	Glycan biosynthesis and metabolism
+Other types of O-glycan biosynthesis	GALNTL6	Glycan biosynthesis and metabolism
+Other types of O-glycan biosynthesis	GALNT5	Glycan biosynthesis and metabolism
+Other types of O-glycan biosynthesis	GALNT17	Glycan biosynthesis and metabolism
+Other types of O-glycan biosynthesis	GALNT11	Glycan biosynthesis and metabolism
+Other types of O-glycan biosynthesis	GALNT12	Glycan biosynthesis and metabolism
+Other types of O-glycan biosynthesis	GALNT13	Glycan biosynthesis and metabolism
+Other types of O-glycan biosynthesis	GALNT14	Glycan biosynthesis and metabolism
+Other types of O-glycan biosynthesis	GALNT16	Glycan biosynthesis and metabolism
+Other types of O-glycan biosynthesis	GALNT15	Glycan biosynthesis and metabolism
+Other types of O-glycan biosynthesis	GALNT18	Glycan biosynthesis and metabolism
+Other types of O-glycan biosynthesis	GALNTL5	Glycan biosynthesis and metabolism
+Other types of O-glycan biosynthesis	GALNT10	Glycan biosynthesis and metabolism
+Other types of O-glycan biosynthesis	GALNT2	Glycan biosynthesis and metabolism
+Other types of O-glycan biosynthesis	GALNT3	Glycan biosynthesis and metabolism
+Other types of O-glycan biosynthesis	GALNT1	Glycan biosynthesis and metabolism
+Other types of O-glycan biosynthesis	GALNT6	Glycan biosynthesis and metabolism
+Other types of O-glycan biosynthesis	GALNT4	Glycan biosynthesis and metabolism
+Other types of O-glycan biosynthesis	GALNT9	Glycan biosynthesis and metabolism
+Other types of O-glycan biosynthesis	GALNT7	Glycan biosynthesis and metabolism
+Other types of O-glycan biosynthesis	GALNT8	Glycan biosynthesis and metabolism
+Other types of O-glycan biosynthesis	POC1B-GALNT4	Glycan biosynthesis and metabolism
+Other types of O-glycan biosynthesis	C1GALT1	Glycan biosynthesis and metabolism
+Other types of O-glycan biosynthesis	C1GALT1C1	Glycan biosynthesis and metabolism
+Other types of O-glycan biosynthesis	C1GALT1C1L	Glycan biosynthesis and metabolism
+Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate	XYLT1	Glycan biosynthesis and metabolism
+Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate	XYLT2	Glycan biosynthesis and metabolism
+Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate	B4GALT7	Glycan biosynthesis and metabolism
+Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate	B3GALT6	Glycan biosynthesis and metabolism
+Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate	B3GAT3	Glycan biosynthesis and metabolism
+Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate	CSGALNACT1	Glycan biosynthesis and metabolism
+Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate	CSGALNACT2	Glycan biosynthesis and metabolism
+Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate	CHSY3	Glycan biosynthesis and metabolism
+Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate	CHSY1	Glycan biosynthesis and metabolism
+Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate	CHPF	Glycan biosynthesis and metabolism
+Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate	CHPF2	Glycan biosynthesis and metabolism
+Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate	DSE	Glycan biosynthesis and metabolism
+Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate	DSEL	Glycan biosynthesis and metabolism
+Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate	CHST11	Glycan biosynthesis and metabolism
+Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate	CHST12	Glycan biosynthesis and metabolism
+Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate	CHST13	Glycan biosynthesis and metabolism
+Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate	CHST3	Glycan biosynthesis and metabolism
+Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate	CHST7	Glycan biosynthesis and metabolism
+Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate	CHST15	Glycan biosynthesis and metabolism
+Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate	UST	Glycan biosynthesis and metabolism
+Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate	CHST14	Glycan biosynthesis and metabolism
+Glycosaminoglycan biosynthesis - heparan sulfate / heparin	XYLT1	Glycan biosynthesis and metabolism
+Glycosaminoglycan biosynthesis - heparan sulfate / heparin	XYLT2	Glycan biosynthesis and metabolism
+Glycosaminoglycan biosynthesis - heparan sulfate / heparin	B4GALT7	Glycan biosynthesis and metabolism
+Glycosaminoglycan biosynthesis - heparan sulfate / heparin	B3GALT6	Glycan biosynthesis and metabolism
+Glycosaminoglycan biosynthesis - heparan sulfate / heparin	B3GAT3	Glycan biosynthesis and metabolism
+Glycosaminoglycan biosynthesis - heparan sulfate / heparin	EXTL2	Glycan biosynthesis and metabolism
+Glycosaminoglycan biosynthesis - heparan sulfate / heparin	EXTL3	Glycan biosynthesis and metabolism
+Glycosaminoglycan biosynthesis - heparan sulfate / heparin	EXTL1	Glycan biosynthesis and metabolism
+Glycosaminoglycan biosynthesis - heparan sulfate / heparin	EXT1	Glycan biosynthesis and metabolism
+Glycosaminoglycan biosynthesis - heparan sulfate / heparin	EXT2	Glycan biosynthesis and metabolism
+Glycosaminoglycan biosynthesis - heparan sulfate / heparin	NDST1	Glycan biosynthesis and metabolism
+Glycosaminoglycan biosynthesis - heparan sulfate / heparin	NDST2	Glycan biosynthesis and metabolism
+Glycosaminoglycan biosynthesis - heparan sulfate / heparin	NDST3	Glycan biosynthesis and metabolism
+Glycosaminoglycan biosynthesis - heparan sulfate / heparin	NDST4	Glycan biosynthesis and metabolism
+Glycosaminoglycan biosynthesis - heparan sulfate / heparin	GLCE	Glycan biosynthesis and metabolism
+Glycosaminoglycan biosynthesis - heparan sulfate / heparin	HS2ST1	Glycan biosynthesis and metabolism
+Glycosaminoglycan biosynthesis - heparan sulfate / heparin	HS6ST1	Glycan biosynthesis and metabolism
+Glycosaminoglycan biosynthesis - heparan sulfate / heparin	HS6ST2	Glycan biosynthesis and metabolism
+Glycosaminoglycan biosynthesis - heparan sulfate / heparin	HS6ST3	Glycan biosynthesis and metabolism
+Glycosaminoglycan biosynthesis - heparan sulfate / heparin	HS3ST1	Glycan biosynthesis and metabolism
+Glycosaminoglycan biosynthesis - heparan sulfate / heparin	HS3ST2	Glycan biosynthesis and metabolism
+Glycosaminoglycan biosynthesis - heparan sulfate / heparin	HS3ST3B1	Glycan biosynthesis and metabolism
+Glycosaminoglycan biosynthesis - heparan sulfate / heparin	HS3ST3A1	Glycan biosynthesis and metabolism
+Glycosaminoglycan biosynthesis - heparan sulfate / heparin	HS3ST5	Glycan biosynthesis and metabolism
+Glycosaminoglycan biosynthesis - keratan sulfate	FUT8	Glycan biosynthesis and metabolism
+Glycosaminoglycan biosynthesis - keratan sulfate	B4GALT1	Glycan biosynthesis and metabolism
+Glycosaminoglycan biosynthesis - keratan sulfate	B4GALT2	Glycan biosynthesis and metabolism
+Glycosaminoglycan biosynthesis - keratan sulfate	B4GALT3	Glycan biosynthesis and metabolism
+Glycosaminoglycan biosynthesis - keratan sulfate	B3GNT2	Glycan biosynthesis and metabolism
+Glycosaminoglycan biosynthesis - keratan sulfate	CHST6	Glycan biosynthesis and metabolism
+Glycosaminoglycan biosynthesis - keratan sulfate	B4GALT4	Glycan biosynthesis and metabolism
+Glycosaminoglycan biosynthesis - keratan sulfate	B3GNT7	Glycan biosynthesis and metabolism
+Glycosaminoglycan biosynthesis - keratan sulfate	CHST1	Glycan biosynthesis and metabolism
+Glycosaminoglycan biosynthesis - keratan sulfate	ST3GAL3	Glycan biosynthesis and metabolism
+Glycosaminoglycan biosynthesis - keratan sulfate	CHST2	Glycan biosynthesis and metabolism
+Glycosaminoglycan biosynthesis - keratan sulfate	CHST4	Glycan biosynthesis and metabolism
+Glycosaminoglycan biosynthesis - keratan sulfate	ST3GAL1	Glycan biosynthesis and metabolism
+Glycosaminoglycan biosynthesis - keratan sulfate	ST3GAL2	Glycan biosynthesis and metabolism
+Glycosaminoglycan degradation	HYAL2	Glycan biosynthesis and metabolism
+Glycosaminoglycan degradation	HYAL1	Glycan biosynthesis and metabolism
+Glycosaminoglycan degradation	SPAM1	Glycan biosynthesis and metabolism
+Glycosaminoglycan degradation	HYAL4	Glycan biosynthesis and metabolism
+Glycosaminoglycan degradation	HYAL3	Glycan biosynthesis and metabolism
+Glycosaminoglycan degradation	GUSB	Glycan biosynthesis and metabolism
+Glycosaminoglycan degradation	IDS	Glycan biosynthesis and metabolism
+Glycosaminoglycan degradation	IDUA	Glycan biosynthesis and metabolism
+Glycosaminoglycan degradation	ARSB	Glycan biosynthesis and metabolism
+Glycosaminoglycan degradation	HPSE	Glycan biosynthesis and metabolism
+Glycosaminoglycan degradation	HPSE2	Glycan biosynthesis and metabolism
+Glycosaminoglycan degradation	SGSH	Glycan biosynthesis and metabolism
+Glycosaminoglycan degradation	HGSNAT	Glycan biosynthesis and metabolism
+Glycosaminoglycan degradation	NAGLU	Glycan biosynthesis and metabolism
+Glycosaminoglycan degradation	GALNS	Glycan biosynthesis and metabolism
+Glycosaminoglycan degradation	GLB1	Glycan biosynthesis and metabolism
+Glycosaminoglycan degradation	GNS	Glycan biosynthesis and metabolism
+Glycosaminoglycan degradation	HEXA	Glycan biosynthesis and metabolism
+Glycosaminoglycan degradation	HEXB	Glycan biosynthesis and metabolism
+Glycosylphosphatidylinositol (GPI)-anchor biosynthesis	PIGA	Glycan biosynthesis and metabolism
+Glycosylphosphatidylinositol (GPI)-anchor biosynthesis	PIGC	Glycan biosynthesis and metabolism
+Glycosylphosphatidylinositol (GPI)-anchor biosynthesis	PIGH	Glycan biosynthesis and metabolism
+Glycosylphosphatidylinositol (GPI)-anchor biosynthesis	PIGP	Glycan biosynthesis and metabolism
+Glycosylphosphatidylinositol (GPI)-anchor biosynthesis	PIGQ	Glycan biosynthesis and metabolism
+Glycosylphosphatidylinositol (GPI)-anchor biosynthesis	PIGY	Glycan biosynthesis and metabolism
+Glycosylphosphatidylinositol (GPI)-anchor biosynthesis	DPM2	Glycan biosynthesis and metabolism
+Glycosylphosphatidylinositol (GPI)-anchor biosynthesis	PIGL	Glycan biosynthesis and metabolism
+Glycosylphosphatidylinositol (GPI)-anchor biosynthesis	PIGW	Glycan biosynthesis and metabolism
+Glycosylphosphatidylinositol (GPI)-anchor biosynthesis	GPLD1	Glycan biosynthesis and metabolism
+Glycosylphosphatidylinositol (GPI)-anchor biosynthesis	PIGM	Glycan biosynthesis and metabolism
+Glycosylphosphatidylinositol (GPI)-anchor biosynthesis	PIGX	Glycan biosynthesis and metabolism
+Glycosylphosphatidylinositol (GPI)-anchor biosynthesis	PIGV	Glycan biosynthesis and metabolism
+Glycosylphosphatidylinositol (GPI)-anchor biosynthesis	PIGN	Glycan biosynthesis and metabolism
+Glycosylphosphatidylinositol (GPI)-anchor biosynthesis	PIGB	Glycan biosynthesis and metabolism
+Glycosylphosphatidylinositol (GPI)-anchor biosynthesis	PIGO	Glycan biosynthesis and metabolism
+Glycosylphosphatidylinositol (GPI)-anchor biosynthesis	PIGF	Glycan biosynthesis and metabolism
+Glycosylphosphatidylinositol (GPI)-anchor biosynthesis	PIGG	Glycan biosynthesis and metabolism
+Glycosylphosphatidylinositol (GPI)-anchor biosynthesis	GPAA1	Glycan biosynthesis and metabolism
+Glycosylphosphatidylinositol (GPI)-anchor biosynthesis	PIGK	Glycan biosynthesis and metabolism
+Glycosylphosphatidylinositol (GPI)-anchor biosynthesis	PIGS	Glycan biosynthesis and metabolism
+Glycosylphosphatidylinositol (GPI)-anchor biosynthesis	PIGT	Glycan biosynthesis and metabolism
+Glycosylphosphatidylinositol (GPI)-anchor biosynthesis	PIGU	Glycan biosynthesis and metabolism
+Glycosylphosphatidylinositol (GPI)-anchor biosynthesis	PGAP1	Glycan biosynthesis and metabolism
+Glycosylphosphatidylinositol (GPI)-anchor biosynthesis	MPPE1	Glycan biosynthesis and metabolism
+Glycosylphosphatidylinositol (GPI)-anchor biosynthesis	PIGZ	Glycan biosynthesis and metabolism
+Glycosphingolipid biosynthesis - lacto and neolacto series	B3GNT5	Glycan biosynthesis and metabolism
+Glycosphingolipid biosynthesis - lacto and neolacto series	B3GALT1	Glycan biosynthesis and metabolism
+Glycosphingolipid biosynthesis - lacto and neolacto series	B3GALT2	Glycan biosynthesis and metabolism
+Glycosphingolipid biosynthesis - lacto and neolacto series	B3GALT5	Glycan biosynthesis and metabolism
+Glycosphingolipid biosynthesis - lacto and neolacto series	FUT1	Glycan biosynthesis and metabolism
+Glycosphingolipid biosynthesis - lacto and neolacto series	FUT2	Glycan biosynthesis and metabolism
+Glycosphingolipid biosynthesis - lacto and neolacto series	FUT3	Glycan biosynthesis and metabolism
+Glycosphingolipid biosynthesis - lacto and neolacto series	ST3GAL3	Glycan biosynthesis and metabolism
+Glycosphingolipid biosynthesis - lacto and neolacto series	ST3GAL4	Glycan biosynthesis and metabolism
+Glycosphingolipid biosynthesis - lacto and neolacto series	B4GALNT2	Glycan biosynthesis and metabolism
+Glycosphingolipid biosynthesis - lacto and neolacto series	ABO	Glycan biosynthesis and metabolism
+Glycosphingolipid biosynthesis - lacto and neolacto series	B4GALT1	Glycan biosynthesis and metabolism
+Glycosphingolipid biosynthesis - lacto and neolacto series	B4GALT2	Glycan biosynthesis and metabolism
+Glycosphingolipid biosynthesis - lacto and neolacto series	B4GALT3	Glycan biosynthesis and metabolism
+Glycosphingolipid biosynthesis - lacto and neolacto series	B4GALT4	Glycan biosynthesis and metabolism
+Glycosphingolipid biosynthesis - lacto and neolacto series	FUT9	Glycan biosynthesis and metabolism
+Glycosphingolipid biosynthesis - lacto and neolacto series	FUT4	Glycan biosynthesis and metabolism
+Glycosphingolipid biosynthesis - lacto and neolacto series	FUT5	Glycan biosynthesis and metabolism
+Glycosphingolipid biosynthesis - lacto and neolacto series	FUT6	Glycan biosynthesis and metabolism
+Glycosphingolipid biosynthesis - lacto and neolacto series	FUT7	Glycan biosynthesis and metabolism
+Glycosphingolipid biosynthesis - lacto and neolacto series	ST3GAL6	Glycan biosynthesis and metabolism
+Glycosphingolipid biosynthesis - lacto and neolacto series	ST8SIA1	Glycan biosynthesis and metabolism
+Glycosphingolipid biosynthesis - lacto and neolacto series	A4GALT	Glycan biosynthesis and metabolism
+Glycosphingolipid biosynthesis - lacto and neolacto series	B3GALNT1	Glycan biosynthesis and metabolism
+Glycosphingolipid biosynthesis - lacto and neolacto series	B3GNT2	Glycan biosynthesis and metabolism
+Glycosphingolipid biosynthesis - lacto and neolacto series	B3GNT3	Glycan biosynthesis and metabolism
+Glycosphingolipid biosynthesis - lacto and neolacto series	B3GNT4	Glycan biosynthesis and metabolism
+Glycosphingolipid biosynthesis - lacto and neolacto series	GCNT2	Glycan biosynthesis and metabolism
+Glycosphingolipid biosynthesis - globo and isoglobo series	A3GALT2	Glycan biosynthesis and metabolism
+Glycosphingolipid biosynthesis - globo and isoglobo series	B3GALNT1	Glycan biosynthesis and metabolism
+Glycosphingolipid biosynthesis - globo and isoglobo series	GBGT1	Glycan biosynthesis and metabolism
+Glycosphingolipid biosynthesis - globo and isoglobo series	A4GALT	Glycan biosynthesis and metabolism
+Glycosphingolipid biosynthesis - globo and isoglobo series	GLA	Glycan biosynthesis and metabolism
+Glycosphingolipid biosynthesis - globo and isoglobo series	B3GALT5	Glycan biosynthesis and metabolism
+Glycosphingolipid biosynthesis - globo and isoglobo series	HEXA	Glycan biosynthesis and metabolism
+Glycosphingolipid biosynthesis - globo and isoglobo series	HEXB	Glycan biosynthesis and metabolism
+Glycosphingolipid biosynthesis - globo and isoglobo series	NAGA	Glycan biosynthesis and metabolism
+Glycosphingolipid biosynthesis - globo and isoglobo series	FUT1	Glycan biosynthesis and metabolism
+Glycosphingolipid biosynthesis - globo and isoglobo series	FUT2	Glycan biosynthesis and metabolism
+Glycosphingolipid biosynthesis - globo and isoglobo series	ABO	Glycan biosynthesis and metabolism
+Glycosphingolipid biosynthesis - globo and isoglobo series	ST3GAL1	Glycan biosynthesis and metabolism
+Glycosphingolipid biosynthesis - globo and isoglobo series	ST3GAL2	Glycan biosynthesis and metabolism
+Glycosphingolipid biosynthesis - globo and isoglobo series	ST8SIA1	Glycan biosynthesis and metabolism
+Glycosphingolipid biosynthesis - globo and isoglobo series	FUT9	Glycan biosynthesis and metabolism
+Glycosphingolipid biosynthesis - ganglio series	B4GALNT1	Glycan biosynthesis and metabolism
+Glycosphingolipid biosynthesis - ganglio series	B3GALT4	Glycan biosynthesis and metabolism
+Glycosphingolipid biosynthesis - ganglio series	ST3GAL2	Glycan biosynthesis and metabolism
+Glycosphingolipid biosynthesis - ganglio series	ST3GAL1	Glycan biosynthesis and metabolism
+Glycosphingolipid biosynthesis - ganglio series	ST8SIA5	Glycan biosynthesis and metabolism
+Glycosphingolipid biosynthesis - ganglio series	ST3GAL5	Glycan biosynthesis and metabolism
+Glycosphingolipid biosynthesis - ganglio series	ST8SIA1	Glycan biosynthesis and metabolism
+Glycosphingolipid biosynthesis - ganglio series	SLC33A1	Glycan biosynthesis and metabolism
+Glycosphingolipid biosynthesis - ganglio series	ST6GALNAC3	Glycan biosynthesis and metabolism
+Glycosphingolipid biosynthesis - ganglio series	ST6GALNAC4	Glycan biosynthesis and metabolism
+Glycosphingolipid biosynthesis - ganglio series	ST6GALNAC5	Glycan biosynthesis and metabolism
+Glycosphingolipid biosynthesis - ganglio series	ST6GALNAC6	Glycan biosynthesis and metabolism
+Glycosphingolipid biosynthesis - ganglio series	GLB1	Glycan biosynthesis and metabolism
+Glycosphingolipid biosynthesis - ganglio series	HEXA	Glycan biosynthesis and metabolism
+Glycosphingolipid biosynthesis - ganglio series	HEXB	Glycan biosynthesis and metabolism
+Other glycan degradation	NEU1	Glycan biosynthesis and metabolism
+Other glycan degradation	NEU3	Glycan biosynthesis and metabolism
+Other glycan degradation	NEU4	Glycan biosynthesis and metabolism
+Other glycan degradation	NEU2	Glycan biosynthesis and metabolism
+Other glycan degradation	GLB1	Glycan biosynthesis and metabolism
+Other glycan degradation	HEXA	Glycan biosynthesis and metabolism
+Other glycan degradation	HEXB	Glycan biosynthesis and metabolism
+Other glycan degradation	HEXD	Glycan biosynthesis and metabolism
+Other glycan degradation	MAN2C1	Glycan biosynthesis and metabolism
+Other glycan degradation	MAN2B1	Glycan biosynthesis and metabolism
+Other glycan degradation	MAN2B2	Glycan biosynthesis and metabolism
+Other glycan degradation	MANBA	Glycan biosynthesis and metabolism
+Other glycan degradation	ENGASE	Glycan biosynthesis and metabolism
+Other glycan degradation	FUCA1	Glycan biosynthesis and metabolism
+Other glycan degradation	FUCA2	Glycan biosynthesis and metabolism
+Other glycan degradation	AGA	Glycan biosynthesis and metabolism
+Other glycan degradation	GBA1	Glycan biosynthesis and metabolism
+Other glycan degradation	GBA2	Glycan biosynthesis and metabolism
+Thiamine metabolism	NFS1	Metabolism of cofactors and vitamins
+Thiamine metabolism	NTPCR	Metabolism of cofactors and vitamins
+Thiamine metabolism	ALPL	Metabolism of cofactors and vitamins
+Thiamine metabolism	ALPI	Metabolism of cofactors and vitamins
+Thiamine metabolism	ALPP	Metabolism of cofactors and vitamins
+Thiamine metabolism	ALPG	Metabolism of cofactors and vitamins
+Thiamine metabolism	ACP1	Metabolism of cofactors and vitamins
+Thiamine metabolism	TPK1	Metabolism of cofactors and vitamins
+Thiamine metabolism	AK7	Metabolism of cofactors and vitamins
+Thiamine metabolism	AK4	Metabolism of cofactors and vitamins
+Thiamine metabolism	AK5	Metabolism of cofactors and vitamins
+Thiamine metabolism	AK2	Metabolism of cofactors and vitamins
+Thiamine metabolism	AK1	Metabolism of cofactors and vitamins
+Thiamine metabolism	AK8	Metabolism of cofactors and vitamins
+Thiamine metabolism	THTPA	Metabolism of cofactors and vitamins
+Riboflavin metabolism	RFK	Metabolism of cofactors and vitamins
+Riboflavin metabolism	ACP5	Metabolism of cofactors and vitamins
+Riboflavin metabolism	ACP1	Metabolism of cofactors and vitamins
+Riboflavin metabolism	ACP2	Metabolism of cofactors and vitamins
+Riboflavin metabolism	FLAD1	Metabolism of cofactors and vitamins
+Riboflavin metabolism	ENPP1	Metabolism of cofactors and vitamins
+Riboflavin metabolism	ENPP3	Metabolism of cofactors and vitamins
+Riboflavin metabolism	BLVRB	Metabolism of cofactors and vitamins
+Vitamin B6 metabolism	PNPO	Metabolism of cofactors and vitamins
+Vitamin B6 metabolism	PDXK	Metabolism of cofactors and vitamins
+Vitamin B6 metabolism	PDXP	Metabolism of cofactors and vitamins
+Vitamin B6 metabolism	PHOSPHO2	Metabolism of cofactors and vitamins
+Vitamin B6 metabolism	AOX1	Metabolism of cofactors and vitamins
+Vitamin B6 metabolism	PSAT1	Metabolism of cofactors and vitamins
+Nicotinate and nicotinamide metabolism	ASPDH	Metabolism of cofactors and vitamins
+Nicotinate and nicotinamide metabolism	QPRT	Metabolism of cofactors and vitamins
+Nicotinate and nicotinamide metabolism	NAPRT	Metabolism of cofactors and vitamins
+Nicotinate and nicotinamide metabolism	PNP	Metabolism of cofactors and vitamins
+Nicotinate and nicotinamide metabolism	NMRK1	Metabolism of cofactors and vitamins
+Nicotinate and nicotinamide metabolism	NMRK2	Metabolism of cofactors and vitamins
+Nicotinate and nicotinamide metabolism	NT5C2	Metabolism of cofactors and vitamins
+Nicotinate and nicotinamide metabolism	NT5C1A	Metabolism of cofactors and vitamins
+Nicotinate and nicotinamide metabolism	NT5C1B	Metabolism of cofactors and vitamins
+Nicotinate and nicotinamide metabolism	NT5C	Metabolism of cofactors and vitamins
+Nicotinate and nicotinamide metabolism	NT5M	Metabolism of cofactors and vitamins
+Nicotinate and nicotinamide metabolism	NT5C1B-RDH14	Metabolism of cofactors and vitamins
+Nicotinate and nicotinamide metabolism	NT5DC4	Metabolism of cofactors and vitamins
+Nicotinate and nicotinamide metabolism	NT5E	Metabolism of cofactors and vitamins
+Nicotinate and nicotinamide metabolism	NMNAT3	Metabolism of cofactors and vitamins
+Nicotinate and nicotinamide metabolism	NMNAT1	Metabolism of cofactors and vitamins
+Nicotinate and nicotinamide metabolism	NMNAT2	Metabolism of cofactors and vitamins
+Nicotinate and nicotinamide metabolism	ENPP1	Metabolism of cofactors and vitamins
+Nicotinate and nicotinamide metabolism	ENPP3	Metabolism of cofactors and vitamins
+Nicotinate and nicotinamide metabolism	NUDT12	Metabolism of cofactors and vitamins
+Nicotinate and nicotinamide metabolism	NUDT13	Metabolism of cofactors and vitamins
+Nicotinate and nicotinamide metabolism	NADSYN1	Metabolism of cofactors and vitamins
+Nicotinate and nicotinamide metabolism	NAMPT	Metabolism of cofactors and vitamins
+Nicotinate and nicotinamide metabolism	CD38	Metabolism of cofactors and vitamins
+Nicotinate and nicotinamide metabolism	BST1	Metabolism of cofactors and vitamins
+Nicotinate and nicotinamide metabolism	SIRT1	Metabolism of cofactors and vitamins
+Nicotinate and nicotinamide metabolism	SIRT2	Metabolism of cofactors and vitamins
+Nicotinate and nicotinamide metabolism	SIRT3	Metabolism of cofactors and vitamins
+Nicotinate and nicotinamide metabolism	SIRT4	Metabolism of cofactors and vitamins
+Nicotinate and nicotinamide metabolism	SIRT5	Metabolism of cofactors and vitamins
+Nicotinate and nicotinamide metabolism	SIRT6	Metabolism of cofactors and vitamins
+Nicotinate and nicotinamide metabolism	SIRT7	Metabolism of cofactors and vitamins
+Nicotinate and nicotinamide metabolism	NADK	Metabolism of cofactors and vitamins
+Nicotinate and nicotinamide metabolism	NADK2	Metabolism of cofactors and vitamins
+Nicotinate and nicotinamide metabolism	NNT	Metabolism of cofactors and vitamins
+Nicotinate and nicotinamide metabolism	NNMT	Metabolism of cofactors and vitamins
+Nicotinate and nicotinamide metabolism	AOX1	Metabolism of cofactors and vitamins
+Pantothenate and CoA biosynthesis	PANK1	Metabolism of cofactors and vitamins
+Pantothenate and CoA biosynthesis	PANK3	Metabolism of cofactors and vitamins
+Pantothenate and CoA biosynthesis	PANK2	Metabolism of cofactors and vitamins
+Pantothenate and CoA biosynthesis	PPCS	Metabolism of cofactors and vitamins
+Pantothenate and CoA biosynthesis	PPCDC	Metabolism of cofactors and vitamins
+Pantothenate and CoA biosynthesis	ENPP1	Metabolism of cofactors and vitamins
+Pantothenate and CoA biosynthesis	ENPP3	Metabolism of cofactors and vitamins
+Pantothenate and CoA biosynthesis	COASY	Metabolism of cofactors and vitamins
+Pantothenate and CoA biosynthesis	AASDHPPT	Metabolism of cofactors and vitamins
+Pantothenate and CoA biosynthesis	VNN1	Metabolism of cofactors and vitamins
+Pantothenate and CoA biosynthesis	VNN2	Metabolism of cofactors and vitamins
+Pantothenate and CoA biosynthesis	BCAT2	Metabolism of cofactors and vitamins
+Pantothenate and CoA biosynthesis	BCAT1	Metabolism of cofactors and vitamins
+Pantothenate and CoA biosynthesis	DPYD	Metabolism of cofactors and vitamins
+Pantothenate and CoA biosynthesis	DPYS	Metabolism of cofactors and vitamins
+Pantothenate and CoA biosynthesis	UPB1	Metabolism of cofactors and vitamins
+Pantothenate and CoA biosynthesis	GADL1	Metabolism of cofactors and vitamins
+Pantothenate and CoA biosynthesis	CSAD	Metabolism of cofactors and vitamins
+Pantothenate and CoA biosynthesis	ALDH2	Metabolism of cofactors and vitamins
+Pantothenate and CoA biosynthesis	ALDH3A2	Metabolism of cofactors and vitamins
+Pantothenate and CoA biosynthesis	ALDH1B1	Metabolism of cofactors and vitamins
+Biotin metabolism	OXSM	Metabolism of cofactors and vitamins
+Biotin metabolism	HLCS	Metabolism of cofactors and vitamins
+Biotin metabolism	BTD	Metabolism of cofactors and vitamins
+Lipoic acid metabolism	LIPT2	Metabolism of cofactors and vitamins
+Lipoic acid metabolism	LIAS	Metabolism of cofactors and vitamins
+Lipoic acid metabolism	LIPT1	Metabolism of cofactors and vitamins
+Lipoic acid metabolism	ACSM1	Metabolism of cofactors and vitamins
+Lipoic acid metabolism	DLD	Metabolism of cofactors and vitamins
+Lipoic acid metabolism	PDHA2	Metabolism of cofactors and vitamins
+Lipoic acid metabolism	PDHA1	Metabolism of cofactors and vitamins
+Lipoic acid metabolism	PDHB	Metabolism of cofactors and vitamins
+Lipoic acid metabolism	DLAT	Metabolism of cofactors and vitamins
+Lipoic acid metabolism	OGDHL	Metabolism of cofactors and vitamins
+Lipoic acid metabolism	OGDH	Metabolism of cofactors and vitamins
+Lipoic acid metabolism	DLST	Metabolism of cofactors and vitamins
+Lipoic acid metabolism	DHTKD1	Metabolism of cofactors and vitamins
+Lipoic acid metabolism	BCKDHA	Metabolism of cofactors and vitamins
+Lipoic acid metabolism	BCKDHB	Metabolism of cofactors and vitamins
+Lipoic acid metabolism	DBT	Metabolism of cofactors and vitamins
+Lipoic acid metabolism	GLDC	Metabolism of cofactors and vitamins
+Lipoic acid metabolism	AMT	Metabolism of cofactors and vitamins
+Lipoic acid metabolism	GCSH	Metabolism of cofactors and vitamins
+Folate biosynthesis	GCH1	Metabolism of cofactors and vitamins
+Folate biosynthesis	ALPL	Metabolism of cofactors and vitamins
+Folate biosynthesis	ALPI	Metabolism of cofactors and vitamins
+Folate biosynthesis	ALPP	Metabolism of cofactors and vitamins
+Folate biosynthesis	ALPG	Metabolism of cofactors and vitamins
+Folate biosynthesis	DHFR	Metabolism of cofactors and vitamins
+Folate biosynthesis	DHFR2	Metabolism of cofactors and vitamins
+Folate biosynthesis	FPGS	Metabolism of cofactors and vitamins
+Folate biosynthesis	GGH	Metabolism of cofactors and vitamins
+Folate biosynthesis	PTS	Metabolism of cofactors and vitamins
+Folate biosynthesis	SPR	Metabolism of cofactors and vitamins
+Folate biosynthesis	AKR1B1	Metabolism of cofactors and vitamins
+Folate biosynthesis	AKR1B10	Metabolism of cofactors and vitamins
+Folate biosynthesis	AKR1B15	Metabolism of cofactors and vitamins
+Folate biosynthesis	CBR1	Metabolism of cofactors and vitamins
+Folate biosynthesis	AKR1C3	Metabolism of cofactors and vitamins
+Folate biosynthesis	QDPR	Metabolism of cofactors and vitamins
+Folate biosynthesis	PCBD2	Metabolism of cofactors and vitamins
+Folate biosynthesis	PCBD1	Metabolism of cofactors and vitamins
+Folate biosynthesis	PAH	Metabolism of cofactors and vitamins
+Folate biosynthesis	TH	Metabolism of cofactors and vitamins
+Folate biosynthesis	TPH2	Metabolism of cofactors and vitamins
+Folate biosynthesis	TPH1	Metabolism of cofactors and vitamins
+Folate biosynthesis	MOCS1	Metabolism of cofactors and vitamins
+Folate biosynthesis	MOCS2	Metabolism of cofactors and vitamins
+Folate biosynthesis	GPHN	Metabolism of cofactors and vitamins
+Folate biosynthesis	MOCOS	Metabolism of cofactors and vitamins
+One carbon pool by folate	DHFR	Metabolism of cofactors and vitamins
+One carbon pool by folate	DHFR2	Metabolism of cofactors and vitamins
+One carbon pool by folate	MTHFD1L	Metabolism of cofactors and vitamins
+One carbon pool by folate	MTHFD1	Metabolism of cofactors and vitamins
+One carbon pool by folate	MTHFD2	Metabolism of cofactors and vitamins
+One carbon pool by folate	MTHFD2L	Metabolism of cofactors and vitamins
+One carbon pool by folate	SHMT2	Metabolism of cofactors and vitamins
+One carbon pool by folate	SHMT1	Metabolism of cofactors and vitamins
+One carbon pool by folate	GART	Metabolism of cofactors and vitamins
+One carbon pool by folate	ATIC	Metabolism of cofactors and vitamins
+One carbon pool by folate	FTCD	Metabolism of cofactors and vitamins
+One carbon pool by folate	MTFMT	Metabolism of cofactors and vitamins
+One carbon pool by folate	AMT	Metabolism of cofactors and vitamins
+One carbon pool by folate	MTR	Metabolism of cofactors and vitamins
+One carbon pool by folate	TYMS	Metabolism of cofactors and vitamins
+One carbon pool by folate	ALDH1L1	Metabolism of cofactors and vitamins
+One carbon pool by folate	ALDH1L2	Metabolism of cofactors and vitamins
+One carbon pool by folate	MTHFR	Metabolism of cofactors and vitamins
+One carbon pool by folate	MTHFS	Metabolism of cofactors and vitamins
+One carbon pool by folate	ST20-MTHFS	Metabolism of cofactors and vitamins
+Retinol metabolism	BCO1	Metabolism of cofactors and vitamins
+Retinol metabolism	ADH1A	Metabolism of cofactors and vitamins
+Retinol metabolism	ADH1B	Metabolism of cofactors and vitamins
+Retinol metabolism	ADH1C	Metabolism of cofactors and vitamins
+Retinol metabolism	ADH7	Metabolism of cofactors and vitamins
+Retinol metabolism	ADH4	Metabolism of cofactors and vitamins
+Retinol metabolism	ADH5	Metabolism of cofactors and vitamins
+Retinol metabolism	ADH6	Metabolism of cofactors and vitamins
+Retinol metabolism	DHRS3	Metabolism of cofactors and vitamins
+Retinol metabolism	DHRS4	Metabolism of cofactors and vitamins
+Retinol metabolism	DHRS4L2	Metabolism of cofactors and vitamins
+Retinol metabolism	DHRS9	Metabolism of cofactors and vitamins
+Retinol metabolism	RDH8	Metabolism of cofactors and vitamins
+Retinol metabolism	RDH10	Metabolism of cofactors and vitamins
+Retinol metabolism	RDH11	Metabolism of cofactors and vitamins
+Retinol metabolism	RDH12	Metabolism of cofactors and vitamins
+Retinol metabolism	RDH13	Metabolism of cofactors and vitamins
+Retinol metabolism	RDH16	Metabolism of cofactors and vitamins
+Retinol metabolism	SDR16C5	Metabolism of cofactors and vitamins
+Retinol metabolism	HSD17B6	Metabolism of cofactors and vitamins
+Retinol metabolism	LRAT	Metabolism of cofactors and vitamins
+Retinol metabolism	DGAT1	Metabolism of cofactors and vitamins
+Retinol metabolism	AWAT2	Metabolism of cofactors and vitamins
+Retinol metabolism	PNPLA4	Metabolism of cofactors and vitamins
+Retinol metabolism	RPE65	Metabolism of cofactors and vitamins
+Retinol metabolism	RDH5	Metabolism of cofactors and vitamins
+Retinol metabolism	AOX1	Metabolism of cofactors and vitamins
+Retinol metabolism	ALDH1A2	Metabolism of cofactors and vitamins
+Retinol metabolism	ALDH1A1	Metabolism of cofactors and vitamins
+Retinol metabolism	ALDH1A3	Metabolism of cofactors and vitamins
+Retinol metabolism	CYP26A1	Metabolism of cofactors and vitamins
+Retinol metabolism	CYP26B1	Metabolism of cofactors and vitamins
+Retinol metabolism	CYP26C1	Metabolism of cofactors and vitamins
+Retinol metabolism	CYP1A1	Metabolism of cofactors and vitamins
+Retinol metabolism	CYP1A2	Metabolism of cofactors and vitamins
+Retinol metabolism	CYP2A6	Metabolism of cofactors and vitamins
+Retinol metabolism	CYP2A7	Metabolism of cofactors and vitamins
+Retinol metabolism	CYP2B6	Metabolism of cofactors and vitamins
+Retinol metabolism	CYP2C8	Metabolism of cofactors and vitamins
+Retinol metabolism	CYP2C9	Metabolism of cofactors and vitamins
+Retinol metabolism	CYP2C18	Metabolism of cofactors and vitamins
+Retinol metabolism	CYP2S1	Metabolism of cofactors and vitamins
+Retinol metabolism	CYP3A4	Metabolism of cofactors and vitamins
+Retinol metabolism	CYP3A5	Metabolism of cofactors and vitamins
+Retinol metabolism	CYP3A7	Metabolism of cofactors and vitamins
+Retinol metabolism	CYP3A7-CYP3A51P	Metabolism of cofactors and vitamins
+Retinol metabolism	CYP2W1	Metabolism of cofactors and vitamins
+Retinol metabolism	UGT2A1	Metabolism of cofactors and vitamins
+Retinol metabolism	UGT2A3	Metabolism of cofactors and vitamins
+Retinol metabolism	UGT2B17	Metabolism of cofactors and vitamins
+Retinol metabolism	UGT2B11	Metabolism of cofactors and vitamins
+Retinol metabolism	UGT2B28	Metabolism of cofactors and vitamins
+Retinol metabolism	UGT1A6	Metabolism of cofactors and vitamins
+Retinol metabolism	UGT1A4	Metabolism of cofactors and vitamins
+Retinol metabolism	UGT1A1	Metabolism of cofactors and vitamins
+Retinol metabolism	UGT1A3	Metabolism of cofactors and vitamins
+Retinol metabolism	UGT2B10	Metabolism of cofactors and vitamins
+Retinol metabolism	UGT1A9	Metabolism of cofactors and vitamins
+Retinol metabolism	UGT2B7	Metabolism of cofactors and vitamins
+Retinol metabolism	UGT1A10	Metabolism of cofactors and vitamins
+Retinol metabolism	UGT1A8	Metabolism of cofactors and vitamins
+Retinol metabolism	UGT1A5	Metabolism of cofactors and vitamins
+Retinol metabolism	UGT2B15	Metabolism of cofactors and vitamins
+Retinol metabolism	UGT1A7	Metabolism of cofactors and vitamins
+Retinol metabolism	UGT2B4	Metabolism of cofactors and vitamins
+Retinol metabolism	UGT2A2	Metabolism of cofactors and vitamins
+Retinol metabolism	RETSAT	Metabolism of cofactors and vitamins
+Retinol metabolism	CYP27C1	Metabolism of cofactors and vitamins
+Porphyrin metabolism	ALAS1	Metabolism of cofactors and vitamins
+Porphyrin metabolism	ALAS2	Metabolism of cofactors and vitamins
+Porphyrin metabolism	EARS2	Metabolism of cofactors and vitamins
+Porphyrin metabolism	EPRS1	Metabolism of cofactors and vitamins
+Porphyrin metabolism	ALAD	Metabolism of cofactors and vitamins
+Porphyrin metabolism	HMBS	Metabolism of cofactors and vitamins
+Porphyrin metabolism	UROS	Metabolism of cofactors and vitamins
+Porphyrin metabolism	UROD	Metabolism of cofactors and vitamins
+Porphyrin metabolism	CPOX	Metabolism of cofactors and vitamins
+Porphyrin metabolism	PPOX	Metabolism of cofactors and vitamins
+Porphyrin metabolism	FECH	Metabolism of cofactors and vitamins
+Porphyrin metabolism	COX10	Metabolism of cofactors and vitamins
+Porphyrin metabolism	COX15	Metabolism of cofactors and vitamins
+Porphyrin metabolism	MMAB	Metabolism of cofactors and vitamins
+Porphyrin metabolism	HMOX1	Metabolism of cofactors and vitamins
+Porphyrin metabolism	HMOX2	Metabolism of cofactors and vitamins
+Porphyrin metabolism	BLVRA	Metabolism of cofactors and vitamins
+Porphyrin metabolism	BLVRB	Metabolism of cofactors and vitamins
+Porphyrin metabolism	UGT2A1	Metabolism of cofactors and vitamins
+Porphyrin metabolism	UGT2A3	Metabolism of cofactors and vitamins
+Porphyrin metabolism	UGT2B17	Metabolism of cofactors and vitamins
+Porphyrin metabolism	UGT2B11	Metabolism of cofactors and vitamins
+Porphyrin metabolism	UGT2B28	Metabolism of cofactors and vitamins
+Porphyrin metabolism	UGT1A6	Metabolism of cofactors and vitamins
+Porphyrin metabolism	UGT1A4	Metabolism of cofactors and vitamins
+Porphyrin metabolism	UGT1A1	Metabolism of cofactors and vitamins
+Porphyrin metabolism	UGT1A3	Metabolism of cofactors and vitamins
+Porphyrin metabolism	UGT2B10	Metabolism of cofactors and vitamins
+Porphyrin metabolism	UGT1A9	Metabolism of cofactors and vitamins
+Porphyrin metabolism	UGT2B7	Metabolism of cofactors and vitamins
+Porphyrin metabolism	UGT1A10	Metabolism of cofactors and vitamins
+Porphyrin metabolism	UGT1A8	Metabolism of cofactors and vitamins
+Porphyrin metabolism	UGT1A5	Metabolism of cofactors and vitamins
+Porphyrin metabolism	UGT2B15	Metabolism of cofactors and vitamins
+Porphyrin metabolism	UGT1A7	Metabolism of cofactors and vitamins
+Porphyrin metabolism	UGT2B4	Metabolism of cofactors and vitamins
+Porphyrin metabolism	UGT2A2	Metabolism of cofactors and vitamins
+Porphyrin metabolism	GUSB	Metabolism of cofactors and vitamins
+Porphyrin metabolism	HCCS	Metabolism of cofactors and vitamins
+Porphyrin metabolism	CP	Metabolism of cofactors and vitamins
+Porphyrin metabolism	HEPH	Metabolism of cofactors and vitamins
+Porphyrin metabolism	HEPHL1	Metabolism of cofactors and vitamins
+Porphyrin metabolism	FXN	Metabolism of cofactors and vitamins
+Ubiquinone and other terpenoid-quinone biosynthesis	TAT	Metabolism of cofactors and vitamins
+Ubiquinone and other terpenoid-quinone biosynthesis	COQ2	Metabolism of cofactors and vitamins
+Ubiquinone and other terpenoid-quinone biosynthesis	COQ6	Metabolism of cofactors and vitamins
+Ubiquinone and other terpenoid-quinone biosynthesis	COQ3	Metabolism of cofactors and vitamins
+Ubiquinone and other terpenoid-quinone biosynthesis	COQ5	Metabolism of cofactors and vitamins
+Ubiquinone and other terpenoid-quinone biosynthesis	COQ7	Metabolism of cofactors and vitamins
+Ubiquinone and other terpenoid-quinone biosynthesis	NQO1	Metabolism of cofactors and vitamins
+Ubiquinone and other terpenoid-quinone biosynthesis	GGCX	Metabolism of cofactors and vitamins
+Ubiquinone and other terpenoid-quinone biosynthesis	VKORC1	Metabolism of cofactors and vitamins
+Ubiquinone and other terpenoid-quinone biosynthesis	VKORC1L1	Metabolism of cofactors and vitamins
+Ubiquinone and other terpenoid-quinone biosynthesis	HPD	Metabolism of cofactors and vitamins
+Terpenoid backbone biosynthesis	ACAT2	Metabolism of terpenoids and polyketides
+Terpenoid backbone biosynthesis	ACAT1	Metabolism of terpenoids and polyketides
+Terpenoid backbone biosynthesis	HMGCS1	Metabolism of terpenoids and polyketides
+Terpenoid backbone biosynthesis	HMGCS2	Metabolism of terpenoids and polyketides
+Terpenoid backbone biosynthesis	HMGCR	Metabolism of terpenoids and polyketides
+Terpenoid backbone biosynthesis	MVK	Metabolism of terpenoids and polyketides
+Terpenoid backbone biosynthesis	PMVK	Metabolism of terpenoids and polyketides
+Terpenoid backbone biosynthesis	MVD	Metabolism of terpenoids and polyketides
+Terpenoid backbone biosynthesis	IDI1	Metabolism of terpenoids and polyketides
+Terpenoid backbone biosynthesis	IDI2	Metabolism of terpenoids and polyketides
+Terpenoid backbone biosynthesis	FDPS	Metabolism of terpenoids and polyketides
+Terpenoid backbone biosynthesis	GGPS1	Metabolism of terpenoids and polyketides
+Terpenoid backbone biosynthesis	PDSS1	Metabolism of terpenoids and polyketides
+Terpenoid backbone biosynthesis	PDSS2	Metabolism of terpenoids and polyketides
+Terpenoid backbone biosynthesis	DHDDS	Metabolism of terpenoids and polyketides
+Terpenoid backbone biosynthesis	NUS1	Metabolism of terpenoids and polyketides
+Terpenoid backbone biosynthesis	FNTA	Metabolism of terpenoids and polyketides
+Terpenoid backbone biosynthesis	FNTB	Metabolism of terpenoids and polyketides
+Terpenoid backbone biosynthesis	CHURC1-FNTB	Metabolism of terpenoids and polyketides
+Terpenoid backbone biosynthesis	RCE1	Metabolism of terpenoids and polyketides
+Terpenoid backbone biosynthesis	ZMPSTE24	Metabolism of terpenoids and polyketides
+Terpenoid backbone biosynthesis	ICMT	Metabolism of terpenoids and polyketides
+Terpenoid backbone biosynthesis	PCYOX1	Metabolism of terpenoids and polyketides
+Caffeine metabolism	CYP1A2	Biosynthesis of other secondary metabolites
+Caffeine metabolism	NAT2	Biosynthesis of other secondary metabolites
+Caffeine metabolism	NAT1	Biosynthesis of other secondary metabolites
+Caffeine metabolism	CYP2A6	Biosynthesis of other secondary metabolites
+Caffeine metabolism	CYP2A7	Biosynthesis of other secondary metabolites
+Caffeine metabolism	XDH	Biosynthesis of other secondary metabolites
+Neomycin, kanamycin and gentamicin biosynthesis	HK3	Biosynthesis of other secondary metabolites
+Neomycin, kanamycin and gentamicin biosynthesis	HK1	Biosynthesis of other secondary metabolites
+Neomycin, kanamycin and gentamicin biosynthesis	HK2	Biosynthesis of other secondary metabolites
+Neomycin, kanamycin and gentamicin biosynthesis	HKDC1	Biosynthesis of other secondary metabolites
+Neomycin, kanamycin and gentamicin biosynthesis	GCK	Biosynthesis of other secondary metabolites
+Metabolism of xenobiotics by cytochrome P450	CYP1A1	Xenobiotics biodegradation and metabolism
+Metabolism of xenobiotics by cytochrome P450	CYP2C9	Xenobiotics biodegradation and metabolism
+Metabolism of xenobiotics by cytochrome P450	CYP3A4	Xenobiotics biodegradation and metabolism
+Metabolism of xenobiotics by cytochrome P450	CYP1B1	Xenobiotics biodegradation and metabolism
+Metabolism of xenobiotics by cytochrome P450	GSTA5	Xenobiotics biodegradation and metabolism
+Metabolism of xenobiotics by cytochrome P450	GSTA2	Xenobiotics biodegradation and metabolism
+Metabolism of xenobiotics by cytochrome P450	GSTA4	Xenobiotics biodegradation and metabolism
+Metabolism of xenobiotics by cytochrome P450	GSTO2	Xenobiotics biodegradation and metabolism
+Metabolism of xenobiotics by cytochrome P450	GSTM4	Xenobiotics biodegradation and metabolism
+Metabolism of xenobiotics by cytochrome P450	GSTT2	Xenobiotics biodegradation and metabolism
+Metabolism of xenobiotics by cytochrome P450	GSTT1	Xenobiotics biodegradation and metabolism
+Metabolism of xenobiotics by cytochrome P450	GSTM3	Xenobiotics biodegradation and metabolism
+Metabolism of xenobiotics by cytochrome P450	MGST1	Xenobiotics biodegradation and metabolism
+Metabolism of xenobiotics by cytochrome P450	MGST3	Xenobiotics biodegradation and metabolism
+Metabolism of xenobiotics by cytochrome P450	GSTM1	Xenobiotics biodegradation and metabolism
+Metabolism of xenobiotics by cytochrome P450	GSTM5	Xenobiotics biodegradation and metabolism
+Metabolism of xenobiotics by cytochrome P450	MGST2	Xenobiotics biodegradation and metabolism
+Metabolism of xenobiotics by cytochrome P450	GSTA1	Xenobiotics biodegradation and metabolism
+Metabolism of xenobiotics by cytochrome P450	GSTM2	Xenobiotics biodegradation and metabolism
+Metabolism of xenobiotics by cytochrome P450	GSTA3	Xenobiotics biodegradation and metabolism
+Metabolism of xenobiotics by cytochrome P450	GSTO1	Xenobiotics biodegradation and metabolism
+Metabolism of xenobiotics by cytochrome P450	GSTT2B	Xenobiotics biodegradation and metabolism
+Metabolism of xenobiotics by cytochrome P450	GSTP1	Xenobiotics biodegradation and metabolism
+Metabolism of xenobiotics by cytochrome P450	GSTK1	Xenobiotics biodegradation and metabolism
+Metabolism of xenobiotics by cytochrome P450	HPGDS	Xenobiotics biodegradation and metabolism
+Metabolism of xenobiotics by cytochrome P450	EPHX1	Xenobiotics biodegradation and metabolism
+Metabolism of xenobiotics by cytochrome P450	CYP2B6	Xenobiotics biodegradation and metabolism
+Metabolism of xenobiotics by cytochrome P450	SULT2A1	Xenobiotics biodegradation and metabolism
+Metabolism of xenobiotics by cytochrome P450	CYP1A2	Xenobiotics biodegradation and metabolism
+Metabolism of xenobiotics by cytochrome P450	CYP2A6	Xenobiotics biodegradation and metabolism
+Metabolism of xenobiotics by cytochrome P450	CYP2A7	Xenobiotics biodegradation and metabolism
+Metabolism of xenobiotics by cytochrome P450	CYP2E1	Xenobiotics biodegradation and metabolism
+Metabolism of xenobiotics by cytochrome P450	CYP2F1	Xenobiotics biodegradation and metabolism
+Metabolism of xenobiotics by cytochrome P450	CYP2S1	Xenobiotics biodegradation and metabolism
+Metabolism of xenobiotics by cytochrome P450	AKR1C1	Xenobiotics biodegradation and metabolism
+Metabolism of xenobiotics by cytochrome P450	DHDH	Xenobiotics biodegradation and metabolism
+Metabolism of xenobiotics by cytochrome P450	CYP2A13	Xenobiotics biodegradation and metabolism
+Metabolism of xenobiotics by cytochrome P450	CYP2D6	Xenobiotics biodegradation and metabolism
+Metabolism of xenobiotics by cytochrome P450	cytochrome P450 2D6-like [KO:K17712] [EC:1.14.14.1]	Xenobiotics biodegradation and metabolism
+Metabolism of xenobiotics by cytochrome P450	 cytochrome P450 family 2 subfamily D member 7 (gene/pseudogene) [KO:K17712] [EC:1.14.14.1]	Xenobiotics biodegradation and metabolism
+Metabolism of xenobiotics by cytochrome P450	 cytochrome P450 2D6 [KO:K17712] [EC:1.14.14.1]	Xenobiotics biodegradation and metabolism
+Metabolism of xenobiotics by cytochrome P450	 hydroxysteroid 11-beta dehydrogenase 1 [KO:K15680] [EC:1.1.1.146]	Xenobiotics biodegradation and metabolism
+Metabolism of xenobiotics by cytochrome P450	 hydroxysteroid 11-beta dehydrogenase 1 like [KO:K15680] [EC:1.1.1.146]	Xenobiotics biodegradation and metabolism
+Metabolism of xenobiotics by cytochrome P450	 carbonyl reductase 1 [KO:K00079] [EC:1.1.1.184 1.1.1.189 1.1.1.197]	Xenobiotics biodegradation and metabolism
+Metabolism of xenobiotics by cytochrome P450	 carbonyl reductase 3 [KO:K00084] [EC:1.1.1.184]	Xenobiotics biodegradation and metabolism
+Metabolism of xenobiotics by cytochrome P450	 UDP glucuronosyltransferase family 2 member A1 complex locus [KO:K00699] [EC:2.4.1.17]	Xenobiotics biodegradation and metabolism
+Metabolism of xenobiotics by cytochrome P450	 UDP glucuronosyltransferase family 2 member A3 [KO:K00699] [EC:2.4.1.17]	Xenobiotics biodegradation and metabolism
+Metabolism of xenobiotics by cytochrome P450	 UDP glucuronosyltransferase family 2 member B17 [KO:K00699] [EC:2.4.1.17]	Xenobiotics biodegradation and metabolism
+Metabolism of xenobiotics by cytochrome P450	 UDP glucuronosyltransferase family 2 member B11 [KO:K00699] [EC:2.4.1.17]	Xenobiotics biodegradation and metabolism
+Metabolism of xenobiotics by cytochrome P450	 UDP glucuronosyltransferase family 2 member B28 [KO:K00699] [EC:2.4.1.17]	Xenobiotics biodegradation and metabolism
+Metabolism of xenobiotics by cytochrome P450	 UDP glucuronosyltransferase family 1 member A6 [KO:K00699] [EC:2.4.1.17]	Xenobiotics biodegradation and metabolism
+Metabolism of xenobiotics by cytochrome P450	 UDP glucuronosyltransferase family 1 member A4 [KO:K00699] [EC:2.4.1.17]	Xenobiotics biodegradation and metabolism
+Metabolism of xenobiotics by cytochrome P450	 UDP glucuronosyltransferase family 1 member A1 [KO:K00699] [EC:2.4.1.17]	Xenobiotics biodegradation and metabolism
+Metabolism of xenobiotics by cytochrome P450	 UDP glucuronosyltransferase family 1 member A3 [KO:K00699] [EC:2.4.1.17]	Xenobiotics biodegradation and metabolism
+Metabolism of xenobiotics by cytochrome P450	 UDP glucuronosyltransferase family 2 member B10 [KO:K00699] [EC:2.4.1.17]	Xenobiotics biodegradation and metabolism
+Metabolism of xenobiotics by cytochrome P450	 UDP glucuronosyltransferase family 1 member A9 [KO:K00699] [EC:2.4.1.17]	Xenobiotics biodegradation and metabolism
+Metabolism of xenobiotics by cytochrome P450	 UDP glucuronosyltransferase family 2 member B7 [KO:K00699] [EC:2.4.1.17]	Xenobiotics biodegradation and metabolism
+Metabolism of xenobiotics by cytochrome P450	 UDP glucuronosyltransferase family 1 member A10 [KO:K00699] [EC:2.4.1.17]	Xenobiotics biodegradation and metabolism
+Metabolism of xenobiotics by cytochrome P450	 UDP glucuronosyltransferase family 1 member A8 [KO:K00699] [EC:2.4.1.17]	Xenobiotics biodegradation and metabolism
+Metabolism of xenobiotics by cytochrome P450	 UDP glucuronosyltransferase family 1 member A5 [KO:K00699] [EC:2.4.1.17]	Xenobiotics biodegradation and metabolism
+Metabolism of xenobiotics by cytochrome P450	 UDP glucuronosyltransferase family 2 member B15 [KO:K00699] [EC:2.4.1.17]	Xenobiotics biodegradation and metabolism
+Metabolism of xenobiotics by cytochrome P450	 UDP glucuronosyltransferase family 1 member A7 [KO:K00699] [EC:2.4.1.17]	Xenobiotics biodegradation and metabolism
+Metabolism of xenobiotics by cytochrome P450	 UDP glucuronosyltransferase family 2 member B4 [KO:K00699] [EC:2.4.1.17]	Xenobiotics biodegradation and metabolism
+Metabolism of xenobiotics by cytochrome P450	 UDP glucuronosyltransferase family 2 member A2 [KO:K00699] [EC:2.4.1.17]	Xenobiotics biodegradation and metabolism
+Metabolism of xenobiotics by cytochrome P450	 cytochrome P450 family 3 subfamily A member 5 [KO:K17690] [EC:1.14.14.1]	Xenobiotics biodegradation and metabolism
+Metabolism of xenobiotics by cytochrome P450	 aldo-keto reductase family 7 member A2 [KO:K15303]	Xenobiotics biodegradation and metabolism
+Metabolism of xenobiotics by cytochrome P450	 aldo-keto reductase family 7 member A3 [KO:K15303]	Xenobiotics biodegradation and metabolism
+Metabolism of xenobiotics by cytochrome P450	 aldo-keto reductase family 7 like (gene/pseudogene) [KO:K15303]	Xenobiotics biodegradation and metabolism
+Metabolism of xenobiotics by cytochrome P450	 aldehyde dehydrogenase 3 family member B1 [KO:K00129] [EC:1.2.1.5]	Xenobiotics biodegradation and metabolism
+Metabolism of xenobiotics by cytochrome P450	 aldehyde dehydrogenase 3 family member B2 [KO:K00129] [EC:1.2.1.5]	Xenobiotics biodegradation and metabolism
+Metabolism of xenobiotics by cytochrome P450	 aldehyde dehydrogenase 3 family member A1 [KO:K00129] [EC:1.2.1.5]	Xenobiotics biodegradation and metabolism
+Metabolism of xenobiotics by cytochrome P450	 alcohol dehydrogenase 1A (class I), alpha polypeptide [KO:K13951] [EC:1.1.1.1]	Xenobiotics biodegradation and metabolism
+Metabolism of xenobiotics by cytochrome P450	 alcohol dehydrogenase 1B (class I), beta polypeptide [KO:K13951] [EC:1.1.1.1]	Xenobiotics biodegradation and metabolism
+Metabolism of xenobiotics by cytochrome P450	 alcohol dehydrogenase 1C (class I), gamma polypeptide [KO:K13951] [EC:1.1.1.1]	Xenobiotics biodegradation and metabolism
+Metabolism of xenobiotics by cytochrome P450	 alcohol dehydrogenase 7 (class IV), mu or sigma polypeptide [KO:K13951] [EC:1.1.1.1]	Xenobiotics biodegradation and metabolism
+Metabolism of xenobiotics by cytochrome P450	 alcohol dehydrogenase 4 (class II), pi polypeptide [KO:K13980] [EC:1.1.1.1]	Xenobiotics biodegradation and metabolism
+Metabolism of xenobiotics by cytochrome P450	 alcohol dehydrogenase 5 (class III), chi polypeptide [KO:K00121] [EC:1.1.1.284 1.1.1.1]	Xenobiotics biodegradation and metabolism
+Metabolism of xenobiotics by cytochrome P450	 alcohol dehydrogenase 6 (class V) [KO:K13952] [EC:1.1.1.1]	Xenobiotics biodegradation and metabolism
+Drug metabolism - cytochrome P450	CYP2D6	Xenobiotics biodegradation and metabolism
+Drug metabolism - cytochrome P450	cytochrome P450 2D6-like [KO:K17712] [EC:1.14.14.1]	Xenobiotics biodegradation and metabolism
+Drug metabolism - cytochrome P450	 cytochrome P450 family 2 subfamily D member 7 (gene/pseudogene) [KO:K17712] [EC:1.14.14.1]	Xenobiotics biodegradation and metabolism
+Drug metabolism - cytochrome P450	 cytochrome P450 2D6 [KO:K17712] [EC:1.14.14.1]	Xenobiotics biodegradation and metabolism
+Drug metabolism - cytochrome P450	 cytochrome P450 family 2 subfamily C member 9 [KO:K17719] [EC:1.14.14.51 1.14.14.52 1.14.14.53 1.14.14.-]	Xenobiotics biodegradation and metabolism
+Drug metabolism - cytochrome P450	 cytochrome P450 family 3 subfamily A member 4 [KO:K17689] [EC:1.14.13.32 1.14.14.55 1.14.14.56 1.14.14.57 1.14.14.73 1.14.14.-]	Xenobiotics biodegradation and metabolism
+Drug metabolism - cytochrome P450	 flavin containing dimethylaniline monoxygenase 1 [KO:K00485] [EC:1.14.13.8 1.8.1.-]	Xenobiotics biodegradation and metabolism
+Drug metabolism - cytochrome P450	 flavin containing dimethylaniline monoxygenase 2 [KO:K00485] [EC:1.14.13.8 1.8.1.-]	Xenobiotics biodegradation and metabolism
+Drug metabolism - cytochrome P450	 flavin containing dimethylaniline monoxygenase 5 [KO:K00485] [EC:1.14.13.8 1.8.1.-]	Xenobiotics biodegradation and metabolism
+Drug metabolism - cytochrome P450	 flavin containing dimethylaniline monoxygenase 3 [KO:K00485] [EC:1.14.13.8 1.8.1.-]	Xenobiotics biodegradation and metabolism
+Drug metabolism - cytochrome P450	 flavin containing dimethylaniline monoxygenase 4 [KO:K00485] [EC:1.14.13.8 1.8.1.-]	Xenobiotics biodegradation and metabolism
+Drug metabolism - cytochrome P450	 cytochrome P450 family 2 subfamily C member 19 [KO:K17721] [EC:1.14.14.51 1.14.14.52 1.14.14.53 1.14.14.75 1.14.14.-]	Xenobiotics biodegradation and metabolism
+Drug metabolism - cytochrome P450	 cytochrome P450 family 2 subfamily B member 6 [KO:K17709] [EC:1.14.14.-]	Xenobiotics biodegradation and metabolism
+Drug metabolism - cytochrome P450	 cytochrome P450 family 3 subfamily A member 5 [KO:K17690] [EC:1.14.14.1]	Xenobiotics biodegradation and metabolism
+Drug metabolism - cytochrome P450	 glutathione S-transferase alpha 5 [KO:K00799] [EC:2.5.1.18]	Xenobiotics biodegradation and metabolism
+Drug metabolism - cytochrome P450	 glutathione S-transferase alpha 2 [KO:K00799] [EC:2.5.1.18]	Xenobiotics biodegradation and metabolism
+Drug metabolism - cytochrome P450	 glutathione S-transferase alpha 4 [KO:K00799] [EC:2.5.1.18]	Xenobiotics biodegradation and metabolism
+Drug metabolism - cytochrome P450	 glutathione S-transferase omega 2 [KO:K00799] [EC:2.5.1.18]	Xenobiotics biodegradation and metabolism
+Drug metabolism - cytochrome P450	 glutathione S-transferase mu 4 [KO:K00799] [EC:2.5.1.18]	Xenobiotics biodegradation and metabolism
+Drug metabolism - cytochrome P450	 glutathione S-transferase theta 2 (gene/pseudogene) [KO:K00799] [EC:2.5.1.18]	Xenobiotics biodegradation and metabolism
+Drug metabolism - cytochrome P450	 glutathione S-transferase theta 1 [KO:K00799] [EC:2.5.1.18]	Xenobiotics biodegradation and metabolism
+Drug metabolism - cytochrome P450	 glutathione S-transferase mu 3 [KO:K00799] [EC:2.5.1.18]	Xenobiotics biodegradation and metabolism
+Drug metabolism - cytochrome P450	 microsomal glutathione S-transferase 1 [KO:K00799] [EC:2.5.1.18]	Xenobiotics biodegradation and metabolism
+Drug metabolism - cytochrome P450	 microsomal glutathione S-transferase 3 [KO:K00799] [EC:2.5.1.18]	Xenobiotics biodegradation and metabolism
+Drug metabolism - cytochrome P450	 glutathione S-transferase mu 1 [KO:K00799] [EC:2.5.1.18]	Xenobiotics biodegradation and metabolism
+Drug metabolism - cytochrome P450	 glutathione S-transferase mu 5 [KO:K00799] [EC:2.5.1.18]	Xenobiotics biodegradation and metabolism
+Drug metabolism - cytochrome P450	 microsomal glutathione S-transferase 2 [KO:K00799] [EC:2.5.1.18]	Xenobiotics biodegradation and metabolism
+Drug metabolism - cytochrome P450	 glutathione S-transferase alpha 1 [KO:K00799] [EC:2.5.1.18]	Xenobiotics biodegradation and metabolism
+Drug metabolism - cytochrome P450	 glutathione S-transferase mu 2 [KO:K00799] [EC:2.5.1.18]	Xenobiotics biodegradation and metabolism
+Drug metabolism - cytochrome P450	 glutathione S-transferase alpha 3 [KO:K00799] [EC:2.5.1.18]	Xenobiotics biodegradation and metabolism
+Drug metabolism - cytochrome P450	 glutathione S-transferase omega 1 [KO:K00799] [EC:2.5.1.18]	Xenobiotics biodegradation and metabolism
+Drug metabolism - cytochrome P450	 glutathione S-transferase theta 2B [KO:K00799] [EC:2.5.1.18]	Xenobiotics biodegradation and metabolism
+Drug metabolism - cytochrome P450	 glutathione S-transferase pi 1 [KO:K23790] [EC:2.5.1.18]	Xenobiotics biodegradation and metabolism
+Drug metabolism - cytochrome P450	 glutathione S-transferase kappa 1 [KO:K13299] [EC:2.5.1.18]	Xenobiotics biodegradation and metabolism
+Drug metabolism - cytochrome P450	 hematopoietic prostaglandin D synthase [KO:K04097] [EC:5.3.99.2 2.5.1.18]	Xenobiotics biodegradation and metabolism
+Drug metabolism - cytochrome P450	 alcohol dehydrogenase 1A (class I), alpha polypeptide [KO:K13951] [EC:1.1.1.1]	Xenobiotics biodegradation and metabolism
+Drug metabolism - cytochrome P450	 alcohol dehydrogenase 1B (class I), beta polypeptide [KO:K13951] [EC:1.1.1.1]	Xenobiotics biodegradation and metabolism
+Drug metabolism - cytochrome P450	 alcohol dehydrogenase 1C (class I), gamma polypeptide [KO:K13951] [EC:1.1.1.1]	Xenobiotics biodegradation and metabolism
+Drug metabolism - cytochrome P450	 alcohol dehydrogenase 7 (class IV), mu or sigma polypeptide [KO:K13951] [EC:1.1.1.1]	Xenobiotics biodegradation and metabolism
+Drug metabolism - cytochrome P450	 alcohol dehydrogenase 4 (class II), pi polypeptide [KO:K13980] [EC:1.1.1.1]	Xenobiotics biodegradation and metabolism
+Drug metabolism - cytochrome P450	 alcohol dehydrogenase 5 (class III), chi polypeptide [KO:K00121] [EC:1.1.1.284 1.1.1.1]	Xenobiotics biodegradation and metabolism
+Drug metabolism - cytochrome P450	 alcohol dehydrogenase 6 (class V) [KO:K13952] [EC:1.1.1.1]	Xenobiotics biodegradation and metabolism
+Drug metabolism - cytochrome P450	 aldehyde dehydrogenase 3 family member B1 [KO:K00129] [EC:1.2.1.5]	Xenobiotics biodegradation and metabolism
+Drug metabolism - cytochrome P450	 aldehyde dehydrogenase 3 family member B2 [KO:K00129] [EC:1.2.1.5]	Xenobiotics biodegradation and metabolism
+Drug metabolism - cytochrome P450	 aldehyde dehydrogenase 3 family member A1 [KO:K00129] [EC:1.2.1.5]	Xenobiotics biodegradation and metabolism
+Drug metabolism - cytochrome P450	 monoamine oxidase B [KO:K00274] [EC:1.4.3.4]	Xenobiotics biodegradation and metabolism
+Drug metabolism - cytochrome P450	 monoamine oxidase A [KO:K00274] [EC:1.4.3.4]	Xenobiotics biodegradation and metabolism
+Drug metabolism - cytochrome P450	 aldehyde oxidase 1 [KO:K00157] [EC:1.2.3.1]	Xenobiotics biodegradation and metabolism
+Drug metabolism - cytochrome P450	 UDP glucuronosyltransferase family 2 member A1 complex locus [KO:K00699] [EC:2.4.1.17]	Xenobiotics biodegradation and metabolism
+Drug metabolism - cytochrome P450	 UDP glucuronosyltransferase family 2 member A3 [KO:K00699] [EC:2.4.1.17]	Xenobiotics biodegradation and metabolism
+Drug metabolism - cytochrome P450	 UDP glucuronosyltransferase family 2 member B17 [KO:K00699] [EC:2.4.1.17]	Xenobiotics biodegradation and metabolism
+Drug metabolism - cytochrome P450	 UDP glucuronosyltransferase family 2 member B11 [KO:K00699] [EC:2.4.1.17]	Xenobiotics biodegradation and metabolism
+Drug metabolism - cytochrome P450	 UDP glucuronosyltransferase family 2 member B28 [KO:K00699] [EC:2.4.1.17]	Xenobiotics biodegradation and metabolism
+Drug metabolism - cytochrome P450	 UDP glucuronosyltransferase family 1 member A6 [KO:K00699] [EC:2.4.1.17]	Xenobiotics biodegradation and metabolism
+Drug metabolism - cytochrome P450	 UDP glucuronosyltransferase family 1 member A4 [KO:K00699] [EC:2.4.1.17]	Xenobiotics biodegradation and metabolism
+Drug metabolism - cytochrome P450	 UDP glucuronosyltransferase family 1 member A1 [KO:K00699] [EC:2.4.1.17]	Xenobiotics biodegradation and metabolism
+Drug metabolism - cytochrome P450	 UDP glucuronosyltransferase family 1 member A3 [KO:K00699] [EC:2.4.1.17]	Xenobiotics biodegradation and metabolism
+Drug metabolism - cytochrome P450	 UDP glucuronosyltransferase family 2 member B10 [KO:K00699] [EC:2.4.1.17]	Xenobiotics biodegradation and metabolism
+Drug metabolism - cytochrome P450	 UDP glucuronosyltransferase family 1 member A9 [KO:K00699] [EC:2.4.1.17]	Xenobiotics biodegradation and metabolism
+Drug metabolism - cytochrome P450	 UDP glucuronosyltransferase family 2 member B7 [KO:K00699] [EC:2.4.1.17]	Xenobiotics biodegradation and metabolism
+Drug metabolism - cytochrome P450	 UDP glucuronosyltransferase family 1 member A10 [KO:K00699] [EC:2.4.1.17]	Xenobiotics biodegradation and metabolism
+Drug metabolism - cytochrome P450	 UDP glucuronosyltransferase family 1 member A8 [KO:K00699] [EC:2.4.1.17]	Xenobiotics biodegradation and metabolism
+Drug metabolism - cytochrome P450	 UDP glucuronosyltransferase family 1 member A5 [KO:K00699] [EC:2.4.1.17]	Xenobiotics biodegradation and metabolism
+Drug metabolism - cytochrome P450	 UDP glucuronosyltransferase family 2 member B15 [KO:K00699] [EC:2.4.1.17]	Xenobiotics biodegradation and metabolism
+Drug metabolism - cytochrome P450	 UDP glucuronosyltransferase family 1 member A7 [KO:K00699] [EC:2.4.1.17]	Xenobiotics biodegradation and metabolism
+Drug metabolism - cytochrome P450	 UDP glucuronosyltransferase family 2 member B4 [KO:K00699] [EC:2.4.1.17]	Xenobiotics biodegradation and metabolism
+Drug metabolism - cytochrome P450	 UDP glucuronosyltransferase family 2 member A2 [KO:K00699] [EC:2.4.1.17]	Xenobiotics biodegradation and metabolism
+Drug metabolism - cytochrome P450	 cytochrome P450 family 1 subfamily A member 2 [KO:K07409] [EC:1.14.14.1]	Xenobiotics biodegradation and metabolism
+Drug metabolism - cytochrome P450	 cytochrome P450 family 2 subfamily E member 1 [KO:K07415] [EC:1.14.14.-]	Xenobiotics biodegradation and metabolism
+Drug metabolism - cytochrome P450	 cytochrome P450 family 2 subfamily C member 8 [KO:K17718] [EC:1.14.14.1]	Xenobiotics biodegradation and metabolism
+Drug metabolism - cytochrome P450	 cytochrome P450 family 2 subfamily A member 6 [KO:K17683] [EC:1.14.14.-]	Xenobiotics biodegradation and metabolism
+Drug metabolism - cytochrome P450	 cytochrome P450 family 2 subfamily A member 7 [KO:K17683] [EC:1.14.14.-]	Xenobiotics biodegradation and metabolism
+Drug metabolism - other enzymes	HPRT1	Xenobiotics biodegradation and metabolism
+Drug metabolism - other enzymes	IMPDH1	Xenobiotics biodegradation and metabolism
+Drug metabolism - other enzymes	IMPDH2	Xenobiotics biodegradation and metabolism
+Drug metabolism - other enzymes	GMPS	Xenobiotics biodegradation and metabolism
+Drug metabolism - other enzymes	TPMT	Xenobiotics biodegradation and metabolism
+Drug metabolism - other enzymes	XDH	Xenobiotics biodegradation and metabolism
+Drug metabolism - other enzymes	ITPA	Xenobiotics biodegradation and metabolism
+Drug metabolism - other enzymes	CES1	Xenobiotics biodegradation and metabolism
+Drug metabolism - other enzymes	CES2	Xenobiotics biodegradation and metabolism
+Drug metabolism - other enzymes	UGT2A1	Xenobiotics biodegradation and metabolism
+Drug metabolism - other enzymes	UGT2A3	Xenobiotics biodegradation and metabolism
+Drug metabolism - other enzymes	UGT2B17	Xenobiotics biodegradation and metabolism
+Drug metabolism - other enzymes	UGT2B11	Xenobiotics biodegradation and metabolism
+Drug metabolism - other enzymes	UGT2B28	Xenobiotics biodegradation and metabolism
+Drug metabolism - other enzymes	UGT1A6	Xenobiotics biodegradation and metabolism
+Drug metabolism - other enzymes	UGT1A4	Xenobiotics biodegradation and metabolism
+Drug metabolism - other enzymes	UGT1A1	Xenobiotics biodegradation and metabolism
+Drug metabolism - other enzymes	UGT1A3	Xenobiotics biodegradation and metabolism
+Drug metabolism - other enzymes	UGT2B10	Xenobiotics biodegradation and metabolism
+Drug metabolism - other enzymes	UGT1A9	Xenobiotics biodegradation and metabolism
+Drug metabolism - other enzymes	UGT2B7	Xenobiotics biodegradation and metabolism
+Drug metabolism - other enzymes	UGT1A10	Xenobiotics biodegradation and metabolism
+Drug metabolism - other enzymes	UGT1A8	Xenobiotics biodegradation and metabolism
+Drug metabolism - other enzymes	UGT1A5	Xenobiotics biodegradation and metabolism
+Drug metabolism - other enzymes	UGT2B15	Xenobiotics biodegradation and metabolism
+Drug metabolism - other enzymes	UGT1A7	Xenobiotics biodegradation and metabolism
+Drug metabolism - other enzymes	UGT2B4	Xenobiotics biodegradation and metabolism
+Drug metabolism - other enzymes	UGT2A2	Xenobiotics biodegradation and metabolism
+Drug metabolism - other enzymes	GUSB	Xenobiotics biodegradation and metabolism
+Drug metabolism - other enzymes	CYP3A4	Xenobiotics biodegradation and metabolism
+Drug metabolism - other enzymes	CDA	Xenobiotics biodegradation and metabolism
+Drug metabolism - other enzymes	TYMP	Xenobiotics biodegradation and metabolism
+Drug metabolism - other enzymes	DPYD	Xenobiotics biodegradation and metabolism
+Drug metabolism - other enzymes	DPYS	Xenobiotics biodegradation and metabolism
+Drug metabolism - other enzymes	UPB1	Xenobiotics biodegradation and metabolism
+Drug metabolism - other enzymes	CYP2A6	Xenobiotics biodegradation and metabolism
+Drug metabolism - other enzymes	CYP2A7	Xenobiotics biodegradation and metabolism
+Drug metabolism - other enzymes	UPP2	Xenobiotics biodegradation and metabolism
+Drug metabolism - other enzymes	UPP1	Xenobiotics biodegradation and metabolism
+Drug metabolism - other enzymes	UCK1	Xenobiotics biodegradation and metabolism
+Drug metabolism - other enzymes	UCK2	Xenobiotics biodegradation and metabolism
+Drug metabolism - other enzymes	UCKL1	Xenobiotics biodegradation and metabolism
+Drug metabolism - other enzymes	TK2	Xenobiotics biodegradation and metabolism
+Drug metabolism - other enzymes	TK1	Xenobiotics biodegradation and metabolism
+Drug metabolism - other enzymes	UMPS	Xenobiotics biodegradation and metabolism
+Drug metabolism - other enzymes	CMPK1	Xenobiotics biodegradation and metabolism
+Drug metabolism - other enzymes	RRM1	Xenobiotics biodegradation and metabolism
+Drug metabolism - other enzymes	RRM2B	Xenobiotics biodegradation and metabolism
+Drug metabolism - other enzymes	RRM2	Xenobiotics biodegradation and metabolism
+Drug metabolism - other enzymes	NME6	Xenobiotics biodegradation and metabolism
+Drug metabolism - other enzymes	NME7	Xenobiotics biodegradation and metabolism
+Drug metabolism - other enzymes	NME2	Xenobiotics biodegradation and metabolism
+Drug metabolism - other enzymes	NME4	Xenobiotics biodegradation and metabolism
+Drug metabolism - other enzymes	NME1	Xenobiotics biodegradation and metabolism
+Drug metabolism - other enzymes	NME3	Xenobiotics biodegradation and metabolism
+Drug metabolism - other enzymes	NME1-NME2	Xenobiotics biodegradation and metabolism
+Drug metabolism - other enzymes	DUT	Xenobiotics biodegradation and metabolism
+Drug metabolism - other enzymes	MPO	Xenobiotics biodegradation and metabolism
+Drug metabolism - other enzymes	NAT2	Xenobiotics biodegradation and metabolism
+Drug metabolism - other enzymes	NAT1	Xenobiotics biodegradation and metabolism
+Drug metabolism - other enzymes	CYP2E1	Xenobiotics biodegradation and metabolism
+Drug metabolism - other enzymes	GSTA5	Xenobiotics biodegradation and metabolism
+Drug metabolism - other enzymes	GSTA2	Xenobiotics biodegradation and metabolism
+Drug metabolism - other enzymes	GSTA4	Xenobiotics biodegradation and metabolism
+Drug metabolism - other enzymes	GSTO2	Xenobiotics biodegradation and metabolism
+Drug metabolism - other enzymes	GSTM4	Xenobiotics biodegradation and metabolism
+Drug metabolism - other enzymes	GSTT2	Xenobiotics biodegradation and metabolism
+Drug metabolism - other enzymes	GSTT1	Xenobiotics biodegradation and metabolism
+Drug metabolism - other enzymes	GSTM3	Xenobiotics biodegradation and metabolism
+Drug metabolism - other enzymes	MGST1	Xenobiotics biodegradation and metabolism
+Drug metabolism - other enzymes	MGST3	Xenobiotics biodegradation and metabolism
+Drug metabolism - other enzymes	GSTM1	Xenobiotics biodegradation and metabolism
+Drug metabolism - other enzymes	GSTM5	Xenobiotics biodegradation and metabolism
+Drug metabolism - other enzymes	MGST2	Xenobiotics biodegradation and metabolism
+Drug metabolism - other enzymes	GSTA1	Xenobiotics biodegradation and metabolism
+Drug metabolism - other enzymes	GSTM2	Xenobiotics biodegradation and metabolism
+Drug metabolism - other enzymes	GSTA3	Xenobiotics biodegradation and metabolism
+Drug metabolism - other enzymes	GSTO1	Xenobiotics biodegradation and metabolism
+Drug metabolism - other enzymes	GSTT2B	Xenobiotics biodegradation and metabolism
+Drug metabolism - other enzymes	GSTP1	Xenobiotics biodegradation and metabolism
