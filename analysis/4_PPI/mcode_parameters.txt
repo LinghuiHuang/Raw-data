@@ -1,0 +1,18 @@
+MCODE App Results
+Date: 2023年9月18日 下午7:17:39
+
+Parameters:
+   Network Scoring:
+      Include Loops: false  Degree Cutoff: 2
+   Cluster Finding:
+      Node Score Cutoff: 0.2  Haircut: true  Fluff: false  K-Core: 2  Max. Depth from Seed: 100
+
+Cluster	Score (Density*#Nodes)	Nodes	Edges	Node IDs
+1	7.333	16	55	TCN1, PGLYRP1, CEACAM8, OLFM4, H2BC9, H2BC5, MMP8, BPI, H2BS1, H2AC18, CRISP3, MAPK14, H4C6, LTF, CD177, H2AC7
+2	4.667	19	42	SLC2A3, TNFAIP6, S100A9, CD63, HK3, S100A12, PFKFB3, PTX3, SLPI, PFKFB2, CD59, ORM1, ANXA3, LCN2, PYGL, CD24, HP, RNASE2, ANXA1
+3	4	4	6	NLRC4, NAIP, AIM2, TLR5
+4	4	4	6	BST1, ALPL, VNN2, VNN1
+5	3.333	4	5	UGCG, SPTLC2, ACER3, B4GALT5
+6	3	3	3	JAK2, MMP9, ARG1
+7	3	3	3	FCGR1B, FCGR1A, ANKRD22
+8	3	3	3	GPAT3, ACSL1, ACSL4
